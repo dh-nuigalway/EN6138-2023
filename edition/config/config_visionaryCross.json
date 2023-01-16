@@ -1,9 +1,9 @@
 {
-   "indexTitle": "",
+   "indexTitle": "The Ruthwell Cross",
    "webSite": "",
    "logoUrl": "",
 
-   "dataUrl": "data/text/VB-DOTR.xml",
+   "dataUrl": "data/text/RC.xml",
    "sourcesUrl"       : "",
    "analoguesUrl"     : "",
    "sourcesTextsUrl" : "",
@@ -15,7 +15,7 @@
    "visCollImageList": "",
    "visCollDataModel": "",
 
-   "defaultViewMode": "txtTxt",
+   "defaultViewMode": "tdhop",
    "availableViewModes": [
       {
          "label": "READING_TEXT",
@@ -39,7 +39,7 @@
          "label": "TEXT_TEXT",
          "icon": "mode-txtTxt",
          "viewMode": "txtTxt",
-         "visible": true
+         "visible": false
       },
       {
          "label": "COLLATION",
@@ -61,33 +61,33 @@
      }
    ],
 
-   "defaultEdition": "diplomatic",
-   "showEditionLevelSelector": true,
+   "defaultEdition": "critical",
+   "showEditionLevelSelector": false,
    "availableEditionLevel": [
       {
          "value": "critical",
          "label": "Critical",
          "title": "Critical edition",
-         "visible": false
+         "visible": true
       },
       {
          "value": "diplomatic",
          "label": "Diplomatic",
          "title": "Diplomatic edition",
-         "visible": true
+         "visible": false
       },
       {
          "value": "interpretative",
          "label": "Interpretative",
          "title": "Interpretative edition",
-         "visible": true
+         "visible": false
       }
    ],
 
-   "showDocumentSelector": true,
+   "showDocumentSelector": false,
    "enableNavBar": false,
-   "initNavBarOpened": true,
-   "thumbnailsButton": true,
+   "initNavBarOpened": false,
+   "thumbnailsButton": false,
    "viscollButton": false,
 
    "toolPinAppEntries": true,
@@ -132,12 +132,12 @@
 
    "witnessesGroups": [],
 
-   "showInlineCriticalApparatus": false,
+   "showInlineCriticalApparatus": true,
    "showInlineSources": false,
    "showInlineAnalogues": false,
    "showReadingExponent": true,
 
-   "toolHeatMap": true,
+   "toolHeatMap": false,
 
    "versions": [],
 
@@ -151,7 +151,6 @@
 
    "possibleVariantFilters": "",
    "possibleLemmaFilters": "resp",
-
 
    "variantColorLight": "",
    "variantColorDark": "",
@@ -231,132 +230,9 @@
       "toolLightController": true,
 
       "Model_1": {
-         "name": "Bewcastle",
-         "path": "data/models/multires/bewcastle.nxz",
-         "mesh": "Bewcastle"
-      },
-
-      "Model_2": {
          "name": "Ruthwell",
-         "path": "data/models/singleres/cross.ply",
+         "path": "data/models/multires/RC.nxz",
          "mesh": "Ruthwell"
-      },
-
-      "Hotspots": {
-         "type": "Sphere",
-         "path": "data/models/singleres/sphere.ply",
-         "model": "bewcastle.nxz",
-         "hotspotsdata": [
-            {
-               "name": 100,
-               "type": "point",
-               "position": [
-                  181.08,
-                  4026.27,
-                  -118.52
-               ],
-               "radius": "100",
-               "view": [
-                  0,
-                  0,
-                  293.310302734375,
-                  1979.6796875,
-                  -262.52020263671875,
-                  8614.720045911034
-               ]
-            },
-            {
-               "name": 101,
-               "type": "point",
-               "position": [
-                  351.3,
-                  3381.01,
-                  -93.12
-               ],
-               "radius": "100",
-               "view": [
-                  42.97183463481176,
-                  2.406422739549458,
-                  293.310302734375,
-                  1979.6796875,
-                  -262.52020263671875,
-                  8614.720045911034
-               ]
-            },
-            {
-               "name": 102,
-               "type": "point",
-               "position": [
-                  411.21,
-                  2797.47,
-                  -131.72
-               ],
-               "radius": "150",
-               "view": [
-                  72.88023154064075,
-                  5.500394833255906,
-                  293.310302734375,
-                  1979.6796875,
-                  -262.52020263671875,
-                  6977.923237187937
-               ]
-            },
-            {
-               "name": 103,
-               "type": "point",
-               "position": [
-                  442.61,
-                  2037.13,
-                  -364.52
-               ],
-               "radius": "500",
-               "view": [
-                  99.46547323471097,
-                  6.4171273054652245,
-                  293.310302734375,
-                  1979.6796875,
-                  -262.52020263671875,
-                  1773.6944629310901
-               ]
-            },
-            {
-               "name": 104,
-               "type": "point",
-               "position": [
-                  507.25,
-                  854.58,
-                  -452.85
-               ],
-               "radius": "50",
-               "view": [
-                  141.9789416334178,
-                  17.761691649055525,
-                  293.310302734375,
-                  1979.6796875,
-                  -262.52020263671875,
-                  15723.374677588283
-               ]
-            },
-            {
-               "name": 105,
-               "type": "point",
-               "position": [
-                  168.29,
-                  48.94,
-                  -575.27
-               ],
-               "radius": "150",
-               "view": [
-                  179.56497299399933,
-                  54.66017365548057,
-                  293.310302734375,
-                  1979.6796875,
-                  -262.52020263671875,
-                  6091.557506321472
-               ]
-            }
-         ],
-         "nextID": 106
       }
    }
 }

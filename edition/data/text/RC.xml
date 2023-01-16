@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Ruthwell Cross</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Published as an example of 3DHOP - EVT integration, but actually a part of the Visionary Cross
+          project (<ref target="https://zenodo.org/communities/visionarycrossproject/">https://zenodo.org/communities/visionarycrossproject/</ref>).</p>
+      </publicationStmt>
+      <sourceDesc>
+        
+        <listObject type="main" xml:id="RC_lo_main">
+          <object xml:id="RuthwellCross">
+            <objectIdentifier>
+              <objectName>Ruthwell Cross</objectName>
+              <!--<country>United Kingdom</country>
+                     <region>Dumfriesshire (Scotland)</region>
+                     <settlement>Ruthwell</settlement>-->
+              <institution>Historic Environment Scotland</institution>
+              <idno type="HES">https://www.historicenvironment.scot/visit-a-place/places/ruthwell-cross</idno>
+              <idno type="canmore">https://canmore.org.uk/site/66586/ruthwell-cross</idno>
+              <idno type="wikipedia">https://en.wikipedia.org/wiki/Ruthwell_Cross</idno>
+              <address>
+                <street>---</street>
+                <district>Dumfries and Galloway, Scotland, DG1 4NP</district>
+                <settlement>Ruthwell</settlement>
+                <country>United Kingdom</country>
+                <location>
+                  <geo>55.000361, 3.4075</geo>
+                </location>
+              </address>
+            </objectIdentifier>
+            <physDesc>
+              <p>The Ruthwell Cross is a 17 foot high stone cross in Ruthwell (Dumfriesshire, Scotland).</p>
+            </physDesc>
+            <history>
+              <origin>The Ruthwell Cross was erected in the <origDate>eighth century</origDate> at a former military
+                site (later probably a monastery) in Ruthwell (Dumfriesshire, Scotland) when the village was part of the
+                Anglo-Saxon <origPlace>Kingdom of Northumbria</origPlace>. It was pulled down and broken in the
+                seventeenth century and partially reconstructed in the nineteenth. It is now located in a small apse on
+                the north side of the Ruthwell parish church. The cross is perhaps best known for a runic inscription
+                that may represent the oldest known record of an Anglo-Saxon vernacular poem, versions of which can be
+                found in the tenth-century Vercelli Book and eleventh-century Brussels Cross (see Ó Carragáin 2005,
+                58-60; O'Donnell 1996, 287-288).</origin>
+            </history>
+
+            <additional>
+              <surrogates>
+                <ref target="http://vcg.isti.cnr.it/cross/">Experimental viewer</ref>
+                <ref target="https://zenodo.org/record/232415">Complete scan raw photograply [Zenodo]</ref>
+                <ref target="https://zenodo.org/record/1490878">High resolution 3D model [Zenodo]</ref>
+                <ref target="#Collingwood1927">Collingwood's drawings</ref>
+              </surrogates>
+            </additional>
+
+          </object>
+
+          <listObject subtype="south_side" type="3D_Desc" xml:id="RC_lo_south_side">
+
+            <head type="main">East Face (now South Face)</head>
+
+            <object type="panel">
+              <objectIdentifier>
+                <objectName>John the Evangelist with his symbol</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The Evangelist and his symbol, the eagle, face each other. Their pose, as well as the large size of
+                  the eagle in comparison to the evangelist, is intended to convey the divine inspiration passed to the
+                  human evangelist through his symbol. John appears to be seated. He reaches out towards his symbol with
+                  his left hand, which possibly supports a scroll or book. Traces of an inscription survive. The letters
+                  INP run upwards within the left border of the panel, while the letters BVM run downwards in the lower
+                  corner of the right border. They can most likely be reconstructed as the beginning and end of the
+                  Latin phrase ‘In principio erat verbum’ (In the beginning was the word), the opening line of John’s
+                  gospel.</p>
+                <p>This panel originally faced the other way, capping the west face of the Cross. It was placed back to
+                  front when the cross was reconstructed by the Rev Henry Duncan in 1823.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object type="transom">
+              <objectIdentifier>
+                <objectName>Transom</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The transom has never been found. The current stone is the work of the mason commissioned by Duncan
+                  to reconstruct the cross in 1823. The carvings are masonic symbols and were supplied by Duncan, a keen
+                  freemason: a triangle at the centre, flanked by a whale or dolphin to the left and a dragon to the
+                  right.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object type="panel">
+              <objectIdentifier>
+                <objectName>The Archer</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The lower arm of the cross-head contains an archer drawing back his bow, possibly firing an arrow at
+                  the eagle originally positioned at the top of this face of the cross (see west face). A square pouch
+                  hangs from a strap below his right arm. It may be meant to represent a quiver, though it has also been
+                  suggested that it is a book satchel and that the archer should be understood as firing arrows of
+                  scripture. The archer’s cloak flies out behind him emphasizing his dynamic pose and the force of his
+                  movement. The panel may relate to the words of the poem inscribed on the left border of the south
+                  face, where the cross describes itself as ‘wounded with arrows’.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object type="panel">
+              <objectIdentifier>
+                <objectName>The Visitation / Martha and Mary</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>There is some debate over the subject of this panel. Some scholars believe that it depicts the
+                  Visitation (Luke 1:30–56), the moment at which Elizabeth (pregnant with John the Baptist) and Mary
+                  (pregnant with the Christ child) embrace, and the Baptist leaps for joy in recognition of Christ’s
+                  divinity. Other scholars believe it represents the biblical sisters Martha and Mary (Luke 10:38–42),
+                  symbols of the active and contemplative sides of monastic life. Still others believe that it is a
+                  deliberate conflation of the two subjects. The concrete blocks and lower fragments of the panel were
+                  added by Duncan during his restoration of the cross. The difference in scale between the hemlines and
+                  feet in the lower section and the proportions and drapery of the torsos in the upper section may
+                  indicate that the block with the feet does not belong here and is, perhaps, part of a now lost
+                  monument. Unlike the other figures on this side of the cross, the women wear sturdy shoes or
+                  slippers.</p>
+                <p>The inscription is unique on the monument for its combination of Latin and runic letters. It reads
+                  […] marþ[a] (left border); mar[ia] m[…]r + (top border); dominnæ c[…] (right border). The words have
+                  been translated as either ‘Martha and Mary worthy women’, or, more problematically, ‘Martha and Mary,
+                  mother of the Lord’.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object type="panel">
+              <objectIdentifier>
+                <objectName>Mary Magdalene at the feet of Christ</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>This panel depicts Mary Magdalene washing Christ’s feet with her tears and drying them with her hair
+                  (Luke 7:37–8). The Magdalene’s massive hand and extended arm may have been meant to emphasize her
+                  gesture, and hence her penitence, or they may simply be the work of a second-rate carver. Christ
+                  stands above the Magdalene holding up a book in his covered left hand. His right hand was originally
+                  raised in blessing. His pose echoes that seen in the Christ over the beasts panel on the opposite face
+                  of the cross. The facial features of both figures have been hacked or worn away.</p>
+                <p>The Latin inscription surrounding the panel reads: + A[TT]V[LIT] [ALA]B[A]S (across the top); TRVM ·
+                  V[NGUE]NTI · &amp; S[T]AN[S] [R]E[TR]O SECVS PEDES (down the right side); · EIUS LACRIMIS · COEPIT
+                  RIGARE · PEDES EIUS &amp; CAPILLIS (down the left side) · CAPITIS SUI TERGEBAT (across the bottom).
+                  Translation: ‘+ She took an alabaster jar of ointment, and standing behind at his feet, she began to
+                  wash his feet with her tears and dried them with the hair of her head’.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object type="panel">
+              <objectIdentifier>
+                <objectName>Healing of the man born blind</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>Christ, on the left, extends his hand towards the man blind from birth (John 9:1–8) on the right. A
+                  thin diagonal line incised in the background of the panel indicates that Christ’s right hand may
+                  originally have held a wand with which to anoint the blind man’s eyes. While the blind man has been
+                  carved in profile, Christ’s body and face are turned slightly outwards, allowing us a better view of
+                  the miracle. The lower part of the panel may have been left blank by the sculptor for reasons unknown,
+                  or may have contained an inscription that was destroyed at a later date. The extension of the robes of
+                  the two figures over the border of the blank section of the panel is part of Duncan’s restoration.</p>
+                <p>The Latin inscription in the border reads: + ET PRAETERIENS · VIDI[T] (down the left side) {HOMINEM
+                  CAECVM} A NATIBITATE · ET S{ANAVIT EVM} (down the right side). Translation: ‘+ And passing by he saw a
+                  {man blind} from birth and {healed him}’.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object type="panel">
+              <objectIdentifier>
+                <objectName>The Annunciation (Luke 1:28)</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The archangel Gabriel seems to be entering at the left of the panel from a space outside the cross.
+                  The lower part of his robe flutters behind him, and both it and his right foot appear to overlap the
+                  panel’s left border. On the right, the Virgin Mary, facing out at us, holds on to her robe with her
+                  right hand as she shrinks slightly away from the angel in humility. Both figures are tall, elegant and
+                  finely carved, making this one of the most classicizing of the cross’s panels. The hole in the centre
+                  of the panel may be a relic cavity (perhaps for a relic of the True Cross), or it may have been made
+                  at some point during the toppling of the cross, or during its restoration and reconstruction.</p>
+                <p>All that remains of the inscription in the border are the letters ‘+ INGRESSVS ANG’ (across the top
+                  border), and ‘TE […] BE (down the left border). It has been reconstructed as ‘Ingressus angelus ad eam
+                  dixit ave gratia plena dominus tecum benedicta tu in mulieribus’ (Entering the angel said to her:
+                  “Hail full of grace, the Lord is with you; blessed are you among women”.)</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object type="base">
+              <objectIdentifier>
+                <objectName>Crucifixion</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>Crucifixion: The base of the cross may originally have been sunk in the ground and this carving added
+                  to it when the cross was raised and moved to a new location. It is carved in a 9th-century style, so
+                  is clearly later than the rest of the carvings on the cross. At the centre is the crucified Christ,
+                  his head drooping to the right. Discs representing the sun and the moon are carved either side of the
+                  top of his cross. The figures standing below the cross to either side of Christ may be the Virgin Mary
+                  and John the Evangelist, who witnessed the Crucifixion, or they may be Longinus and Stephaton, the
+                  spear- and sponge-bearer.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+          </listObject>
+
+          <listObject subtype="east_side" type="3D_Desc" xml:id="RC_lo_east_side">
+
+            <head>North Face (now East Face)</head>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Cross-head</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>There is no carving on this side of the cross-head. The transom is lost and the present stone was
+                  added during reconstruction so it is impossible to say whether anything might originally have been
+                  carved on the ends of the cross-arms.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Top stone</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>This section has been restored by Duncan with mortar and cement block in-fill. Two fragments of the
+                  original shaft remain. The inhabited vine-scroll of the upper fragment contains a bird and beast that
+                  nibble at its fruit. The inhabited vine-scroll is symbolic of both the tree-of-life and of the
+                  faithful partaking of the eucharist. Any inscription that might have surrounded the panel has been
+                  worn away. The lower fragment contains a small section of vine-scroll with a curling flower and leaf.
+                  A fragmentary inscription runs vertically down the border in contrast to the horizontal rows of runic
+                  characters inscribed on the main shaft. It reads ‘dægisgæf[.], and has never been convincingly
+                  translated. It has been wrongly reconstructed as part of lines 52b–55b from The Dream of the Rood, and
+                  thought to be a fragment of a personal name from a longer memorial inscription.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Vine scroll</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The upper curve of the vine-scroll encloses a flower. Beneath it two birds and three beasts inhabit
+                  five of its curling tendrils. The lowest section of the vine-scroll has been badly damaged. The tails
+                  of two of the hybrid beasts intertwine with the stems of the scroll and end in leaf-like shapes that
+                  suggest a union of beast and scroll that may be meant to further their symbolic evocation of the union
+                  of the faithful with Christ in the eucharist, and of the words of Christ ‘I am the vine; you the
+                  branches: he that abideth in me, and I in him, the same beareth much fruit’ (John 15:5). If anything
+                  was carved on the base of this side of the stone it has been worn away.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Damaged area</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The damaged areas of the East (and West) faces are due to weathering in addition to when the Cross
+                  was torn down during the Reformation, scattered and neglected in the churchyard. Missing pieces of the
+                  Cross were filled in with rough mortar and pieces of cement. Since the runic inscription was contained
+                  in the outside margins on the East and West faces of the Cross, some of the runes are now missing,
+                  being worn away by weathering.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Runes</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The runic inscription is in the Old English language. It reads: (across the top) [+ ond]gere; (down
+                  the right side) dæ hinæ god almeittig · þa hewalde on galgu gistigamodig f[ore] [allæ] men [b]ug …
+                  [ahof] ic riicnæ kyniŋc · heafunæs hlafard hælda ic ni dorstæ [b]ismærædu uŋket men ba æt[g]ad[re i]c
+                  [wæs] miþ blodi bist[e]mi[d] bi[got][en of þæs gumu sida]… Translation: ‘Almighty God stripped himself
+                  when he wished to mount the gallows, brave in the sight of all men. I dared not bow. I [raised aloft]
+                  a powerful king. The Lord of heaven I dared not tilt. Men insulted the pair of us together. I was
+                  drenched with blood [begotten from that man’s side].</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+          </listObject>
+
+          <listObject subtype="north_side" type="3D_Desc" xml:id="RC_lo_north_side">
+
+            <head type="main">West Face (now North Face)</head>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Top</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>A bird of prey, commonly interpreted as an eagle sits on a flowering branch, which it grips with its
+                  large talons. It may be holding something in its curled up right foot, or it may be lifting its foot
+                  in preparation for flight. The runic inscription in the border is illegible, but has been read
+                  erroneously as both ‘Caedmon made me’ and ‘Colman made me’. Gerard Baldwin Brown read it as
+                  FAUŒTHO.</p>
+                <p>This stone was placed the wrong way round by Henry Duncan, and was originally paired with the archer
+                  (who may be taking aim at the eagle) on the east face. The eagle is a common symbol of Christ, and the
+                  eagle and tree together may symbolize Christ and the Cross. As it bends to give up the body of Christ,
+                  the cross describes itself as ‘wounded with arrows’ in the poem inscribed on the left border of the
+                  south side.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Transom</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The transom has never been found. The current stone is the work of the mason commissioned by Duncan
+                  to reconstruct the cross in 1823. The carvings are masonic symbols and were supplied by Duncan, a keen
+                  freemason: a sunburst at the centre, flanked by a rooster to the left and a calf to the right. It is
+                  clear that the evangelists Mark and Luke would have appeared with their symbols in the arms of the
+                  transom, but what would have been depicted in the centre is a matter of debate.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Lower arm: Matthew the Evangelist with his symbol</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The Evangelist, on the right, holds a book and turns to speak with, or receive inspiration from, his
+                  symbol the winged man. The fragmentary remains of a wing are visible between the symbol’s shoulder and
+                  the border of the panel. No inscription survives on this badly damaged panel, but as the panel with
+                  John and his symbol that originally capped this side was inscribed with the opening lines of his
+                  gospel, it is likely that the opening phrase of Matthew’s gospel (‘Liber generationis Iesu Christi’;
+                  ‘The book of the generation of Jesus Christ’) would have been inscribed in the border around this
+                  panel.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>John the Baptist with the Agnus Dei</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The nimbed and bearded Baptist faces frontally and holds the Lamb of God across his chest with his
+                  draped left hand, and points to it with his right. His feet rest on two globes. The outermost legs of
+                  the Lamb have been broken away, but originally stood free of the cross. The dimensions of the panel
+                  are problematic. The figure of John looks squat and the lines of the drapery and the panel’s borders
+                  don’t quite line up. Only fragments of the Latin inscription survive. In the lower section of the left
+                  border are the words ‘[…] [A]DORAMVS (we adore), and across the lower border ‘VT NON CVM […]’ (so that
+                  not with). Its source remains unknown, but the third person plural voice has led to the suggestion
+                  that the source text may have been part of liturgical practices at Ruthwell.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Christ over the beasts</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The figure of Christ faces frontally. He holds a scroll (or mappa) in his left hand and his right
+                  hand is raised in blessing, echoing his pose in the Magdalene at the feet of Christ panel on the
+                  opposite side of the cross. Christ rests his feet on the snouts of two beasts, which cross their paws
+                  in recognition of his divinity. Their crossed paws form an X, or chi, the first letter of his
+                  name.</p>
+                <p>The Latin inscription surrounding the panel reads: + IhS XPS IVDEX (across the top)  AEQVITATIS 
+                  (down the right side); BESTIAE  ET  DRACON[ES]  COGNOVERVNT  IN DE  SERTO  SALVA[TO]REM  MVNDI
+                   (down the left side). Translation: ‘+ Jesus Christ, judge of equity. Beasts and dragons recognised
+                  in the desert the saviour of the world’. There is no one source for this metrical sententia, but it
+                  recalls both Psalm 90/91:13 (Thou shalt walk upon the asp and the basilisk: and thou shalt trample
+                  under foot the lion and the dragon), and Habbakuk 3:2 (Between two living things you will become
+                  known).</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Saints Paul and Anthony breaking bread in the desert</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>Paul and Anthony face each other with their bodies and faces turned outwards slightly towards the
+                  viewer. Between them they hold a loaf of bread that had been miraculously delivered by a raven. The
+                  bread is a symbol of the eucharistic bread, the body of Christ, which is emphasized by the cross
+                  formed at the centre of the loaf as the two saints begin to break it apart. Paul and Anthony were the
+                  two earliest hermit saints, and are symbolic of the monastic life. They also form a male counterpart
+                  to the female pair of Martha and Mary at the top of the east face of the cross.</p>
+                <p>The Latin inscription that surrounds the panel reads: + SCS PAVLVS  (across the top); ET 
+                  A[NTONIVS] […] (down the right side); FREGER[VN]T  PANEM IN DESERTO (down the left side).
+                  Translation: ‘+ Saints Paul and Anthony […] broke bread in the desert’. It describes an episode
+                  recorded in Jerome’s Life of St. Paul.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>The Flight Into or Out of Egypt (Matthew 2:13–23)</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The Virgin sits side-saddle on a donkey holding the Christ child on her lap. The outermost of the
+                  donkey’s legs are carved free from the background of the cross. The sense of motion as he strides
+                  across the panel is paralleled by that of the angel Gabriel alighting in the Annunciation panel on the
+                  opposite face of the cross. The Christ child is carved on a vertical axis that aligns him with the
+                  bread held by Paul and Anthony, and the crossed paws of the beasts in the two panels above, and helps
+                  to emphasize the eucharistic symbolism of this side of the cross. Part of a tree, or perhaps part of
+                  the figure of Joseph is carved in the upper left panel.</p>
+                <p>The Latin inscription in the border reads: + MARIA  ET IO[SEPHUS] […] TV […]. Translation: ‘+ Mary
+                  and Joseph …’</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Base</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The lowest panel may or may not have been carved at the same time as the Crucifixion in the
+                  corresponding panel on the east face. It has been suggested that, if carved, the subject of this panel
+                  may have been the Nativity or the Adoration of the Magi, but no trace of carving survives today.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+          </listObject>
+
+          <listObject subtype="west_side" type="3D_Desc" xml:id="RC_lo_west_side">
+
+            <head type="main">South Face (now West Face)</head>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Cross-head</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>There is no carving on this side of the cross-head. The transom is lost and the present stone was
+                  added during reconstruction so it is impossible to say whether anything might have been carved on the
+                  ends of the cross-arms.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Upper stone</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>Two branches of inhabited vine-scroll (symbolic of the faithful partaking of the eucharist) spiral to
+                  enclose a squirrel-like creature at top and a bird at bottom. The inhabited vine-scroll is symbolic of
+                  both the tree-of-life and of the faithful partaking of the eucharist. The two blocks beneath this
+                  stone were added during reconstruction. There appears to have been an inscription in the border of
+                  this section of the shaft, but it is no longer legible.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Damaged area</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The damaged areas of the East (and West) faces are due to weathering in addition to when the Cross
+                  was torn down during the Reformation, scattered and neglected in the churchyard. Missing pieces of the
+                  Cross were filled in with rough mortar and pieces of cement. Since the runic inscription was contained
+                  in the outside margins on the East and West faces of the Cross, some of the runes are now missing,
+                  being worn away by weathering.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Lower stone</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>Beneath a plump cluster of berries six birds and hybrid creatures bite at the scroll’s fruit,
+                  branches and flowers. Three of the creatures have tails that intertwine with the stems of the scroll
+                  and end in leaf-like shapes that suggest a union of beast and scroll that may be meant to further
+                  their symbolic evocation of the union of the faithful with Christ in the eucharist, and of the words
+                  of Christ ‘I am the vine; you the branches: he that abideth in me, and I in him, the same beareth much
+                  fruit’ (John 15:5). Although damaged and worn, the depth of detail of the original carving can still
+                  be seen in the eyes, ears and gripping paws of the second beast from the top. The scroll was extended
+                  beneath the lower border of the panel, most likely at the same time that the Crucifixion was added to
+                  the base of the east face. The hole in this face of the cross is unlikely to have been a relic cavity
+                  due to its location, and was almost certainly made during either the toppling or restoration and
+                  reconstruction of the monument.</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+            <object>
+              <objectIdentifier>
+                <objectName>Runes</objectName>
+              </objectIdentifier>
+              <physDesc>
+                <p>The runic inscription is in the Old English language. It reads: (across the top) [+k]ris[t] wæs on;
+                  (down the right side) rodi · hweþræ þer fusæ fearran kwomu æþþilæ til anum ic þæt al bi[h][eald]
+                  s[aræ] ic w[æ]s · mi[þ] so[r]gu[m] gi[d]rœ[fi]d h[n]a[g]…; (down the left side) miþ s[t]re[l]um
+                  giwundad alegdun hiæ [h]inæ limwœrignæ· gistoddu[n h]im [æt] [his] [li][c]æs [hea]f[du]m
+                  [bih]ea[ld]u[n h]i[æ þ]e[r]… Translation: + Christ was on the cross. But eager ones came hither from
+                  afar. Noble ones came together. I beheld all that. I was terribly afflicted with sorrows. I bowed [to
+                  the hands of men], wounded with arrows. They laid him down, limb-weary; they stood at the shoulders of
+                  the corpse. They looked upon the Lord [of heaven].</p>
+              </physDesc>
+              <additional>
+                <surrogates> </surrogates>
+              </additional>
+            </object>
+
+          </listObject>
+
+        </listObject>
+
+        <listBibl>
+
+          <biblStruct type="book" xml:id="Collingwood1927">
+            <monogr>
+              <title level="m">Northumbrian crosses of the pre-Norman age</title>
+              <author><forename>William Gershom</forename><surname>Collingwood</surname></author>
+              <imprint>
+                <publisher>Faber &amp; Gwyer</publisher>
+                <date>1927</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Meyvaert1982">
+            <analytic>
+              <title level="a">An apocalypse panel on the Ruthwell Cross</title>
+              <author><forename>Paul</forename><surname>Meyvaert</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Medieval and Renaissance Studies</title>
+              <imprint>
+                <biblScope unit="volume">9</biblScope>
+                <biblScope unit="page">3-32</biblScope>
+                <date>1982</date>
+                <note type="url">http://bibliography.kakelbont.ca/PDF/meyvaert1982</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Forbes1914">
+            <analytic>
+              <title level="a">The Inscriptions of the Ruthwell and Bewcastle Crosses and the Bridekirk Font</title>
+              <idno type="DOI">10.2307/859679</idno>
+              <author><forename>M. D.</forename><surname>Forbes</surname></author>
+              <author><forename>Bruce</forename><surname>Dickins</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">The Burlington Magazine for Connoisseurs</title>
+              <idno type="ISSN">09510788</idno>
+              <imprint>
+                <biblScope unit="volume">25</biblScope>
+                <biblScope unit="issue">133</biblScope>
+                <biblScope unit="page">24-29</biblScope>
+                <date>1914</date>
+                <note type="accessed">2011-03-23T09:12:42Z</note>
+                <note type="url">http://www.jstor.org/stable/859679</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Bammesberger2009">
+            <analytic>
+              <title level="a">Fusæ in the Runic Inscription on the Ruthwell Cross</title>
+              <idno type="DOI">10.1093/notesj/gjn206</idno>
+              <author><forename>Alfred</forename><surname>Bammesberger</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Notes and Queries</title>
+              <imprint>
+                <biblScope unit="volume">56</biblScope>
+                <biblScope unit="issue">1</biblScope>
+                <biblScope unit="page">7 -9</biblScope>
+                <date>2009</date>
+                <note type="accessed">2011-09-19T14:59:19Z</note>
+                <note type="url">http://nq.oxfordjournals.org/content/56/1/7.short</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Conway1912">
+            <analytic>
+              <title level="a">The Bewcastle and Ruthwell Crosses</title>
+              <author><forename>Martin</forename><surname>Conway</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">The Burlington Magazine for Connoisseurs</title>
+              <idno type="ISSN">09510788</idno>
+              <imprint>
+                <biblScope unit="volume">21</biblScope>
+                <biblScope unit="issue">112</biblScope>
+                <biblScope unit="page">193-195</biblScope>
+                <date>1912</date>
+                <note type="accessed">2011-03-23T09:12:31Z</note>
+                <note type="url">http://www.jstor.org/stable/859039</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Schapiro1963">
+            <analytic>
+              <title level="a">The Bowman and the Bird on the Ruthwell Cross and Other Works: The Interpretation of
+                Secular Themes in Early Mediaeval Religious Art</title>
+              <idno type="DOI">10.2307/3048115</idno>
+              <title type="short">The Bowman and the Bird on the Ruthwell Cross and Other Works</title>
+              <author><forename>Meyer</forename><surname>Schapiro</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">The Art Bulletin</title>
+              <idno type="ISSN">00043079</idno>
+              <imprint>
+                <biblScope unit="volume">45</biblScope>
+                <biblScope unit="issue">4</biblScope>
+                <biblScope unit="page">351-355</biblScope>
+                <date>1963</date>
+                <note type="accessed">2011-03-23T09:12:46Z</note>
+                <note type="url">http://www.jstor.org/stable/3048115</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Saxl1943">
+            <analytic>
+              <title level="a">The Ruthwell Cross</title>
+              <idno type="DOI">10.2307/750418</idno>
+              <author><forename>F.</forename><surname>Saxl</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Journal of the Warburg and Courtauld Institutes</title>
+              <idno type="ISSN">00754390</idno>
+              <imprint>
+                <biblScope unit="volume">6</biblScope>
+                <biblScope unit="page">1-19</biblScope>
+                <date>1943</date>
+                <note type="accessed">2011-03-23T09:12:26Z</note>
+                <note type="url">http://www.jstor.org/stable/750418</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Cook1902">
+            <analytic>
+              <title level="a">Notes on the Ruthwell Cross</title>
+              <idno type="DOI">10.2307/456472</idno>
+              <author><forename>Albert S.</forename><surname>Cook</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">PMLA</title>
+              <idno type="ISSN">00308129</idno>
+              <imprint>
+                <biblScope unit="volume">17</biblScope>
+                <biblScope unit="issue">3</biblScope>
+                <biblScope unit="page">367-390</biblScope>
+                <date>1902</date>
+                <note type="accessed">2011-03-23T09:12:49Z</note>
+                <note type="url">http://www.jstor.org/stable/456472</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Lethaby1912">
+            <analytic>
+              <title level="a">The Ruthwell Cross</title>
+              <author><forename>W. R.</forename><surname>Lethaby</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">The Burlington Magazine for Connoisseurs</title>
+              <idno type="ISSN">09510788</idno>
+              <imprint>
+                <biblScope unit="volume">21</biblScope>
+                <biblScope unit="issue">111</biblScope>
+                <biblScope unit="page">145-146</biblScope>
+                <date>1912</date>
+                <note type="accessed">2011-03-23T09:12:37Z</note>
+                <note type="url">http://www.jstor.org/stable/859018</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Schapiro1944">
+            <analytic>
+              <title level="a">The Religious Meaning of the Ruthwell Cross</title>
+              <idno type="DOI">10.2307/3046964</idno>
+              <author><forename>Meyer</forename><surname>Schapiro</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">The Art Bulletin</title>
+              <idno type="ISSN">00043079</idno>
+              <imprint>
+                <biblScope unit="volume">26</biblScope>
+                <biblScope unit="issue">4</biblScope>
+                <biblScope unit="page">232-245</biblScope>
+                <date>1944</date>
+                <note type="accessed">2011-03-23T09:12:35Z</note>
+                <note type="url">http://www.jstor.org/stable/3046964</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Burlin1968">
+            <analytic>
+              <title level="a">The Ruthwell Cross, "The Dream of the Rood" and the Vita Contemplativa</title>
+              <author><forename>Robert B.</forename><surname>Burlin</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Studies in Philology</title>
+              <idno type="ISSN">00393738</idno>
+              <imprint>
+                <biblScope unit="volume">65</biblScope>
+                <biblScope unit="issue">1</biblScope>
+                <biblScope unit="page">23-43</biblScope>
+                <date>1968</date>
+                <note type="url">http://www.jstor.org/stable/4173589</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Henderson1985">
+            <analytic>
+              <title level="a">The John the Baptist Panel on the Ruthwell Cross</title>
+              <idno type="DOI">10.2307/766928</idno>
+              <author><forename>George</forename><surname>Henderson</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Gesta</title>
+              <idno type="ISSN">0016920X</idno>
+              <imprint>
+                <biblScope unit="volume">24</biblScope>
+                <biblScope unit="issue">1</biblScope>
+                <biblScope unit="page">3-12</biblScope>
+                <date>1985</date>
+                <note type="accessed">2011-03-23T09:12:25Z</note>
+                <note type="url">http://www.jstor.org/stable/766928</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Brown1913">
+            <analytic>
+              <title level="a">The Bewcastle and Ruthwell Crosses</title>
+              <author><forename>G. Baldwin</forename><surname>Brown</surname></author>
+              <author><forename>W. R.</forename><surname>Lethaby</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">The Burlington Magazine for Connoisseurs</title>
+              <idno type="ISSN">09510788</idno>
+              <imprint>
+                <biblScope unit="volume">23</biblScope>
+                <biblScope unit="issue">121</biblScope>
+                <biblScope unit="page">43-49</biblScope>
+                <date>1913</date>
+                <note type="accessed">2011-03-23T09:12:59Z</note>
+                <note type="url">http://www.jstor.org/stable/859370</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Kantorowicz1960">
+            <analytic>
+              <title level="a">The Archer in the Ruthwell Cross</title>
+              <idno type="DOI">10.2307/3047875</idno>
+              <author><forename>Ernst H.</forename><surname>Kantorowicz</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">The Art Bulletin</title>
+              <idno type="ISSN">00043079</idno>
+              <imprint>
+                <biblScope unit="volume">42</biblScope>
+                <biblScope unit="issue">1</biblScope>
+                <biblScope unit="page">57-59</biblScope>
+                <date>1960</date>
+                <note type="accessed">2011-03-23T09:12:33Z</note>
+                <note type="url">http://www.jstor.org/stable/3047875</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Cook1890">
+            <analytic>
+              <title level="a">Caedmon and the Ruthwell Cross</title>
+              <idno type="DOI">10.2307/2918253</idno>
+              <author><forename>Albert S.</forename><surname>Cook</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Modern Language Notes</title>
+              <idno type="ISSN">01496611</idno>
+              <imprint>
+                <biblScope unit="volume">5</biblScope>
+                <biblScope unit="issue">3</biblScope>
+                <biblScope unit="page">77-78</biblScope>
+                <date>1890</date>
+                <note type="accessed">2011-03-23T09:12:54Z</note>
+                <note type="url">http://www.jstor.org/stable/2918253</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Howlett1974">
+            <analytic>
+              <title level="a">Two Panels on the Ruthwell Cross</title>
+              <idno type="DOI">10.2307/750847</idno>
+              <author><forename>D. R.</forename><surname>Howlett</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Journal of the Warburg and Courtauld Institutes</title>
+              <idno type="ISSN">00754390</idno>
+              <imprint>
+                <biblScope unit="volume">37</biblScope>
+                <biblScope unit="page">333-336</biblScope>
+                <date>1974</date>
+                <note type="accessed">2011-03-23T09:12:28Z</note>
+                <note type="url">http://www.jstor.org/stable/750847</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Ross1933">
+            <analytic>
+              <title level="a">The Linguistic Evidence for the Date of the "Ruthwell Cross"</title>
+              <idno type="DOI">10.2307/3714966</idno>
+              <author><forename>Alan S. C.</forename><surname>Ross</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">The Modern Language Review</title>
+              <idno type="ISSN">00267937</idno>
+              <imprint>
+                <biblScope unit="volume">28</biblScope>
+                <biblScope unit="issue">2</biblScope>
+                <biblScope unit="page">145-155</biblScope>
+                <date>1933</date>
+                <note type="accessed">2011-03-23T09:13:01Z</note>
+                <note type="url">http://www.jstor.org/stable/3714966</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Hilmo2004">
+            <monogr>
+              <title level="m">Medieval images, icons, and illustrated English literary texts : from Ruthwell Cross to
+                the Ellesmere Chaucer</title>
+              <title type="short">Medieval images, icons, and illustrated English literary texts</title>
+              <idno type="ISBN">0-7546-3178-8 978-0-7546-3178-1</idno>
+              <author><forename>Maidie</forename><surname>Hilmo</surname></author>
+              <imprint>
+                <pubPlace>Aldershot, Hampshire, England; Burlington, VT</pubPlace>
+                <publisher>Ashgate</publisher>
+                <date>2004</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Cook1912">
+            <monogr>
+              <title level="m">The date of the Ruthwell and Bewcastle crosses</title>
+              <author><forename>Albert Stanburrough</forename><surname>Cook</surname></author>
+              <imprint>
+                <publisher>Yale university press</publisher>
+                <date>1912</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Bammesberger2003">
+            <analytic>
+              <title level="a">Die Runeninschrift auf dem Ruthwellkreuz</title>
+              <author><forename>Alfred</forename><surname>Bammesberger</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Anglia: Zeitschrift für englische Philologie</title>
+              <idno type="ISSN">0340-5222</idno>
+              <imprint>
+                <biblScope unit="volume">121</biblScope>
+                <biblScope unit="issue">2</biblScope>
+                <biblScope unit="page">265-273</biblScope>
+                <date>2003</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="O_Neill2005">
+            <monogr>
+              <title level="m">'A pillar curiously engraven; with some inscription upon it': what is the Ruthwell
+                Cross?</title>
+              <title type="short">'A pillar curiously engraven with some inscription upon it'</title>
+              <idno type="ISBN">978-1-84171-867-5</idno>
+              <author><forename>Pamela</forename><surname>O'Neill</surname></author>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Archaeopress</publisher>
+                <date>2005</date>
+                <note type="url">http://books.google.it/books?id=jDtmAAAAMAAJ</note>
+              </imprint>
+            </monogr>
+            <series><title level="s">BAR British series</title></series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Kendall2006">
+            <analytic>
+              <title level="a">The Ruthwell Cross and the Dream of the Rood</title>
+              <author><forename>Calvin B.</forename><surname>Kendall</surname></author>
+            </analytic>
+            <monogr>
+              <title level="m">The Place of the Cross in Anglo-Saxon England</title>
+              <imprint>
+                <pubPlace>Woodbridge</pubPlace>
+                <publisher>Boydell Press</publisher>
+                <date>2006</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Farrell1978">
+            <analytic>
+              <title level="a">The Archer and Associated Figures on the Ruthwell Cross - A Reconsideration</title>
+              <author><forename>R.T.</forename><surname>Farrell</surname></author>
+            </analytic>
+            <monogr>
+              <title level="m">Bede and Anglo-Saxon England</title>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <biblScope unit="page">96-117</biblScope>
+                <publisher>British Archaeological Reports</publisher>
+                <date>1978</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Crowe1987">
+            <analytic>
+              <title level="a">Excavations at Ruthwell, Dumfries, 1980 and 1984</title>
+              <author><forename>Chris</forename><surname>Crowe</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Transactions of the Dumfriesshire and Galloway Natural History and Antiquitarian Society,
+                Third Series</title>
+              <imprint>
+                <biblScope unit="issue">62</biblScope>
+                <biblScope unit="page">40-47</biblScope>
+                <date>1987</date>
+              </imprint>
+            </monogr>
+            <series><title level="s">Transactions of the Dumfriesshire and Galloway Natural History and Antiquitarian
+                Society, Third Series</title></series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Collingwood1916">
+            <analytic>
+              <title level="a">The Ruthwell Cross in its Relation to other Monuments of Early Christian Age</title>
+              <author><forename>W. G.</forename><surname>Collingwood</surname></author>
+            </analytic>
+            <monogr>
+              <title level="m">The Ruthwell Cross</title>
+              <imprint>
+                <biblScope unit="page">34-52</biblScope>
+                <date>1916</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Browne1916">
+            <monogr>
+              <title level="m">The Ancient Cross Shafts at Bewcastle and Ruthwell</title>
+              <author><forename>G. F.</forename><surname>Browne</surname></author>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge university press</publisher>
+                <date>1916</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Breeze2003">
+            <analytic>
+              <title level="a">The Date of the Ruthwell Cross Inscription</title>
+              <author><forename>Andrew</forename><surname>Breeze</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">ANQ</title>
+              <imprint>
+                <biblScope unit="volume">16</biblScope>
+                <biblScope unit="issue">2</biblScope>
+                <biblScope unit="page">3-5</biblScope>
+                <date>2003</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Orton2004">
+            <analytic>
+              <title level="a">Northumbrian Identity in the Eighth Century: The Ruthwell and Bewcastle Monuments; Style,
+                Classification, Class, and the Form of Ideology - Journal of Medieval and Early Modern Studies
+                34:1</title>
+              <author><forename>Fred</forename><surname>Orton</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Journal of Medieval and Early Modern Studies</title>
+              <imprint>
+                <date>2004</date>
+                <note type="url"
+                  >http://muse.jhu.edu.ezproxy.lib.ucalgary.ca/journals/journal_of_medieval_and_early_modern_studies/v034/34.1orton.html</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Howlett2008">
+            <analytic>
+              <title level="a">A Corrected Form of the Reconstructed Ruthwell Crucifixion Poem</title>
+              <idno type="DOI">10.1080/00393270802493225</idno>
+              <author><forename>David R.</forename><surname>Howlett</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Studia Neophilologica: A Journal of Germanic and Romance Languages and
+                Literature,</title>
+              <idno type="ISSN">00393274</idno>
+              <idno type="callNumber">0000</idno>
+              <imprint>
+                <biblScope unit="volume">80</biblScope>
+                <biblScope unit="issue">2</biblScope>
+                <biblScope unit="page">255-257</biblScope>
+                <date>2008</date>
+                <note type="url"
+                  >http://gateway.proquest.com/openurl?ctx_ver=Z39.88-2003&amp;xri:pqil:res_ver=0.2&amp;res_id=xri:lion-us&amp;rft_id=xri:lion:rec:mla:R04362998</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Bammesberger1994a">
+            <analytic>
+              <title level="a">Notes on medial and final vowels in the Ruthwell Cross runic inscription. Includes a
+                transcription of the runic inscriptions on the side panels.</title>
+              <author><forename>Alfred</forename><surname>Bammesberger</surname></author>
+            </analytic>
+            <monogr>
+              <title level="m">Proceedings of the Third International Symposium on Runes and Runic Inscriptions,
+                Grindaheim, Norway, 8-12 August 1990. Ed. James E. KNIRK (Runrön: Runologiska bidrag utgivna av
+                Institutionen för nordiska språk vid Uppsala universitet, 9). Pp. 303. Uppsala: Institutionen för
+                nordiska språk, Uppsala universitet.</title>
+              <idno type="ISBN">91-506-1094-5</idno>
+              <imprint>
+                <biblScope unit="page">139-148</biblScope>
+                <date>1994</date>
+              </imprint>
+            </monogr>
+            <series><title level="s">-</title></series>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Cassidy1992a">
+            <monogr>
+              <title level="m">The Ruthwell Cross. Papers from the Colloquium Sponsored by the Index of Christian Art,
+                Princeton University, 8 December 1989</title>
+              <title type="short">The Ruthwell Cross</title>
+              <idno type="ISBN">978-0-691-00038-1</idno>
+              <author><forename>Brendan</forename><surname>Cassidy</surname></author>
+              <imprint>
+                <pubPlace>Princeton</pubPlace>
+                <publisher>Princeton University Press</publisher>
+                <date>1992</date>
+              </imprint>
+            </monogr>
+            <series><title level="s">Index of Christian Art</title></series>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Cassidy1992b">
+            <analytic>
+              <title level="a">Some Eighteenth-Century Drawings of the Ruthwell Cross</title>
+              <idno type="DOI">10.1017/S0003581500071201</idno>
+              <author><forename>Brendan</forename><surname>Cassidy</surname></author>
+              <author><forename>David R.</forename><surname>Howlett</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Antiquaries Journal: Journal of the Society of Antiquaries of London</title>
+              <idno type="ISSN">0003-5815</idno>
+              <imprint>
+                <biblScope unit="volume">72</biblScope>
+                <biblScope unit="page">102-117</biblScope>
+                <date>1992</date>
+                <note type="url">http://journals.cambridge.org/article_S0003581500071201</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Cassidy1992c">
+            <analytic>
+              <title level="a">A bibliography of the Ruthwell Cross.</title>
+              <author><forename>Brendan</forename><surname>Cassidy</surname></author>
+              <author><forename>Katherine</forename><surname>Kiefer</surname></author>
+            </analytic>
+            <monogr>
+              <title level="m">The Ruthwell Cross: Papers from the Colloquium Sponsored by the Index of Christian Art,
+                Princeton University, 8 December 1989. Ed. Brendan CASSIDY (Index of Christian Art, Occasional Papers,
+                1). Pp. xiv, 205. Princeton, N.J.: Department of Art and Archaeology, Princeton University.</title>
+              <idno type="ISBN">0-691-03211-4</idno>
+              <imprint>
+                <biblScope unit="page">167-199</biblScope>
+                <date>1992</date>
+              </imprint>
+            </monogr>
+            <series><title level="s">-</title></series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Ball1991">
+            <analytic>
+              <title level="a">Inconsistencies in the main runic inscriptions on the Ruthwell Cross.</title>
+              <author><forename>Christopher</forename><surname>Ball</surname></author>
+            </analytic>
+            <monogr>
+              <title level="m">Old English Runes and their Continental Background. Ed. Alfred BAMMESBERGER (Anglistische
+                Forschungen, 217). Pp. 632. Heidelberg: Winter</title>
+              <imprint>
+                <biblScope unit="page">107-123</biblScope>
+                <date>1991</date>
+              </imprint>
+            </monogr>
+            <series><title level="s">-</title></series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Beckwith1970">
+            <analytic>
+              <title level="a">Reculver, Ruthwell and Bewcastle.</title>
+              <author><forename>John</forename><surname>Beckwith</surname></author>
+            </analytic>
+            <monogr>
+              <title level="m">Kolloquium über frühmittelalterliche Skulptur. Ed. V. MILOJČiĆ. Mainz: Philip von
+                Zabern</title>
+              <imprint>
+                <biblScope unit="page">17-19</biblScope>
+                <date>1970</date>
+              </imprint>
+            </monogr>
+            <series><title level="s">-</title></series>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Bammesberger1994b">
+            <analytic>
+              <title level="a">Two archaic forms in the Ruthwell Cross inscription.</title>
+              <idno type="DOI">10.1080/00138389408598901</idno>
+              <author><forename>Alfred</forename><surname>Bammesberger</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">English Studies</title>
+              <idno type="ISSN">0013-838X</idno>
+              <imprint>
+                <biblScope unit="volume">75</biblScope>
+                <biblScope unit="issue">2</biblScope>
+                <biblScope unit="page">97-103</biblScope>
+                <date>1994</date>
+                <note type="accessed">2013-05-23T16:25:33Z</note>
+                <note type="url">http://www.tandfonline.com/doi/abs/10.1080/00138389408598901</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Conner2008">
+            <analytic>
+              <title level="a">The Ruthwell Monument Runic Poem in a Tenth-Century Context</title>
+              <idno type="DOI">10.1093/res/hgm124</idno>
+              <author><forename>Patrick W.</forename><surname>Conner</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">The Review of English Studies</title>
+              <idno type="ISSN">0034-6551</idno>
+              <imprint>
+                <biblScope unit="volume">59</biblScope>
+                <biblScope unit="issue">238</biblScope>
+                <biblScope unit="page">25-51</biblScope>
+                <date>2008</date>
+                <note type="accessed">2014-05-07T10:02:16Z</note>
+                <note type="url">http://www.jstor.org/stable/20184634</note>
+              </imprint>
+            </monogr>
+            <series><title level="s">New Series</title></series>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Carragáin2012">
+            <analytic>
+              <title level="a">Conversion, Justice, and Mercy at the Parousia: Liturgical Apocalypses from
+                Eighth-Century Northumbria, on the Ruthwell and Bewcastle Crosses</title>
+              <idno type="DOI">10.1093/litthe/frs054</idno>
+              <title type="short">Conversion, Justice, and Mercy at the Parousia</title>
+              <author><forename>Éamonn Ó</forename><surname>Carragáin</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Literature and Theology</title>
+              <idno type="ISSN">0269-1205, 1477-4623</idno>
+              <imprint>
+                <biblScope unit="volume">26</biblScope>
+                <biblScope unit="issue">4</biblScope>
+                <biblScope unit="page">367-383</biblScope>
+                <date>2012</date>
+                <note type="accessed">2015-04-02T13:34:16Z</note>
+                <note type="url">http://litthe.oxfordjournals.org/content/26/4/367</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Orton1998">
+            <analytic>
+              <title level="a">Rethinking the Ruthwell Monument: Fragments and Critique; Tradition and History; Tongues
+                and Sockets</title>
+              <idno type="DOI">10.1111/1467-8365.00093</idno>
+              <title type="short">Rethinking the Ruthwell Monument</title>
+              <author><forename>Fred</forename><surname>Orton</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Art History</title>
+              <idno type="ISSN">1467-8365</idno>
+              <imprint>
+                <biblScope unit="volume">21</biblScope>
+                <biblScope unit="issue">1</biblScope>
+                <biblScope unit="page">65-106</biblScope>
+                <date>1998</date>
+                <note type="accessed">2015-05-20T10:33:45Z</note>
+                <note type="url">http://onlinelibrary.wiley.com/doi/10.1111/1467-8365.00093/abstract</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Art1992">
+            <monogr>
+              <title level="m">The Ruthwell Cross: Papers from the Colloquium Sponsored by the Index of Christian Art,
+                Princeton University, 8 December 1989</title>
+              <title type="short">The Ruthwell Cross</title>
+              <idno type="ISBN">978-0-691-03211-5</idno>
+              <author><forename>Princeton University Dept of Art and Archaeology Index of
+                  Christian</forename><surname>Art</surname></author>
+              <imprint>
+                <publisher>Princeton University Press</publisher>
+                <date>1992</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Bammesberger2010">
+            <analytic>
+              <title level="a">The Ruthwell Crucifixion Poem</title>
+              <idno type="DOI">10.1093/notesj/gjq081</idno>
+              <author><forename>Alfred</forename><surname>Bammesberger</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Notes and Queries</title>
+              <idno type="ISSN">0029-3970, 1471-6941</idno>
+              <imprint>
+                <biblScope unit="volume">57</biblScope>
+                <biblScope unit="issue">3</biblScope>
+                <biblScope unit="page">290-292</biblScope>
+                <date>2010</date>
+                <note type="url">http://nq.oxfordjournals.org/content/57/3/290</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Hewison1914">
+            <monogr>
+              <title level="m">The runic roods of Ruthwell and Bewcastle, with a short history of the cross and crucifix
+                in Scotland</title>
+              <idno type="callNumber">CC315.R8 H5</idno>
+              <author><forename>James King</forename><surname>Hewison</surname></author>
+              <respStmt>
+                <resp>contributor</resp>
+                <persName><name>Cornell University Library</name></persName>
+              </respStmt>
+              <imprint>
+                <pubPlace>Glasgow</pubPlace>
+                <publisher>J. Smith</publisher>
+                <date>1914</date>
+                <note type="accessed">2017-09-23T09:47:02Z</note>
+                <note type="url">http://archive.org/details/cu31924029809070</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Bammesberger2002">
+            <analytic>
+              <title level="a">A Doubtful Reconstruction in the Old English Ruthwell Crucifixion Poem</title>
+              <idno type="DOI">10.1080/003932702321116163</idno>
+              <author><forename>Alfred</forename><surname>Bammesberger</surname></author>
+            </analytic>
+            <monogr>
+              <title level="j">Studia Neophilologica</title>
+              <idno type="ISSN">0039-3274</idno>
+              <imprint>
+                <biblScope unit="volume">74</biblScope>
+                <biblScope unit="issue">2</biblScope>
+                <biblScope unit="page">143-145</biblScope>
+                <date>2002</date>
+                <note type="accessed">2017-09-23T10:50:33Z</note>
+                <note type="url">http://dx.doi.org/10.1080/003932702321116163</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="Swanton1987">
+            <monogr>
+              <author>Swanton, M.J.</author>
+              <title level="m">The Dream of the Rood</title>
+              <imprint>
+                <pubPlace>Exeter</pubPlace>
+                <publisher>Exeter University Press</publisher>
+                <date>1987</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+
+        </listBibl>
+
+      </sourceDesc>
+    </fileDesc>
+
+    <encodingDesc>
+      <charDecl>
+        <char xml:id="feoh">
+          <charName>RUNIC LETTER FEHU FEOH FE F</charName>
+          <mapping type="transliterated">f</mapping>
+          <mapping type="runic">&#5792;</mapping>
+        </char>
+        <char xml:id="ur">
+          <charName>RUNIC LETTER URUZ UR U</charName>
+          <mapping type="transliterated">u</mapping>
+          <mapping type="runic">&#5794;</mapping>
+        </char>
+        <char xml:id="thurs">
+          <charName>RUNIC LETTER THURISAZ THURS THORN</charName>
+          <mapping type="transliterated">&#254;</mapping>
+          <mapping type="runic">&#5798;</mapping>
+        </char>
+        <char xml:id="os">
+          <charName>RUNIC LETTER OS O</charName>
+          <mapping type="transliterated">o</mapping>
+          <mapping type="runic">&#5801;</mapping>
+        </char>
+        <char xml:id="rad">
+          <charName>RUNIC LETTER RAIDO RAD REID R</charName>
+          <mapping type="transliterated">r</mapping>
+          <mapping type="runic">&#5809;</mapping>
+        </char>
+        <char xml:id="cen">
+          <charName>RUNIC LETTER CEN</charName>
+          <mapping type="transliterated">c</mapping>
+          <mapping type="runic">&#5811;</mapping>
+        </char>
+        <char xml:id="gyfu">
+          <charName>RUNIC LETTER GEBO GYFU G</charName>
+          <mapping type="transliterated">g</mapping>
+          <mapping type="runic">&#5815;</mapping>
+        </char>
+        <char xml:id="wyn">
+          <charName>RUNIC LETTER WUNJO WYNN W</charName>
+          <mapping type="transliterated">w</mapping>
+          <mapping type="runic">&#5817;</mapping>
+        </char>
+        <char xml:id="haegl">
+          <charName>RUNIC LETTER HAEGL H</charName>
+          <mapping type="transliterated">h</mapping>
+          <mapping type="runic">&#5819;</mapping>
+        </char>
+        <char xml:id="nyd">
+          <charName>RUNIC LETTER NAUDIZ NYD NAUD N</charName>
+          <mapping type="transliterated">n</mapping>
+          <mapping type="runic">&#5822;</mapping>
+        </char>
+        <char xml:id="is">
+          <charName>RUNIC LETTER ISAZ IS ISS I</charName>
+          <mapping type="transliterated">i</mapping>
+          <mapping type="runic">&#5825;</mapping>
+        </char>
+        <char xml:id="jera">
+          <charName>RUNIC LETTER JERAN J</charName>
+          <mapping type="transliterated">j</mapping>
+          <mapping type="runic">&#5827;</mapping>
+        </char>
+        <char xml:id="ger">
+          <charName>RUNIC LETTER GER</charName>
+          <mapping type="transliterated">j</mapping>
+          <mapping type="runic">&#5828;</mapping>
+        </char>
+        <char xml:id="iw">
+          <charName>RUNIC LETTER IWAZ EOH</charName>
+          <mapping type="transliterated">&#658;</mapping>
+          <mapping type="runic">&#5831;</mapping>
+        </char>
+        <char xml:id="peorth">
+          <charName>RUNIC LETTER PERTHO PEORTH P</charName>
+          <mapping type="transliterated">p</mapping>
+          <mapping type="runic">&#5832;</mapping>
+        </char>
+        <char xml:id="eolh">
+          <charName>RUNIC LETTER ALGIZ EOLHX</charName>
+          <mapping type="transliterated">z</mapping>
+          <mapping type="runic">&#5833;</mapping>
+        </char>
+        <char xml:id="sigel">
+          <charName>RUNIC LETTER SIGEL LONG-BRANCH-SOL S</charName>
+          <mapping type="transliterated">s</mapping>
+          <mapping type="runic">&#5835;</mapping>
+        </char>
+        <char xml:id="tir">
+          <charName>RUNIC LETTER TIWAZ TIR TYR T</charName>
+          <mapping type="transliterated">t</mapping>
+          <mapping type="runic">&#5839;</mapping>
+        </char>
+        <char xml:id="beorc">
+          <charName>RUNIC LETTER BERKANAN BEORC</charName>
+          <mapping type="transliterated">b</mapping>
+          <mapping type="runic">&#5842;</mapping>
+        </char>
+        <char xml:id="eoh">
+          <charName>RUNIC LETTER EHWAZ EH E</charName>
+          <mapping type="transliterated">e</mapping>
+          <mapping type="runic">&#5846;</mapping>
+        </char>
+        <char xml:id="man">
+          <charName>RUNIC LETTER MANNAZ MAN M</charName>
+          <mapping type="transliterated">m</mapping>
+          <mapping type="runic">&#5847;</mapping>
+        </char>
+        <char xml:id="lagu">
+          <charName>RUNIC LETTER LAUKAZ LAGU LOGR</charName>
+          <mapping type="transliterated">l</mapping>
+          <mapping type="runic">&#5850;</mapping>
+        </char>
+        <char xml:id="ing">
+          <charName>RUNIC LETTER ING</charName>
+          <mapping type="transliterated">&#331;</mapping>
+          <mapping type="runic">&#5853;</mapping>
+        </char>
+        <char xml:id="daeg">
+          <charName>RUNIC LETTER DAGAZ DAEG D</charName>
+          <mapping type="transliterated">d</mapping>
+          <mapping type="runic">&#5854;</mapping>
+        </char>
+        <char xml:id="ac">
+          <charName>RUNIC LETTER AC A</charName>
+          <mapping type="transliterated">a</mapping>
+          <mapping type="runic">&#5802;</mapping>
+        </char>
+        <char xml:id="aesc">
+          <charName>RUNIC LETTER AESC</charName>
+          <mapping type="transliterated">&#230;</mapping>
+          <mapping type="runic">&#5803;</mapping>
+        </char>
+        <char xml:id="yr">
+          <charName>RUNIC LETTER Y</charName>
+          <mapping type="transliterated">y</mapping>
+          <mapping type="runic">&#5796;</mapping>
+        </char>
+        <char xml:id="ear">
+          <charName>RUNIC LETTER EAR</charName>
+          <mapping type="transliterated">ea</mapping>
+          <mapping type="runic">&#5856;</mapping>
+        </char>
+        <char xml:id="gar">
+          <charName>RUNIC LETTER GAR</charName>
+          <mapping type="transliterated">g</mapping>
+          <mapping type="runic">&#5816;</mapping>
+        </char>
+        <char xml:id="cealc">
+          <charName>RUNIC LETTER CEALC</charName>
+          <mapping type="transliterated">k</mapping>
+          <mapping type="runic">&#5860;</mapping>
+        </char>
+        <char xml:id="ethel">
+          <charName>RUNIC LETTER OTHALAN ETHEL O</charName>
+          <mapping type="transliterated">œ</mapping>
+          <mapping type="runic">&#5855;</mapping>
+        </char>
+        <char xml:id="calc">
+          <charName>RUNIC LETTER CALC</charName>
+          <mapping type="transliterated">k</mapping>
+          <mapping type="runic">&#5859;</mapping>
+        </char>
+      </charDecl>
+    </encodingDesc>
+
+  </teiHeader>
+
+  <text n="The Ruthwell poem">
+    
+    <front>
+      
+      <head>The Ruthwell Cross and <title rend="italic">The Dream of the Rood</title></head>
+
+      <p>The purpose of the Visionary Cross project (<ref target="https://zenodo.org/communities/visionarycrossproject/"
+          >https://zenodo.org/communities/visionarycrossproject/</ref>) is to create a digital edition of a group of
+        important objects related to <title rend="italic">The Dream of the Rood</title> and to the Cult of the Cross in
+        general. The goal is to create a multimedia presentation putting together not only the critical edition of the
+        poem, linked to the digitized images of the Vercelli Book, but also the three-dimensional data related to the
+        Crosses. The strong link between the poem and the objects, also from a spatial point of view, should be
+        preserved to fully describe the messages and interaction between visual and poetic art.</p>
+      
+      <p>The final version of this multimedia presentation system, now presented in a very experimental form, will
+        employ a highly detailed 3D model acquired with active 3D scanning technology, together with the transcription
+        and translation of the runes that can be found on its surface, and a detailed description of the carving of the
+        cross. The textual and spatial information will be linked through a system of bi-directional links called spots,
+        which allow the users to freely navigate the data, supporting a synchronized browsing and analysis of the 3D
+        model, the textual data and the digital editions of the poem.</p>
+
+    </front>
+      
+    <body>
+
+      <head>The Ruthwell poem<note>Text derived from <ref target="#Swanton1987">Swanton 1987</ref>, verse lines
+          correspond to the Vercelli version.</note></head>
+
+      <div type="side" xml:id="RC_ES">
+
+        <head>East Side</head>
+
+        <lg n="I">
+
+          <l n="39" xml:id="RC_l_39">[+Ond]geredæ hinæ Ḡod almehttig</l>
+          <l n="40" xml:id="RC_l_40">þā hē walde on ḡalḡu gistīḡa,</l>
+
+          <l n="41" xml:id="RC_l_41">[m]odig f[ore allæ] men.</l>
+
+          <l n="42" xml:id="RC_l_42">[B]ūḡ[a] ic ni dorstæ…………..]</l>
+
+        </lg>
+
+        <lg n="II">
+
+          <l n="44" xml:id="RC_l_44">[Āhōf] ic riicnæ K̄yniŋc</l>
+          <l n="45" xml:id="RC_l_45">heafunæs H[l]afard, hælda ic ni dorstæ.</l>
+
+          <l n="48" xml:id="RC_l_48">[B]ismærædu uŋk̄et men bā æt[ḡ]ad[re]; ic [wæs] miþ blōdæ [b]ist[ē]mi[d],</l>
+          <l n="49" xml:id="RC_l_49">bi[goten of……………………………………….]</l>
+
+        </lg>
+
+      </div>
+
+      <div type="side" xml:id="RC_WS">
+
+        <head>West Side</head>
+
+        <lg n="III">
+
+          <l n="56" xml:id="RC_l_56">[+] Krist wæs on rōdi.</l>
+          <l n="57" xml:id="RC_l_57">Hweþræ þēr fūsæ fearran kwōmu</l>
+          <l n="59" xml:id="RC_l_58">æþþilæ til ānum. Ic þæt al bih[ēald]</l>
+          <l n="59" xml:id="RC_l_59">Sār[æ] ic wæs mi[þ] sorḡum gidroe[f]id, h[n]aḡ [ic………]</l>
+
+        </lg>
+
+        <lg n="IV">
+
+          <l n="62" xml:id="RC_l_62">miþ strēlum giwundad.</l>
+          <l n="63" xml:id="RC_l_63">Ālegdun hiæ hinæ limwoērignæ, gistōddun him […….] līcæs [hea]f[du]m;</l>
+          <l n="64" xml:id="RC_l_64">[bi]hēa[l]du[n] hi[æ] þē[r……………………]</l>
+
+        </lg>
+
+      </div>
+
+    </body>
+  </text>
+</TEI>

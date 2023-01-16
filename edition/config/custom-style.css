@@ -20,7 +20,7 @@
 
 /* ***************************************************************** */
 .term {
-   background-color: coral;
+	background-color: coral;
 }
 
 .figDesc {
@@ -33,9 +33,12 @@
 	font-size: 95%;
 	font-style: italic;
 }
+
 span.analogue span.analogue__text span.quote {
 	font-style: italic;
 }
-span.quote sup.iconbis-evt_quote-left.ng-scope, span.quote sup.iconbis-evt_quote-right.ng-scope {
+
+span.quote sup.iconbis-evt_quote-left,
+span.quote sup.iconbis-evt_quote-right {
 	display: none;
 }

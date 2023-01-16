@@ -1,1 +1,0 @@
-var imageModule = angular.module('evtviewer.imageViewer');
