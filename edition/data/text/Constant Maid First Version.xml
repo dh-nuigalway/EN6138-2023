@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Constant Maid</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Not intended for publication.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>The Constant Maid</title>
+                    <author>James Shirley</author>
+                    <date>1640</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="act" n="1">
+                <head>ACT I.</head>
+            </div>
+            <div type="scene" n="1">
+                <head>SCENE I.</head>
+            </div>
+            <div type="scene" n="2">
+                <head>SCENE II.</head>
+            </div>
+            <div type="act" n="2">
+                <head>ACT II.</head>
+            </div>
+            <div type="scene" n="1">
+                <head>SCENE I.</head>
+            </div>
+            <div type="scene" n="2">
+                <head>SCENE II.</head>
+            </div>
+            <div type="scene" n="3">
+                <head>SCENE III.</head>
+            </div>
+            <div type="act" n="3">
+                <head>ACT III.</head>
+            </div>
+            <div type="scene" n="1">
+                <head>SCENE I.</head>
+            </div>
+            <div type="scene" n="2">
+                <head>SCENE II.</head>
+            </div>
+            <div type="scene" n="3">
+                <head>SCENE III.</head>
+            </div>
+            <div type="scene" n="4">
+                <head>SCENE IV.</head>
+            </div>
+            <div type="act" n="4">
+                <head>ACT IV.</head>
+            </div>
+            <div type="scene" n="1">
+                <head>SCENE I.</head>
+            </div>
+            <div type="scene" n="2">
+                <head>SCENE II.</head>
+            </div>
+            <div type="scene" n="3">
+                <head>SCENE III.</head>
+            </div>
+            <div type="act" n="5">
+                <head>ACT V.</head>
+            </div>
+            <div type="scene" n="1">
+                <head>SCENE I.</head>
+            </div>
+            <div type="scene" n="2">
+                <head>SCENE II.</head>
+            </div>
+            <div type="scene" n="3">
+                <head>SCENE III.</head>
+            </div>
+        </body>
+    </text>
+</TEI>
