@@ -25,13 +25,13 @@
     </teiHeader>
     <text>
         <body>
-            <pb n="1" xml:id="TCMp1.0.jpg" facs="data/images/single/TCMp1.0.jpg"/>
-            <pb n="2" xml:id="TCMp1.1.jpg" facs="data/images/single/TCMp1.1.jpg"/>
-            <pb n="3" xml:id="TCMp2.jpg" facs="data/images/single/TCMp2.jpg"/>
-            <pb n="4" xml:id="TCMp3.jpg" facs="data/images/single/TCMp3.jpg"/>
+            <pb n="Cover" xml:id="TCMp1.0.jpg" facs="data/images/single/TCMp1.0.jpg"/>
+            <pb n="1" xml:id="TCMp1.1.jpg" facs="data/images/single/TCMp1.1.jpg"/>
+            <pb n="2" xml:id="TCMp2.jpg" facs="data/images/single/TCMp2.jpg"/>
+            <pb n="3" xml:id="TCMp3.jpg" facs="data/images/single/TCMp3.jpg"/>
             <div type="act" n="1">
                 <div type="scene" n="1"></div>
-                <pb n="5" xml:id="TCMp4.jpg" facs="data/images/single/TCMp4.jpg"/>
+                <pb n="4" xml:id="TCMp4.jpg" facs="data/images/single/TCMp4.jpg"/>
                 <div type="scene" n="2"></div>
             </div>
             <div type="act" n="2">
