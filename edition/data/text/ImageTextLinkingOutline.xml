@@ -31,6 +31,7 @@
             <pb n="4" xml:id="TCMp3.jpg" facs="data/images/single/TCMp3.jpg"/>
             <div type="act" n="1">
                 <div type="scene" n="1"></div>
+                <pb n="5" xml:id="TCMp4.jpg" facs="data/images/single/TCMp4.jpg"/>
                 <div type="scene" n="2"></div>
             </div>
             <div type="act" n="2">
