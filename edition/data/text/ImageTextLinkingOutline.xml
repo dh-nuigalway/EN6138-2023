@@ -49,7 +49,7 @@
             </div>
             
             <div type="act" n="2">
-                <div type="scene" n="1"></div>
+                <div type="scene" n="1">
 		    <pb n="16" xml:id="TCMp16.jpg" facs="data/images/single/TCMp16.jpg"/>
 		    <pb n="17" xml:id="TCMp17.jpg" facs="data/images/single/TCMp17.jpg"/>
 		    <pb n="18" xml:id="TCMp18.jpg" facs="data/images/single/TCMp18.jpg"/>
@@ -57,16 +57,19 @@
 		    <pb n="20" xml:id="TCMp20.jpg" facs="data/images/single/TCMp20.jpg"/>
 		    <pb n="21" xml:id="TCMp21.jpg" facs="data/images/single/TCMp21.jpg"/>
 		    <pb n="22" xml:id="TCMp22.jpg" facs="data/images/single/TCMp22.jpg"/>
-                <div type="scene" n="2"></div>
+		</div>
+                <div type="scene" n="2">
 		    <pb n="23" xml:id="TCMp23.jpg" facs="data/images/single/TCMp23.jpg"/>
 		    <pb n="24" xml:id="TCMp24.jpg" facs="data/images/single/TCMp24.jpg"/>
 		    <pb n="25" xml:id="TCMp25.jpg" facs="data/images/single/TCMp25.jpg"/>
 		    <pb n="26" xml:id="TCMp26.jpg" facs="data/images/single/TCMp26.jpg"/>
-                <div type="scene" n="3"></div>
+		</div>
+                <div type="scene" n="3">
 		    <pb n="27" xml:id="TCMp27.jpg" facs="data/images/single/TCMp27.jpg"/>
 		    <pb n="28" xml:id="TCMp28.jpg" facs="data/images/single/TCMp28.jpg"/>
 		    <pb n="29" xml:id="TCMp29.jpg" facs="data/images/single/TCMp29.jpg"/>
 		    <pb n="30" xml:id="TCMp30.jpg" facs="data/images/single/TCMp30.jpg"/>
+		</div>
             </div>
             <div type="act" n="3">
                 <div type="scene" n="1"/>
