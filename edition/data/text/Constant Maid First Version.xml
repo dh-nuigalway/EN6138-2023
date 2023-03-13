@@ -82,7 +82,7 @@
                 <stage type="entrance" place="centre">Enter behind Hartwell, Playfaire.</stage>
                 
                 <sp><speaker>Close.</speaker>
-                <l n="24">My most exquisite Varges,</l>
+                <l n="24">My most exquisite <name rend="italic">Varges</name>,</l>
                 <l n="25">How I doe love thy documents; but he's here,</l>
                 <l n="26">I'll not be seene with thee, farewell, we'll talk</l>
                 <l n="27">The rest at night over a Sack-posset.</l></sp>
@@ -149,7 +149,7 @@
                 <pb></pb>
                 
                 <l n="65">To your first choyse, with howling out your passion</l>
-                <l n="66">For Mistresse <name rend="italic">Frances</name>, plaining how Don Cupid</l>
+                <l n="66">For Mistresse <name rend="italic">Frances</name>, plaining how <name rend="italic">Don Cupid</name></l>
                 <l n="67">Hath scarrified your heart, you may go hang your selfe:</l>
                 <l n="68">Go to the Barber’s, let him firk your haire up,</l>
                 <l n="69">Or get a perriwig; wash your sullen face,</l>
@@ -162,8 +162,8 @@
                 <sp><speaker>Playfaire.</speaker>
                 <l n="73">This is the way:</l>
                 <l n="74">At leisure you may tell your Maiden Mistresse,</l>
-                <l n="75">Like Jove you have put another shape on,</l>
-                <l n="76">To cheat the Beldam Juno.</l></sp>
+                <l n="75">Like <name rend="italic">Jove</name> you have put another shape on,</l>
+                <l n="76">To cheat the Beldam <name rend="italic">Juno</name>.</l></sp>
                 
                 <sp><speaker>Nurse.</speaker>
                 <l n="77">Foule mouth'd Rascall.</l></sp>
@@ -190,111 +190,111 @@
                 
                 <sp><speaker>Playfaire.</speaker>
                 <l n="88">Thou art engaged to wait</l>
-                <l n="90">Upon thine owne affaires, or I should trouble thee</l>
-                <l n="91">To be an Actor in't; thou knowest old <name rend="italic">Hornet</name>?</l></sp>
+                <l n="89">Upon thine owne affaires, or I should trouble thee</l>
+                <l n="90">To be an Actor in't; thou knowest old <name rend="italic">Hornet</name>?</l></sp>
                 
                 <sp><speaker>Hartwell.</speaker>
-                <l n="92">He is a Sutour to the widdow,</l>
-                <l n="93">And after the rate we cast the plot, my Rivall.</l></sp>
+                <l n="91">He is a Sutour to the widdow,</l>
+                <l n="92">And after the rate we cast the plot, my Rivall.</l></sp>
                 
                 <sp><speaker>Playfaire.</speaker>
-                <l n="94">I'll rivall him; he smothers a poore Gentlewoman</l>
-                <l n="95">At home with sea-cole, and allowes her no</l>
-                <l n="96">More light than serves to read in painted cloth</l>
-                <l n="97">The exposition of the harlot’s storie:</l>
-                <l n="98"><name rend="italic">Hartwell</name>, I love her, and before her father</l>
-                <l n="99">Died we enterchang'd our hearts; 'tis here,</l>
-                <l n="100">To free her from that slaverie she lives in</l>
-                <l n="101">Under the iron-hearted Jaylor, else</l>
+                <l n="93">I'll rivall him; he smothers a poore Gentlewoman</l>
+                <l n="94">At home with sea-cole, and allowes her no</l>
+                <l n="95">More light than serves to read in painted cloth</l>
+                <l n="96">The exposition of the harlot’s storie:</l>
+                <l n="97"><name rend="italic">Hartwell</name>, I love her, and before her father</l>
+                <l n="98">Died we enterchang'd our hearts; 'tis here,</l>
+                <l n="99">To free her from that slaverie she lives in</l>
+                <l n="100">Under the iron-hearted Jaylor, else</l>
                 
                 <pb></pb>
                 
-                <l n="102">I shall repent my aime, he broods upon</l>
-                <l n="103">Her portion still; but I have a trick may spoile</l>
-                <l n="104">His hatching of young bags, thou shalt know all</l>
-                <l n="105">Hereafter; to the Widdow, <name rend="italic">Hartwell</name>, I am</l>
-                <l n="106">For state affaires, be faithfull and pray for me;</l>
-                <l n="107">We must be bold, farewell, if something hit</l>
-                <l n="108">Wee'll laugh in spight of Dives and the Devill.</l></sp>
+                <l n="101">I shall repent my aime, he broods upon</l>
+                <l n="102">Her portion still; but I have a trick may spoile</l>
+                <l n="103">His hatching of young bags, thou shalt know all</l>
+                <l n="104">Hereafter; to the Widdow, <name rend="italic">Hartwell</name>, I am</l>
+                <l n="105">For state affaires, be faithfull and pray for me;</l>
+                <l n="106">We must be bold, farewell, if something hit</l>
+                <l n="107">Wee'll laugh in spight of <name rend="italic">Dives</name> and the Devill.</l></sp>
                 
                 <stage type="exit" place="right">Exit</stage>
                 
                 <stage type="entrance" place="centre">Enter Startup, Mistresse Bellamy, Mistresse Frances, Close, Nurse.</stage>
                 
                 <sp><speaker>Close.</speaker>
-                <l n="109">This is the thing, Sir, that must carrie away</l>
-                <l n="110">The garland, they have given him a cup</l>
-                <l n="111">Or two of Sack, and has the prettiest humour,</l>
-                <l n="112">He does so whistle out his complement:</l>
-                <l n="113">He weares his feather like the Captaine of</l>
-                <l n="114">A Countrey Teame, and would become a horse-collar</l>
-                <l n="115">Rarely; I do not think, but were he put to 't,</l>
-                <l n="116">With little switching, he would draw the cart well.</l></sp>
+                <l n="108">This is the thing, Sir, that must carrie away</l>
+                <l n="109">The garland, they have given him a cup</l>
+                <l n="110">Or two of Sack, and has the prettiest humour,</l>
+                <l n="111">He does so whistle out his complement:</l>
+                <l n="112">He weares his feather like the Captaine of</l>
+                <l n="113">A Countrey Teame, and would become a horse-collar</l>
+                <l n="114">Rarely; I do not think, but were he put to 't,</l>
+                <l n="115">With little switching, he would draw the cart well.</l></sp>
                 
                 <sp><speaker>Startup.</speaker>
-                <l n="117">Sweet Lady, I'm your humble servant, 'tis</l>
-                <l n="118">Well knowne what I am, where I live, my father</l>
-                <l n="119">Died since I was of age; and left me, thank him,</l>
-                <l n="120">A younger brother’s portion:</l></sp>
+                <l n="116">Sweet Lady, I'm your humble servant, 'tis</l>
+                <l n="117">Well knowne what I am, where I live, my father</l>
+                <l n="118">Died since I was of age; and left me, thank him,</l>
+                <l n="119">A younger brother’s portion:</l></sp>
                 
                 <sp><speaker>Bellamy.</speaker>
-                <l n="121">A younger brother.</l></sp>
+                <l n="120">A younger brother.</l></sp>
                 
                 <sp><speaker>Startup.</speaker>
-                <l n="122">I know, sweet Lady, what you'd say, My father</l>
-                <l n="123">Had no more children; but I must speake modestly</l>
-                <l n="124">Of my estate, I have land I know enough</l>
-                <l n="125">For two or three wives; I have a horse in towne,</l>
-                <l n="126">Your daughter, if we please, shall ride behind me,</l>
-                <l n="127">Sweet Lady, did you ever see the Countrey?</l></sp>
+                <l n="121">I know, sweet Lady, what you'd say, My father</l>
+                <l n="122">Had no more children; but I must speake modestly</l>
+                <l n="123">Of my estate, I have land I know enough</l>
+                <l n="124">For two or three wives; I have a horse in towne,</l>
+                <l n="125">Your daughter, if we please, shall ride behind me,</l>
+                <l n="126">Sweet Lady, did you ever see the Countrey?</l></sp>
                 
                 <sp><speaker>Frances.</speaker>
-                <l n="128">What Countrey, Sir?</l></sp>
+                <l n="127">What Countrey, Sir?</l></sp>
                 
                 <sp><speaker>Startup.</speaker>
-                <l n="129">Why any Countrey living,</l>
-                <l n="130">Sweet Lady, I am your humble servant, if</l>
-                <l n="131">You affect hawking, hunting, or drinking,</l>
-                <l n="132">There be good fellowes will beare you company; but you have</l>
-                <l n="133">better Sack, sweet Lady, is there good Tobacco in London?</l></sp>
+                <l n="128">Why any Countrey living,</l>
+                <l n="129">Sweet Lady, I am your humble servant, if</l>
+                <l n="130">You affect hawking, hunting, or drinking,</l>
+                <l n="131">There be good fellowes will beare you company; but you have</l>
+                <l n="132">better Sack, sweet Lady, is there good Tobacco in London?</l></sp>
                 
                 <pb></pb>
                 
                 <sp><speaker>Close.</speaker>
-                <l n="134">Virginia Tobacco growes here, Sir.</l></sp>
+                <l n="133">Virginia Tobacco growes here, Sir.</l></sp>
                 
                 <sp><speaker>Startup.</speaker>
-                <l n="135">Sweet Sir, I am your humble servant, you</l>
-                <l n="136">Seeme to be a Gentleman, will you fetch me a pipe?</l>
-                <l n="137">There's halfe a peece, and I be not troublesome:</l>
-                <l n="138">Perhaps, sweet Lady, 'twill offend you, then</l>
-                <l n="139">Let it alone.</l></sp>
+                <l n="134">Sweet Sir, I am your humble servant, you</l>
+                <l n="135">Seeme to be a Gentleman, will you fetch me a pipe?</l>
+                <l n="136">There's halfe a peece, and I be not troublesome:</l>
+                <l n="137">Perhaps, sweet Lady, 'twill offend you, then</l>
+                <l n="138">Let it alone.</l></sp>
                 
                 <sp><speaker>Close.</speaker>
-                <l n="140">A verie precious Widgin: Gramercie Sack.</l></sp>
+                <l n="139">A verie precious Widgin: Gramercie Sack.</l></sp>
                 
                 <sp><speaker>Startup.</speaker>
                 <stage type="delivery">Dances.</stage>
-                <l n="141">Ta la la la lero, &amp;c.</l></sp>
+                <l n="140"><hi rend="italic">Ta la la la lero,</hi> &amp;c.</l></sp>
                 
                 <sp><speaker>Frances.</speaker>
-                <l n="142">You dance well, Sir.</l></sp>
+                <l n="141">You dance well, Sir.</l></sp>
                 
                 <sp><speaker>Nurse.</speaker>
-                <l n="143">He has a strong back, I warrant him.</l></sp>
+                <l n="142">He has a strong back, I warrant him.</l></sp>
                 
                 <sp><speaker>Startup.</speaker>
-                <l n="144">Sweet Lady, is this your daughter?</l></sp>
+                <l n="143">Sweet Lady, is this your daughter?</l></sp>
                 
                 <sp><speaker>Close.</speaker>
-                <l n="145">Ask that now?</l></sp>
+                <l n="144">Ask that now?</l></sp>
                 
                 <sp><speaker>Bellamy.</speaker>
-                <l n="146">I was her mother, Sir.</l></sp>
+                <l n="145">I was her mother, Sir.</l></sp>
                 
                 <sp><speaker>Startup.</speaker>
-                <l n="147">That may be too: what Gentleman is that?</l>
-                <l n="148">Sweet Sir, I am your humble servant likewise.</l></sp>
+                <l n="146">That may be too: what Gentleman is that?</l>
+                <l n="147">Sweet Sir, I am your humble servant likewise.</l></sp>
                 
                 <sp><speaker>Hartwell.</speaker>
                 <l n="148">You are too humble, Sir, to stoop so low,</l>
