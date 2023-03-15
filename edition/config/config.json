@@ -1,9 +1,9 @@
 {
-    "indexTitle": "Edizione Logica Avicennae [experimental encoding]",
-    "webSite": "",
+    "indexTitle": "The Constant Maid",
+    "webSite": "https://dh-nuigalway.github.io/EN6138-2023/",
     "logoUrl": "",
     
-    "dataUrl": "data/text/avicenna.xml",
+    "dataUrl": "data/text/ImageTextLinkingOutline.xml",
     "sourcesUrl": "data/text/sources.xml",
     "analoguesUrl": "data/text/analogues.xml",
     "sourcesTextsUrl": "data/text/sources/",
