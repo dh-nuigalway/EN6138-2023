@@ -46,8 +46,102 @@
             <div type="act" n="3">
                 <head>ACT III.</head>
             </div>
+            
             <div type="scene" n="1">
                 <head>SCENE I.</head>
+                
+                <stage type="location" place="center">Another Room In the Same.</stage>
+                <stage type="entrance" place="center">Enter Nurse and Startup.</stage>
+                
+                
+                <sp><speaker>Nurse.</speaker>
+                    <l n="1">Fye, fie, I am asham'd of you, a Gentleman</l>
+                    <l n="2">Of your high promising, and be put off</l>
+                    <l n="3">So slightly?</l></sp>
+                
+                <sp><speaker>Startup.</speaker>
+                    <l n="4">Why <name rend="italic">Nurse</name>, what would you ha' me do?</l></sp>
+                
+                <sp><speaker>Nurse.</speaker>
+                    <l n="5">Do? I would have you do something; a man</l>
+                    <l n="6">Of your ability, and cannot turne</l>
+                    <l n="7">And winde a woman?</l></sp>
+                
+                <sp><speaker>Startup.</speaker>
+                    <l n="8">You wo'd not ha' wish'd me</l>
+                    <l n="9">To ha' put her to't behinde the hangings?</l></sp>
+                
+                <sp><speaker>Nurse.</speaker>
+                    <l n="10">You should ha' been round with her.</l></sp>
+                
+                <sp><speaker>Startup.</speaker>
+                    <l n="11">I was round with her, I call'd her asse and coxcombe,</l>
+                    <l n="12">And twenty more names, unlesse I should</l>
+                    <l n="13">Ha' call'd her whore, I could not be more round with her.</l></sp>
+                
+                <sp><speaker>Nurse.</speaker>
+                    <l n="14">I do not mean that way.</l></sp>
+                
+                <sp><speaker>Startup.</speaker>
+                    <l n="15">And she call'd me,</l>
+                    <l n="16">I thank her.</l></sp>
+                
+                <sp><speaker>Nurse.</speaker>
+                    <l n="17">What?</l></sp>
+                
+                <sp><speaker>Startup.</speaker>
+                    <l n="18">Why no worse than her sins, heaven forgive her,</l></sp>
+                
+                <pb n="34"></pb>
+                <fw place="top-center" type="head">The Constant Maid, Act III Scene I.</fw>
+                
+                <l n="19">She has the more to answer; nay she did</l>
+                <l n="20">Not stick to bid me die too, in that desparate</l>
+                <l n="21">Estate.</l>
+                
+                <sp><speaker>Nurse.</speaker>
+                    <l n="22">Come, you shall take another course.</l></sp>
+                
+                <stage type="entrance" place="center">Enter Close.</stage>
+                
+                <sp><speaker>Close.</speaker>
+                    <l n="23">What ayles my Masters sweet-heart, she frighted?</l>
+                    <l n="24">I met and askt her for my Master, and</l>
+                    <l n="25">She turn'd tayle lik a hound had lost the scent;</l>
+                    <l n="26">There's something in the winde, my three pil'd worship</l>
+                    <l n="27">Are you there with my Lady o'th' Larder,</l>
+                    <l n="28">Now in that posture? do not they two look like</l>
+                    <l n="29">A fine Brick house and a thatched Barne in the Countrey,</l>
+                    <l n="30">Laying their heads together? they ha' spied me.</l></sp>
+                
+                <sp><speaker>Nurse.</speaker>
+                    <l n="31">Come hither <name rend="italic">Close</name>, nay he's faithfull, and one that</l>
+                    <l n="32">Has a desire to serve you; you may trust him.</l></sp>
+                
+                <sp><speaker>Close.</speaker>
+                    <l n="33">Your worship may trust me a bed with— I</l>
+                    <l n="34">Have had a itch this great while, sir, a kinde</l>
+                    <l n="35">Of longing to be one of your appurtenances:</l>
+                    <l n="36">I have some faults, and I'll confesse 'em; I have</l>
+                    <l n="37">A humour now and then, when I am ask'd</l>
+                    <l n="38">A question, to tell true, though I be chid for't;</l>
+                    <l n="39">And I do not love blowes; you may sooner beat</l>
+                    <l n="40">My braines out, than a word of flattery:</l>
+                    <l n="41">I cannot batten upon commendation,</l>
+                    <l n="42">Without my wages, nor be valiant</l>
+                    <l n="43">Upon small Beere; I am not overmuch</l>
+                    <l n="45">To do your businesse as well drunke as sober:</l>
+                    <l n="46">I have not impudence enough to pimpe</l>
+                    <l n="47">For you, but I have a gift I can say nothing:</l>
+                    <l n="48">I was borne upon Shrovetuesday, and shall be</l>
+                    <l n="49">Now and then given to rebellion:</l>
+                    <l n="50">My flesh will once a year rise at a Chamber-maid;</l>
+                    <l n="51">If none such take me downe, I shall in malice</l>
+                    <l n="52">And deep revenge, fling out upon May-day,</l>
+                    <l n="53">Among the Prentices, without fear or wit.</l></sp>
+                
+                <pb n="35"></pb>
+                
             </div>
             <div type="scene" n="2">
                 <head>SCENE II.</head>
