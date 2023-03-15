@@ -28,7 +28,7 @@
             "label": "MULTIPLE_RECENSIONS",
             "icon": "mode-versions",
             "viewMode": "versions",
-            "visible": true
+            "visible": false
         },
         {
             "label": "IMAGE_TEXT",
@@ -75,7 +75,7 @@
             "value": "diplomatic",
             "label": "Diplomatic",
             "title": "Diplomatic edition",
-            "visible": false
+            "visible": true
         },
         {
             "value": "interpretative",
@@ -86,8 +86,8 @@
     ],
     
     "showDocumentSelector": false,
-    "enableNavBar": false,
-    "initNavBarOpened": false,
+    "enableNavBar": true,
+    "initNavBarOpened": true,
     "thumbnailsButton": false,
     "viscollButton": false,
 
