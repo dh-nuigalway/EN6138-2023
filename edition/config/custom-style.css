@@ -33,11 +33,15 @@
 	font-size: 95%;
 	font-style: italic;
 }
-
-.speaker{font-style:italic;}
-
-stage{font-style:italic;}
-
+.speaker{font-style:italic;
+	text-align:center}
+	stage{font-style:italic;
+	text-align:left
+	}
+	.fw{text-align:center;
+	 font-style:Normal;
+	 font-weight:900}
+	 
 span.analogue span.analogue__text span.quote {
 	font-style: italic;
 }
