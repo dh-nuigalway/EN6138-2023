@@ -27,7 +27,6 @@
             </div>
             <div type="scene" n="1">
                 <head>SCENE I.</head>
-                <pb n="1"/>
                 <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
 
                 <stage type="location" place="center">The Street before Hartwell’s House.</stage>
@@ -64,7 +63,7 @@
                     <l n="15">Assistance promise to your selves.</l>
                 </sp>
 
-                <pb n="2"/>
+                <pb n="1"/>
 
                 <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
 
@@ -146,7 +145,7 @@
                 <stage type="exit" place="right">Exit.</stage>
                 <lb/>
 
-                <pb n="3"/>
+                <pb n="2"/>
 
                 <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
 
@@ -268,7 +267,7 @@
                     <l n="87">All?</l>
                 </sp>
 
-                <pb n="4"/>
+                <pb n="3"/>
 
                 <fw place="top-center" type="head">The Constant Maid, Act I Scene II</fw>
 
