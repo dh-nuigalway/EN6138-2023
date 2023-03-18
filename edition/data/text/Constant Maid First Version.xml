@@ -27,6 +27,303 @@
             </div>
             <div type="scene" n="1">
                 <head>SCENE I.</head>
+                <pb n="1"/>
+                <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
+
+                <stage type="location" place="center">The Street before Hartwell’s House.</stage>
+
+                <stage type="entrance" place="center">Enter Hartwell, Close, and three other
+                    Servants.</stage>
+
+                <lb/>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="1">Nay let’s not part so heavily.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="2">For mine owne part</l>
+                    <l n="3">It does not trouble me so much, that you</l>
+                    <l n="4">Have broke up house; for hospitalitie</l>
+                    <l n="5">Went out of fashion with crop-doublets</l>
+                    <l n="6">And cod-peeces: but I that have worne out</l>
+                    <l n="7">So many liveries under the worshipfull</l>
+                    <l n="8">Old Gentleman your father.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="9">My father had an office, which brought in</l>
+                    <l n="10">A faire revenew; I inherit but</l>
+                    <l n="11">His little land, whose annuall profits wo'not</l>
+                    <l n="12">Encourage me to live at the same height:</l>
+                    <l n="13">Yee may meet better fortunes, there's enough</l>
+                    <l n="14">Preferment in the world; my love and best</l>
+                    <l n="15">Assistance promise to your selves.</l>
+                </sp>
+
+                <pb n="2"/>
+
+                <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="16">I do not</l>
+                    <l n="17">Stand upon wages, Sir, I will not leave you.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="18">How woot thou live?</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="19">As other mortals do; yet I'll not play</l>
+                    <l n="20">The thiefe, that is a course by which a man</l>
+                    <l n="21">May soone ascend the ladder of preferment:</l>
+                    <l n="22">But I ne're lov'd these climbing trees. I cannot</l>
+                    <l n="23">Cheat, though I have heard there is an art,</l>
+                    <l n="24">A devillish deale of knowledge in the dice;</l>
+                    <l n="25">And if men wonot part with money, some</l>
+                    <l n="26">Will fetch it out o'th' bones: but the best casting</l>
+                    <l n="27">Is in a Taverne, when the wine and reckoning</l>
+                    <l n="28">Come up together; some doe spin a living by't:</l>
+                    <l n="29">And there are many secret wayes for Serving-men</l>
+                    <l n="30">To live, it is not wages does maintaine</l>
+                    <l n="31">All of our Tribe, Sir; and especially</l>
+                    <l n="32">Those that have Mistresses.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="33">But I am a Bachelour.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="34">I pray let me be one of your buttons still then,</l>
+                    <l n="35">I am not halfe worne out; you know what mould</l>
+                    <l n="36">I'm made off, I did ever honest service;</l>
+                    <l n="37">And though my fellow Vermin can forsake</l>
+                    <l n="38">Your falling house, I doe not feare the rafters;</l>
+                    <l n="39">By this hand, Sir, I'll wait upon you, though</l>
+                    <l n="40">Like great mens servants, I do live on nothing</l>
+                    <l n="41">But looks, and the aire of commendations.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="42">Well, since you are so resolute, attend me,</l>
+                    <l n="43">The rest I here discharge, there's somewhat more,</l>
+                    <l n="44">Not worth the name of bountie, I wish all</l>
+                    <stage type="delivery">Gives them money.</stage>
+                    <l n="45">A happier entertainment.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 2.</speaker>
+                    <l n="46">And there be</l>
+                    <l n="47">No remedy, heaven blesse you, Sir.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="48">Pray give me leave to wet my lips with these</l>
+                    <l n="49">My fellowes, sorrow has made but a dry proverb,</l>
+                    <l n="50">I must toth' Taverne, and condole a quart.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="51">Meet me at Mistresse <name rend="italic">Bellamy</name>’s then.</l>
+                </sp>
+
+                <lb/>
+
+                <stage type="exit" place="right">Exit.</stage>
+                <lb/>
+
+                <pb n="3"/>
+
+                <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="52">I shall, Sir.</l>
+                </sp>
+
+                <lb/>
+
+                <stage type="entrance" place="center">Enter Playfaire.</stage>
+
+                <lb/>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="53">How now Masters.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="54">You speake not</l>
+                    <l n="55">To me, Sir, I am a servant still indeed;</l>
+                    <l n="56">With them the case is alter'd, they are masters,</l>
+                    <l n="57">For they want services.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 1.</speaker>
+                    <l n="58">Oh, Master <name rend="italic">Playfaire</name>.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 2.</speaker>
+                    <l n="59">It is not now as when <name rend="italic">Andrea</name> liv'd,</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 3.</speaker>
+                    <l n="60">This place was made for pleasure, not for death.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 1.</speaker>
+                    <l n="61">There was a time when mortals whetted knives.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 2.</speaker>
+                    <l n="62">In time of yore, when men kill'd brutish beasts.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 3.</speaker>
+                    <l n="63">Oh cruell Butcher, whosoe're thou wert.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="64">Do not you know what all this signifies?</l>
+                </sp>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="65">Not I.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="66">My master has given over house-keeping.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 1.</speaker>
+                    <l n="67">He has committed Burglarie, broke up the cellar,</l>
+                    <l n="68">And throwne the kitchin out at the hall window.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="69">His house, Sir, has a superscription,</l>
+                    <l n="70">And is directed to his loving friend</l>
+                    <l n="71">Will pay the rent, you'l hardly know me now,</l>
+                    <l n="72">I have no fellow.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="73">You are verie merrie, Sir.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 2.</speaker>
+                    <l n="74">He has some cause, we are discharg'd.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="75">For certaine, my master only</l>
+                    <l n="76">Belongs to me, if you would speake with him,</l>
+                    <l n="77">He's gone to Mistresse <name rend="italic">Bellamy</name>’s, Sir;</l>
+                    <l n="78">In the meane time, please you to understand,</l>
+                    <l n="79">I Close follow my master, and shall feed still,</l>
+                    <l n="80">Although my fellowes here are become blanks,</l>
+                    <l n="81">And do want filling.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="82">Lads, I have knowne you long:</l>
+                    <l n="83">Although you be at losse, in confidence</l>
+                    <l n="84">Of all your future honesties, I'll employ yee</l>
+                    <l n="85">In a device, which if it hit, may</l>
+                    <l n="86">Reward your paines.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="87">All?</l>
+                </sp>
+
+                <pb n="4"/>
+
+                <fw place="top-center" type="head">The Constant Maid, Act I Scene II</fw>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="88">Your Master only, Sir, belongs to you,</l>
+                    <l n="89">Follow him still, and if there be occasion,</l>
+                    <l n="90">I shall enquire for you; you will be faithfull.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servants omnes.</speaker>
+                    <l n="91">Doubt not, Mr. <name rend="italic">Playfaire</name>.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="92">I have a project,</l>
+                    <l n="93">Follow me for instructions; farewell <name rend="italic"
+                        >Close</name>,</l>
+                    <l n="94">Commend me to your master.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 2.</speaker>
+                    <l n="95">Buoy <name rend="italic">Close</name>, buoy honest <name rend="italic"
+                            >Close</name>, we are blanks, blanks.</l>
+                </sp>
+
+                <lb/>
+
+                <stage type="exit" place="right">Exit Playfaire and Servants.</stage>
+
+                <lb/>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="96">Roule up your selves in paper-liveries, and</l>
+                    <l n="97">Be drawne at the next Lotterie; I wo'not</l>
+                    <l n="98">Forsake my certaintie for all your projects,</l>
+                    <l n="99">If it should faile I shall find some of you</l>
+                    <l n="100">Sneaking in <name rend="italic">Paul's</name> behind a pillar,
+                        with</l>
+                    <l n="101">A zealous prayer, some Gentleman would read</l>
+                    <l n="102">The bed-roll of your commendation,</l>
+                    <l n="103">And pitie a verie serviceable fellow,</l>
+                    <l n="104">That would faine wait on him, but wants a cloake:</l>
+                    <l n="105">Go, prosper with your project.</l>
+                </sp>
+
+                <lb/>
+
+                <stage type="exit" place="right">Exeunt.</stage>
+
+                <lb/>
             </div>
             <div type="scene" n="2">
                 <head>SCENE II.</head>
