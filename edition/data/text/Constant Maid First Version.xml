@@ -24,45 +24,48 @@
         <body>
             <div type="titlepage">
                 <l n="1">THE CONSTANT MAID</l>
-                
-                
+
+
                 <l n="2">A Comedy.</l>
-                
-                
+
+
                 <l n="3">Written by <name rend="italic">James Shirley.</name></l>
-                
-                
-                <l n="4">LONDON, Printed by <name rend="italic">I. Raworth</name>, for <name rend="italic">R. Whitaker.</name> 1640.</l> 
+
+
+                <l n="4">LONDON, Printed by <name rend="italic">I. Raworth</name>, for <name
+                        rend="italic">R. Whitaker.</name> 1640.</l>
             </div>
-       
-            <pb/> 
-            
-            <div type="characterlist">
-            <head>The names of the persons.</head>
-            <l n="1">Hornet, <hi rend="italic">a rich Usurer.</hi></l>
-            <l n="2">Hartwell, <hi rend="italic">a young Gentleman, Lover of Mistresse</hi> Frances.</l>
-            <l n="3">Playfaire, <hi rend="italic">a Gallant.</hi></l>
-            <l n="4">A Gentleman, <hi rend="italic">Cousen</hi> to Playfaire.</l>
-            <l n="5">Sir Clement, a <hi rend="italic">Justice.</hi></l>
-            <l n="6">Startup, a <hi rend="italic">foolish Gentleman.</hi></l>
-            <l n="7">A Countrey-man.</l>
-            <l n="8">Close, <hi rend="italic">Servant</hi> to Hartwell.</l>
-            <l n="9">Three Servants, <hi rend="italic">disguised sometimes as Lords, one of them once disguised as a Pursevant.</hi></l>
-            <l n="10">A Constable.</l>
-            <l n="11">Three Watchmen.</l>
-            <l n="12">Masquers.</l>
-            <l n="13">Officers.</l>
-            <l n="14">Servants and Attendants.</l>
-            <l n="15">Bellamy, <hi rend="italic">a Widdow.</hi></l>
-            <l n="16">Frances, <hi rend="italic">her Daughter.</hi></l>
-            <l n="17">Nurse, <hi rend="italic">their Servant.</hi></l>
-            <l n="18">Neece <hi rend="italic">to</hi> Hornet.</l>
-            <lb/>
-            <l n="19"><hi rend="italic">The Scene,</hi> London.</l>
-           </div>
-            
+
             <pb/>
-            
+
+            <div type="characterlist">
+                <head>The names of the persons.</head>
+                <l n="1">Hornet, <hi rend="italic">a rich Usurer.</hi></l>
+                <l n="2">Hartwell, <hi rend="italic">a young Gentleman, Lover of Mistresse</hi>
+                    Frances.</l>
+                <l n="3">Playfaire, <hi rend="italic">a Gallant.</hi></l>
+                <l n="4">A Gentleman, <hi rend="italic">Cousen</hi> to Playfaire.</l>
+                <l n="5">Sir Clement, a <hi rend="italic">Justice.</hi></l>
+                <l n="6">Startup, a <hi rend="italic">foolish Gentleman.</hi></l>
+                <l n="7">A Countrey-man.</l>
+                <l n="8">Close, <hi rend="italic">Servant</hi> to Hartwell.</l>
+                <l n="9">Three Servants, <hi rend="italic">disguised sometimes as Lords, one of them
+                        once disguised as a Pursevant.</hi></l>
+                <l n="10">A Constable.</l>
+                <l n="11">Three Watchmen.</l>
+                <l n="12">Masquers.</l>
+                <l n="13">Officers.</l>
+                <l n="14">Servants and Attendants.</l>
+                <l n="15">Bellamy, <hi rend="italic">a Widdow.</hi></l>
+                <l n="16">Frances, <hi rend="italic">her Daughter.</hi></l>
+                <l n="17">Nurse, <hi rend="italic">their Servant.</hi></l>
+                <l n="18">Neece <hi rend="italic">to</hi> Hornet.</l>
+                <lb/>
+                <l n="19"><hi rend="italic">The Scene,</hi> London.</l>
+            </div>
+
+            <pb/>
+
             <div type="act" n="1">
                 <head>ACT I.</head>
             </div>
@@ -139,7 +142,12 @@
 
                 <sp>
                     <speaker>Hartwell.</speaker>
-                    <l n="33">But I am a Bachelour.</l>
+                    <l n="33">But I am a Bachelour<note type="textual">In the 17th and 18th
+                            centuries, it was common in English-language texts to capitalise the
+                            first letter of common “important” nouns, probably as a result of the
+                            influence of continental, particularly German, books. However, this was
+                            not done systematically; one reason may be that each printer had their
+                            own personal preferences. </note>.</l>
                 </sp>
 
                 <sp>
@@ -221,7 +229,12 @@
 
                 <sp>
                     <speaker>Servant 2.</speaker>
-                    <l n="59">It is not now as when <name rend="italic">Andrea</name> liv'd,</l>
+                    <l n="59">It is not now as when <name rend="italic">Andrea</name> liv'd<note
+                            type="intertextual">As the 1833 editor points out, some of the lines
+                            said by the servants in this passage are taken from Hieronimo’s
+                            monologue in scene V of <name rend="italic">The Spanish Tragedy,</name>
+                            a very popular and influential play in the English Renaissance theatre
+                            written by Thomas Kyd between 1582 and 1592. </note>,</l>
                 </sp>
 
                 <sp>
@@ -350,8 +363,13 @@
                     <l n="97">Be drawne at the next Lotterie; I wo'not</l>
                     <l n="98">Forsake my certaintie for all your projects,</l>
                     <l n="99">If it should faile I shall find some of you</l>
-                    <l n="100">Sneaking in <name rend="italic">Paul's</name> behind a pillar,
-                        with</l>
+                    <l n="100">Sneaking in <name rend="italic">Paul's</name><note type="contextual"
+                            >Close is most probably referring to the Old St Paul’s Cathedral, which
+                            was destroyed shortly afterwards in the Great Fire of London in 1666 and
+                            rebuilt as we know it today. Despite its decay at the time, the
+                            cathedral was in the 17th century one of the focal points of London’s
+                            cultural, literary and political life, as well as a popular pilgrimage
+                            site.</note> behind a pillar, with</l>
                     <l n="101">A zealous prayer, some Gentleman would read</l>
                     <l n="102">The bed-roll of your commendation,</l>
                     <l n="103">And pitie a verie serviceable fellow,</l>
@@ -611,12 +629,21 @@
                     <l n="103">Hangings would serve the turne; if I may be</l>
                     <l n="104">Worthy to counsell, costly pictures are</l>
                     <l n="105">Superfluous, though of this, or t'other masters</l>
-                    <l n="106">Doing: Hang <name rend="italic">Michael Angelo</name> and his
-                        oyles.</l>
+                    <l n="106">Doing: Hang <name rend="italic">Michael Angelo</name><note
+                            type="contextual">Michelangelo di Lodovico Buonarroti Simoni
+                            (1475-1564), Italian Renaissance sculptor, painter, architect and
+                            poet.</note> and his oyles.</l>
                     <l n="107">If they be given, y'are the more excus'd</l>
                     <l n="108">To let 'em shew; but have a care you let not</l>
                     <l n="109">Appeare, either in Arras, or in picture,</l>
-                    <l n="110">The storie of the Prodigall, 'twill fright</l>
+                    <l n="110">The storie of the Prodigall<note type="intertextual">Hornet advises
+                            Bellamy not to display art depicting the Parable of the Prodigal Son,
+                            one of the parables of Jesus Christ in the Bible, appearing in Luke
+                            15:11-32. The parable is framed as a response to a criticism of Jesus by
+                            the Pharisees and scribes for receiving sinners and eating with them,
+                            and emphasises God’s mercy towards the repentant. Hornet seems to warn
+                            that, if Bellamy shows this parable to her young male guests, they may
+                            restrict how much they spend on their dowries.</note>, 'twill fright</l>
                     <l n="112">Young Gentlemen that come to visit you</l>
                     <l n="113">From spending o'their portions, whose riot</l>
                     <l n="114">May enrich you with their forfeited estates;</l>
