@@ -156,7 +156,131 @@
 
                 <lb/>
 
-                <pb n="3" xml:id="TCMp6.jpg" facs="data/images/single/TCMp6.jpg"/>
+                <pb n="3" xml:id="TCMp6.jpg" facs="data/images/single/TCMp6.jpg"/>      <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="52">I shall, Sir.</l>
+                </sp>
+
+                <lb/>
+
+                <stage type="entrance" place="center">Enter Playfaire.</stage>
+
+                <lb/>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="53">How now Masters.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="54">You speake not</l>
+                    <l n="55">To me, Sir, I am a servant still indeed;</l>
+                    <l n="56">With them the case is alter'd, they are masters,</l>
+                    <l n="57">For they want services.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 1.</speaker>
+                    <l n="58">Oh, Master <name rend="italic">Playfaire</name>.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 2.</speaker>
+                    <l n="59">It is not now as when <name rend="italic">Andrea</name> liv'd<note
+                            type="intertextual">As the 1833 editor points out, some of the lines
+                            said by the servants in this passage are taken from Hieronimo’s
+                            monologue in scene V of <name rend="italic">The Spanish Tragedy,</name>
+                            a very popular and influential play in the English Renaissance theatre
+                            written by Thomas Kyd between 1582 and 1592. </note>,</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 3.</speaker>
+                    <l n="60">This place was made for pleasure, not for death.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 1.</speaker>
+                    <l n="61">There was a time when mortals whetted knives.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 2.</speaker>
+                    <l n="62">In time of yore, when men kill'd brutish beasts.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 3.</speaker>
+                    <l n="63">Oh cruell Butcher, whosoe're thou wert.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="64">Do not you know what all this signifies?</l>
+                </sp>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="65">Not I.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="66">My master has given over house-keeping.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 1.</speaker>
+                    <l n="67">He has committed Burglarie, broke up the cellar,</l>
+                    <l n="68">And throwne the kitchin out at the hall window.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="69">His house, Sir, has a superscription,</l>
+                    <l n="70">And is directed to his loving friend</l>
+                    <l n="71">Will pay the rent, you'l hardly know me now,</l>
+                    <l n="72">I have no fellow.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="73">You are verie merrie, Sir.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 2.</speaker>
+                    <l n="74">He has some cause, we are discharg'd.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="75">For certaine, my master only</l>
+                    <l n="76">Belongs to me, if you would speake with him,</l>
+                    <l n="77">He's gone to Mistresse <name rend="italic">Bellamy</name>’s, Sir;</l>
+                    <l n="78">In the meane time, please you to understand,</l>
+                    <l n="79">I Close follow my master, and shall feed still,</l>
+                    <l n="80">Although my fellowes here are become blanks,</l>
+                    <l n="81">And do want filling.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Playfaire.</speaker>
+                    <l n="82">Lads, I have knowne you long:</l>
+                    <l n="83">Although you be at losse, in confidence</l>
+                    <l n="84">Of all your future honesties, I'll employ yee</l>
+                    <l n="85">In a device, which if it hit, may</l>
+                    <l n="86">Reward your paines.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="87">All?</l>
+                </sp>
+
                 <pb n="4" xml:id="TCMp7.jpg" facs="data/images/single/TCMp7.jpg"/>
 		</div>
                 <div type="scene" n="2">
