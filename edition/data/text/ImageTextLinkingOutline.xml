@@ -73,6 +73,89 @@
                 <div type="scene" n="1">
                 <pb n="1" xml:id="TCMp4.jpg" facs="data/images/single/TCMp4.jpg"/>
                 <pb n="2" xml:id="TCMp5.jpg" facs="data/images/single/TCMp5.jpg"/>
+                
+                <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="16">I do not</l>
+                    <l n="17">Stand upon wages, Sir, I will not leave you.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="18">How woot thou live?</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="19">As other mortals do; yet I'll not play</l>
+                    <l n="20">The thiefe, that is a course by which a man</l>
+                    <l n="21">May soone ascend the ladder of preferment:</l>
+                    <l n="22">But I ne're lov'd these climbing trees. I cannot</l>
+                    <l n="23">Cheat, though I have heard there is an art,</l>
+                    <l n="24">A devillish deale of knowledge in the dice;</l>
+                    <l n="25">And if men wonot part with money, some</l>
+                    <l n="26">Will fetch it out o'th' bones: but the best casting</l>
+                    <l n="27">Is in a Taverne, when the wine and reckoning</l>
+                    <l n="28">Come up together; some doe spin a living by't:</l>
+                    <l n="29">And there are many secret wayes for Serving-men</l>
+                    <l n="30">To live, it is not wages does maintaine</l>
+                    <l n="31">All of our Tribe, Sir; and especially</l>
+                    <l n="32">Those that have Mistresses.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="33">But I am a Bachelour<note type="textual">In the 17th and 18th
+                            centuries, it was common in English-language texts to capitalise the
+                            first letter of common “important” nouns, probably as a result of the
+                            influence of continental, particularly German, books. However, this was
+                            not done systematically; one reason may be that each printer had their
+                            own personal preferences. </note>.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="34">I pray let me be one of your buttons still then,</l>
+                    <l n="35">I am not halfe worne out; you know what mould</l>
+                    <l n="36">I'm made off, I did ever honest service;</l>
+                    <l n="37">And though my fellow Vermin can forsake</l>
+                    <l n="38">Your falling house, I doe not feare the rafters;</l>
+                    <l n="39">By this hand, Sir, I'll wait upon you, though</l>
+                    <l n="40">Like great mens servants, I do live on nothing</l>
+                    <l n="41">But looks, and the aire of commendations.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="42">Well, since you are so resolute, attend me,</l>
+                    <l n="43">The rest I here discharge, there's somewhat more,</l>
+                    <l n="44">Not worth the name of bountie, I wish all</l>
+                    <stage type="delivery">Gives them money.</stage>
+                    <l n="45">A happier entertainment.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Servant 2.</speaker>
+                    <l n="46">And there be</l>
+                    <l n="47">No remedy, heaven blesse you, Sir.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="48">Pray give me leave to wet my lips with these</l>
+                    <l n="49">My fellowes, sorrow has made but a dry proverb,</l>
+                    <l n="50">I must toth' Taverne, and condole a quart.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="51">Meet me at Mistresse <name rend="italic">Bellamy</name>’s then.</l>
+                </sp>
+
+                <lb/>
+
                 <pb n="3" xml:id="TCMp6.jpg" facs="data/images/single/TCMp6.jpg"/>
                 <pb n="4" xml:id="TCMp7.jpg" facs="data/images/single/TCMp7.jpg"/>
 		</div>
