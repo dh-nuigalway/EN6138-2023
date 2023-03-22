@@ -164,7 +164,7 @@
                     
                     <l n="4">Nor know I whom to accuse for my tormentors;</l>
                     <l n="5">Devils or men, but sure they were not men,</l>
-                    <l n="6">But very fiends I revell'd with last night.</l>
+                    <l n="6">But very fiends <note type="etymological"> <term>fiend.</term> An evil spirit generally; a demon, devil, or diabolical being; more fully  fiend of hell. (OED n. 3) </note>I revell'd with last night.</l>
                     <l n="7">That I could meet the prince of devils that knighted me,</l>
                     <l n="8">The Poets call him <name rend="italic">Pluto</name>, god of riches;</l>
                     <l n="9">I and my learned Councell would undo him</l>
@@ -248,12 +248,12 @@
                 
                 <sp><speaker>Hornet.</speaker>
                     <l n="48">But touching my <name rend="italic">Neece</name>, good sir,</l>
-                    <l n="49">That most ungracious giglet,</l>
+                    <l n="49">That most ungracious giglet,<note type="etymological"> <term>giglet.</term> A giddy, laughing, romping girl. (OED n. b) </note></l>
                     <l n="50">That's run or stolne away, juggled last night</l>
                     <l n="51">Out a my doores.</l></sp>
                 
                 <sp><speaker>Cousen.</speaker>
-                    <l n="52">Did not she leap the casement?</l></sp>
+                    <l n="52">Did not she leap the casement?<note type="etymological"> <term>casement.</term>A vertically hinged frame containing glass, forming (part of) a window. Hence (more generally): a window. (OED n. 2a) </note></l></sp>
                 
                 <sp><speaker>Hornet.</speaker>
                     <l n="53">Do not increase my agony; you came—</l></sp>
@@ -300,7 +300,7 @@
                     <pb n="59"/>
                     <fw place="top-center" type="head">The Constant Maid, Act V Scene III</fw>
                     
-                    <l n="75">One that has lent me sums too without parchment.</l>
+                    <l n="75">One that has lent me sums too without parchment.<note type="etymological"> <term>parchment.</term>Animal skin dressed and prepared for writing, painting, bookbinding, etc. (OED n. 1)</note></l>
                     <l n="76">Or foolish circumstance, to be repaid;</l>
                     <l n="77">Which you were never yet so much a Christian,</l>
                     <l n="78">As to be guilt of, in your Usurers gallon</l>
@@ -457,7 +457,7 @@
   <l n="44">As soone I should destroy it; you perhaps</l>
   <l n="45">Know not my provocation: He was</l>
   <l n="46">My Rivall, sir, pardon me: Mistris <name rend="italic">Bellamy</name>,</l>
-  <l n="47">To whom I only seemed a Proselyte</l>
+      <l n="47">To whom I only seemed a Proselyte<note type="etymological"> <term>proselyte.</term>A person who has changed from one opinion, religion, party, etc., to another; a convert. (OED n. 2)</note></l>
   <l n="48">In love, I had no heart to give from her:</l>
       
   <stage type="delivery">Pointing to Frances.</stage>
@@ -479,7 +479,7 @@
   <l n="57">Tell me, most unkinde, if thou didst love</l>
   <l n="58">At all? How couldst thou thinke I should be such</l>
   <l n="59">A desperate Atheist, that thou so soone,</l>
-  <l n="60">And with a strange Apostacy should'st revenge it?</l>
+      <l n="60">And with a strange Apostacy<note type="etymological"> <term>apostacy.</term>Abandonment or renunciation of one's religious faith or moral allegiance. (OED n. 1a)</note> should'st revenge it?</l>
   <l n="61">These swelling drops which in thy innocence</l>
   <l n="62">Might ha' prevail'd to ha' restor'd the dead,</l>
   <l n="63">Heaven now doth looke on, and despise: And though</l>
@@ -497,7 +497,7 @@
     
   <fw place="top-center" type="head">The Constant Maid, Act V Scene III</fw>
     
-  <l n="73">In what I was beneath that gaudy foole,</l>
+      <l n="73">In what I was beneath that gaudy<note type="etymological"> <term>gaudy.</term>Excessively or glaringly showy, tastelessly fine or colourful. (OED adj.2. 3a) </note> foole,</l>
   <l n="74">Excepting that he had more earth than I</l>
   <l n="75">To helpe his scale, which yet he may be indebt for</l>
   <l n="76">To his fathers sins: Alive, he could not merit</l>
@@ -728,8 +728,8 @@
   
   <sp><speaker>Hornet.</speaker>
   <l n="182">As you see, falne away an inch since morning,</l>
-  <l n="183">But this will physicke me; If I possesse</l>
-  <l n="184">This harlotry agen, I'll make her sure:</l>
+      <l n="183">But this will physicke<note type="etymological"> <term>†physick.</term>A healthy practice or habit, meaning “this will cure me”. <name rend="italics">Obsolete.</name> (OED n. 2a)</note> me; If I possesse</l>
+      <l n="184">This harlotry<note type="etymological"> <term>†harlotry.</term>Coarse or indecent language or behaviour; crude jesting; ribaldry; obscenity. Also in weaker sense: frivolous entertainment or behaviour, buffoonery. <name rend="italics">Obsolete.</name> (OED, n. 1)</note>agen, I'll make her sure:</l>
   <l n="185">Trust not a woman, they have found the herbe</l>
   <l n="186">To open locks; not brazen Towers can hold'em.</l>
   <l n="187">Or if they get not loose, they have the vertue</l>
@@ -817,7 +817,7 @@
   <l n="221">Tell me of a marriage?</l></sp>
   
   <sp><speaker>Cousen.</speaker>
-  <l n="222">I saw the Priest conjoyne'em:</l>
+      <l n="222">I saw the Priest conjoyne'em<note type="etymological"> <term> †conjoyn. </term> Unite in marriage. <name rend="italics">Obsolete.</name> (OED. v. 1c) </note>:</l>
   <l n="223">He will deserve your love.</l></sp>
   
   <sp><speaker>Playfaire.</speaker>
