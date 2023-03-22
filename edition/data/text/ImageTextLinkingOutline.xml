@@ -23,7 +23,7 @@
             <p>Encoded by <name><!--WP4--></name></p>
         </encodingDesc>
     </teiHeader>
-    <text>
+    <text n="The Constant Maid" xml:id="tcm">
         <body>
             <pb n="Cover" xml:id="TCMp1.0.jpg" facs="data/images/single/TCMp1.0.jpg"/>
             <pb n="i" xml:id="TCMp1.1.jpg" facs="data/images/single/TCMp1.1.jpg"/>
