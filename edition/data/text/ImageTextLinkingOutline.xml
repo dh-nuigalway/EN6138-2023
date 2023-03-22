@@ -31,7 +31,7 @@
             <pb n="i" xml:id="TCMp1.1.jpg" facs="data/images/single/TCMp1.1.jpg"/>
 
             <pb n="ii" xml:id="TCMp2.jpg" facs="data/images/single/TCMp2.jpg"/>
-             <div type="titlepage">
+             
                 <l n="1">THE CONSTANT MAID</l>
 
 
@@ -43,8 +43,7 @@
 
                 <l n="4">LONDON, Printed by <name rend="italic">I. Raworth</name>, for <name
                         rend="italic">R. Whitaker.</name> 1640.</l>
-            </div>
-
+            
             <pb n="iii" xml:id="TCMp3.jpg" facs="data/images/single/TCMp3.jpg"/>
               <div type="characterlist">
                 <head>The names of the persons.</head>
@@ -77,7 +76,43 @@
             <div type="act" n="1">
                 <div type="scene" n="1">
                 <pb n="1" xml:id="TCMp4.jpg" facs="data/images/single/TCMp4.jpg"/>
-                
+                 <head>SCENE I.</head>
+                <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
+
+                <stage type="location" place="center">The Street before Hartwell’s House.</stage>
+
+                <stage type="entrance" place="center">Enter Hartwell, Close, and three other
+                    Servants.</stage>
+
+                <lb/>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="1">Nay let’s not part so heavily.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Close.</speaker>
+                    <l n="2">For mine owne part</l>
+                    <l n="3">It does not trouble me so much, that you</l>
+                    <l n="4">Have broke up house; for hospitalitie</l>
+                    <l n="5">Went out of fashion with crop-doublets</l>
+                    <l n="6">And cod-peeces: but I that have worne out</l>
+                    <l n="7">So many liveries under the worshipfull</l>
+                    <l n="8">Old Gentleman your father.</l>
+                </sp>
+
+                <sp>
+                    <speaker>Hartwell.</speaker>
+                    <l n="9">My father had an office, which brought in</l>
+                    <l n="10">A faire revenew; I inherit but</l>
+                    <l n="11">His little land, whose annuall profits wo'not</l>
+                    <l n="12">Encourage me to live at the same height:</l>
+                    <l n="13">Yee may meet better fortunes, there's enough</l>
+                    <l n="14">Preferment in the world; my love and best</l>
+                    <l n="15">Assistance promise to your selves.</l>
+                </sp>
+
                 <pb n="2" xml:id="TCMp5.jpg" facs="data/images/single/TCMp5.jpg"/>
 
                 <pb n="3" xml:id="TCMp6.jpg" facs="data/images/single/TCMp6.jpg"/>
