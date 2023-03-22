@@ -141,24 +141,28 @@
             </div>
             <div type="act" n="4">
                 <div type="scene" n="1">
+                <pb n="40" xml:id="TCMp43.jpg" facs="data/images/single/TCMp43.jpg"/>
+                <pb n="41" xml:id="TCMp44.jpg" facs="data/images/single/TCMp44.jpg"/>
+                <pb n="42" xml:id="TCMp45.jpg" facs="data/images/single/TCMp45.jpg"/>
                 <pb n="43" xml:id="TCMp46.jpg" facs="data/images/single/TCMp46.jpg"/>
+		</div>
+                <div type="scene" n="2">
                 <pb n="44" xml:id="TCMp47.jpg" facs="data/images/single/TCMp47.jpg"/>
                 <pb n="45" xml:id="TCMp48.jpg" facs="data/images/single/TCMp48.jpg"/>
                 <pb n="46" xml:id="TCMp49.jpg" facs="data/images/single/TCMp49.jpg"/>
                 <pb n="47" xml:id="TCMp50.jpg" facs="data/images/single/TCMp50.jpg"/>
                 <pb n="48" xml:id="TCMp51.jpg" facs="data/images/single/TCMp51.jpg"/>
-		</div>
-                <div type="scene" n="2">
                 <pb n="49" xml:id="TCMp52.jpg" facs="data/images/single/TCMp52.jpg"/>
-                <pb n="50" xml:id="TCMp53.jpg" facs="data/images/single/TCMp53.jpg"/>
-                <pb n="51" xml:id="TCMp54.jpg" facs="data/images/single/TCMp54.jpg"/>
-                <pb n="52" xml:id="TCMp55.jpg" facs="data/images/single/TCMp55.jpg"/>
-                <pb n="53" xml:id="TCMp56.jpg" facs="data/images/single/TCMp56.jpg"/>
-                <pb n="54" xml:id="TCMp57.jpg" facs="data/images/single/TCMp57.jpg"/>
-                <pb n="55" xml:id="TCMp58.jpg" facs="data/images/single/TCMp58.jpg"/>
 		</div>
                 <div type="scene" n="3">
-                <pb n="56" xml:id="TCMp59.jpg" facs="data/images/single/TCMp59.jpg"/>
+                <pb n="50" xml:id="TCMp53.jpg" facs="data/images/single/TCMp59.jpg"/>
+		<pb n="51" xml:id="TCMp54.jpg" facs="data/images/single/TCMp54.jpg"/>
+		<pb n="52" xml:id="TCMp55.jpg" facs="data/images/single/TCMp55.jpg"/>
+		<pb n="53" xml:id="TCMp56.jpg" facs="data/images/single/TCMp56.jpg"/>
+		<pb n="54" xml:id="TCMp57.jpg" facs="data/images/single/TCMp57.jpg"/>
+		<pb n="55" xml:id="TCMp58.jpg" facs="data/images/single/TCMp58.jpg"/>
+		<pb n="56" xml:id="TCMp59.jpg" facs="data/images/single/TCMp59.jpg"/>
+			
 		</div>
             </div>
             <div type="act" n="5">
