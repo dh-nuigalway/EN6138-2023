@@ -33,7 +33,7 @@
             </div>
 
             <pb n="12"/>
-            <fw place="top-center" type="head"> The Constant Maid, Act II Scene I</fw>
+            <fw place="top-center" type="head">ACT II. SCENE I.</fw>
 
             <div type="act" n="2">
                 <head>ACT II.</head>
@@ -46,7 +46,7 @@
                 <stage type="entrance" place="center">Enter Close and Nurse.</stage>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="1">A word of thy mouth does it, I am wearie</l>
                     <l n="2">Of these indentures, like a foole, I was</l>
                     <l n="3">In hope he should have married Mistresse <name rend="italic"
@@ -54,7 +54,7 @@
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="4">A beggar, she his wife; no, Master <name rend="italic"
                         >Startup</name>,</l>
                     <l n="5">Whom I preferr'd, must carrie her, he's a man</l>
@@ -63,28 +63,28 @@
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="8">The fitter for her husband, and my master.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="9">Y'are in the right, he's innocent to your hands,</l>
                     <l n="10">You may soone come to manage his estate.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="11">Which if I do, thou shalt have all.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="12">All what?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="13">Why all that I can beg, borrow, or steale</l>
                     <l n="14">From him; what should he do with so much riches?</l>
                     <l n="15">I'll prompt my mistresse, after the first yeare,</l>
@@ -94,22 +94,20 @@
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="19">Nay, I would wish her to begin betimes,</l>
-                    <l n="20">If she doe meane to rule the roost<note type="etymological"><term>to
-                                rule the roost.</term> To have full sway or authority; to be master
-                            (OED “to rule the roast” P2a).</note>, I can</l>
+                    <l n="20">If she doe meane to rule the roost, I can</l>
                     <l n="21">Give her some documents; and be you sure</l>
                     <l n="22">To stick close to your Mistresse, there is something</l>
                     <l n="23">To be got that way.</l>
                 </sp>
 
-                <lb/>
+               
                 <stage type="entrance" place="center">Enter behind Hartwell, Playfaire.</stage>
-                <lb/>
+              
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="24">My most exquisite <name rend="italic">Varges</name><note
                             type="intertextual">As the editor of the 1833 edition states, Close is
                             probably alluding to Verges, a character in Shakespeare’s comedy <name
@@ -122,56 +120,50 @@
                     <l n="27">The rest at night over a Sack-posset.</l>
                 </sp>
 
-                <lb/>
+               
                 <stage type="exit" place="right">Exit Close.</stage>
-                <lb/>
+                
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="28">I will use this advantage to overheare 'em.</l>
                 </sp>
 
-                <lb/>
+                
                 <stage type="exit" place="right">Retires.</stage>
-                <lb/>
+                
 
                 <pb n="13"/>
-                <fw place="top-center" type="head"> The Constant Maid, Act II Scene I</fw>
+                <fw place="top-center" type="head">ACT II. SCENE I.</fw>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="29">You tell me strange things; Is it possible</l>
                     <l n="30">The widdow her selfe loves you?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="31">Would I had</l>
                     <l n="32">But reason to suspect.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="33">Possible!</l>
                     <l n="34">Turn'd Cold againe? This love will kill us all:</l>
                     <l n="35">And can she make no choyce, but where her daughter</l>
                     <l n="36">Has the same longing? not her dancing dayes</l>
-                    <l n="37">Done yet?<note type="etymological">Morris Palmer Tilly records the
-                            proverb “My dancing days are done” in A dictionary of the proverbs in
-                            England in the sixteenth and seventeenth centuries. This expression was
-                            used by playwrights of this period to refer to youth. Capulet says a
-                            similar expression in Shakespeare’s Romeo and Juliet: “for you and I are
-                            past our dancing days”.</note> why there's no remedy, you must love
-                        her.</l>
+                    <l n="37">Done yet? why there's no remedy, you must love her.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="38">And violate my faith made to her daughter.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="39">Thou wilt not be so much an Infidell,</l>
                     <l n="40">To think I meane thou shouldst forsake the wench;</l>
                     <l n="41">Tell me the mother a fine tale of love,</l>
@@ -189,13 +181,13 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="53">Is this the way to doe me good? she comes</l>
                     <l n="54">Too fast on me already.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="55">Let her flie to thee,</l>
                     <l n="56">Thou mayst clip her wings the sooner, this secures thee;</l>
                     <l n="57">Shou'd you hold off, and play the modest creature;</l>
@@ -208,27 +200,25 @@
                     <l n="64">Or should you be so mad, to think to win her</l>
 
                     <pb n="14"/>
-                    <fw place="top-center" type="head"> The Constant Maid, Act II Scene I</fw>
+                    <fw place="top-center" type="head">ACT II. SCENE I.</fw>
 
                     <l n="65">To your first choyse, with howling out your passion</l>
                     <l n="66">For Mistresse <name rend="italic">Frances</name>, plaining how <name
                             rend="italic">Don Cupid</name></l>
                     <l n="67">Hath scarrified your heart, you may go hang your selfe:</l>
-                    <l n="68">Go to the Barber’s, let him firk your haire up<note
-                            type="etymological"><term>firk your hair up.</term> Probably to stir up,
-                            rouse (OED “to firk up (figurative)”, v. 2b).</note>,</l>
+                    <l n="68">Go to the Barber’s, let him firk your haire up,</l>
                     <l n="69">Or get a perriwig; wash your sullen face,</l>
                     <l n="70">And starch your infant upper lip, to look</l>
                     <l n="71">Like one that would run desperate on a widdow.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="72">Precious conspiracie.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="73">This is the way:</l>
                     <l n="74">At leisure you may tell your Maiden Mistresse,</l>
                     <l n="75">Like <name rend="italic">Jove</name> you have put another shape
@@ -237,22 +227,19 @@
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
-                    <l n="77">Foule mouth'd<note type="etymological"><term>foule mouth.</term> A
-                            person who speaks in an offensive or disgraceful way, (now) spec. one
-                            who uses coarse or obscene language; a foul-mouthed person (OED
-                            “foulmouth” n. A).</note> Rascall.</l>
+                    <speaker>Nurse</speaker>
+                    <l n="77">Foule mouth'd Rascall.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="78">I apprehend: th'ast given me good counsell,</l>
                     <l n="79">I'll watch the first occasion, to assure</l>
                     <l n="80">I have preferr'd her in my heart already.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="81">I'll conjure up a crosse plot, and that quickly,</l>
                     <l n="82">Shall mar your mirth, and pay your fine dissembling</l>
                     <l n="83">As it deserves, my confident Love-gamester<note type="intertextual">
@@ -263,12 +250,12 @@
                             who plays love games.</note>.</l>
                 </sp>
 
-                <lb/>
+                
                 <stage type="exit" place="right">Exit.</stage>
-                <lb/>
+               
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="84">I'll take my leave then, y'have no other service</l>
                     <l n="85">To use my stay? I have a project, <name rend="italic"
                         >Hartwell</name>,</l>
@@ -276,12 +263,12 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="87">May not I communicate?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="88">Thou art engaged to wait</l>
                     <l n="89">Upon thine owne affaires, or I should trouble thee</l>
                     <l n="90">To be an Actor in't; thou knowest old <name rend="italic"
@@ -289,35 +276,34 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="91">He is a Sutour to the widdow,</l>
                     <l n="92">And after the rate we cast the plot, my Rivall.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="93">I'll rivall him; he smothers a poore Gentlewoman</l>
                     <l n="94">At home with sea-cole, and allowes her no</l>
                     <l n="95">More light than serves to read in painted cloth</l>
-                    <l n="96">The exposition of the harlot’s storie<note type="intertextual">
-                            <p>This could be an allusion to a biblical story, since in Act I, Scene
-                                II, Hornet advises Bellamy to hang a picture depicting another
-                                biblical story, that of the Prodigal Son.</p>
-                            <p>Although there are many references to harlots in the Bible, in this
-                                case they could be talking about Rahab, “the harlot of Jericho”.
-                                Rahab helped the Israelites capture Jericho, and she and her family
-                                were then incorporated as Jewish people. Hornet, a Jew, would see in
-                                her a good example of his faith. Indeed, as Hornet explains to
-                                Bellamy in Act I, he believes that paintings should be displayed to
-                                convey certain messages. In this case, Rahab would be an example of
-                                faith, virtuosity and righteous behaviour to his niece (to whom, on
-                                more than one occasion, he refers in similar terms to “harlot”).</p>
-                            <p>However, given that this play is full of classical references, they
-                                could also be talking about Helen of Troy, usually portrayed as the
-                                one responsible for the Trojan War by abandoning Menelaus for Paris.
-                                This interpretation would also make sense, since in the masque in
-                                Act IV, Scene III, Playfaire will play Paris and the Neece will play
-                                Helen.</p></note>:</l>
+                    <l n="96">The exposition of the harlot’s storie<note type="intertextual"> This
+                            could be an allusion to a biblical story, since in Act I, Scene II,
+                            Hornet advises Bellamy to hang a picture depicting another biblical
+                            story, that of the Prodigal Son. Although there are many
+                            references to harlots in the Bible, in this case they could be talking
+                            about Rahab, “the harlot of Jericho”. Rahab helped the Israelites
+                            capture Jericho, and she and her family were then incorporated as Jewish
+                            people. Hornet, a Jew, would see in her a good example of his faith.
+                            Indeed, as Hornet explains to Bellamy in Act I, he believes that
+                            paintings should be displayed to convey certain messages. In this case,
+                            Rahab would be an example of faith, virtuosity and righteous behaviour
+                            to his niece (to whom, on more than one occasion, he refers in similar
+                            terms to “harlot”). However, given that this play is full of
+                            classical references, they could also be talking about Helen of Troy,
+                            usually portrayed as the one responsible for the Trojan War by
+                            abandoning Menelaus for Paris. This interpretation would also make
+                            sense, since in the masque in Act IV, Scene III, Playfaire will play
+                            Paris and the Neece will play Helen.</note>:</l>
                     <l n="97"><name rend="italic">Hartwell</name>, I love her, and before her
                         father</l>
                     <l n="98">Died we enterchang'd our hearts; 'tis here,</l>
@@ -325,15 +311,10 @@
                     <l n="100">Under the iron-hearted Jaylor, else</l>
 
                     <pb n="15"/>
-                    <fw place="top-center" type="head"> The Constant Maid, Act II Scene I</fw>
+                    <fw place="top-center" type="head">ACT II. SCENE I.</fw>
 
-                    <l n="101">I shall repent my aime, he broods upon<note type="etymological"
-                                ><term>†broods upon.</term> To produce by brooding upon; to breed.
-                            (Cf. Gen. i. 2.) <name rend="italic">Obsolete.</name> (OED “brood”, v.
-                            1b). </note></l>
-                    <l n="102">Her portion<note type="etymological"><term>portion.</term>A dowry; =
-                            marriage portion. Now chiefly <name rend="italic">historical.</name>
-                            (OED n. 1d). </note> still; but I have a trick may spoile</l>
+                    <l n="101">I shall repent my aime, he broods upon</l>
+                    <l n="102">Her portion still; but I have a trick may spoile</l>
                     <l n="103">His hatching of young bags, thou shalt know all</l>
                     <l n="104">Hereafter; to the Widdow, <name rend="italic">Hartwell</name>, I
                         am</l>
@@ -343,17 +324,16 @@
                         Devill.</l>
                 </sp>
 
-                <lb/>
+                
                 <stage type="exit" place="right">Exit</stage>
-                <lb/>
+               
 
-                <lb/>
                 <stage type="entrance" place="center">Enter Startup, Mistresse Bellamy, Mistresse
                     Frances, Close, Nurse.</stage>
-                <lb/>
+               
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="108">This is the thing, Sir, that must carrie away</l>
                     <l n="109">The garland, they have given him a cup</l>
                     <l n="110">Or two of Sack, and has the prettiest humour,</l>
@@ -365,7 +345,7 @@
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="116">Sweet Lady, I'm your humble servant, 'tis</l>
                     <l n="117">Well knowne what I am, where I live, my father</l>
                     <l n="118">Died since I was of age; and left me, thank him,</l>
@@ -373,12 +353,12 @@
                 </sp>
 
                 <sp>
-                    <speaker>Bellamy.</speaker>
+                    <speaker>Bellamy</speaker>
                     <l n="120">A younger brother.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="121">I know, sweet Lady, what you'd say, My father</l>
                     <l n="122">Had no more children; but I must speake modestly</l>
                     <l n="123">Of my estate, I have land I know enough</l>
@@ -388,12 +368,12 @@
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="127">What Countrey, Sir?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="128">Why any Countrey living,</l>
                     <l n="129">Sweet Lady, I am your humble servant, if</l>
                     <l n="130">You affect hawking, hunting, or drinking,</l>
@@ -402,15 +382,15 @@
                 </sp>
 
                 <pb n="16"/>
-                <fw place="top-center" type="head"> The Constant Maid, Act II Scene I</fw>
+                <fw place="top-center" type="head">ACT II. SCENE I.</fw>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="133">Virginia Tobacco growes here, Sir.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="134">Sweet Sir, I am your humble servant, you</l>
                     <l n="135">Seeme to be a Gentleman, will you fetch me a pipe?</l>
                     <l n="136">There's halfe a peece, and I be not troublesome:</l>
@@ -419,55 +399,55 @@
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="139">A verie precious Widgin: Gramercie Sack.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <stage type="delivery">Dances.</stage>
                     <l n="140"><hi rend="italic">Ta la la la lero,</hi> &amp;c.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="141">You dance well, Sir.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="142">He has a strong back, I warrant him.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="143">Sweet Lady, is this your daughter?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="144">Ask that now?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Bellamy.</speaker>
+                    <speaker>Bellamy</speaker>
                     <l n="145">I was her mother, Sir.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="146">That may be too: what Gentleman is that?</l>
                     <l n="147">Sweet Sir, I am your humble servant likewise.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="148">You are too humble, Sir, to stoop so low,</l>
                     <l n="149">It would become my dutie.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="150">Sweet Sir, 'tis all one,</l>
                     <l n="151">A leg or an arme is not cast away</l>
                     <l n="152">Among friends, I am a Countrey Gentleman</l>
@@ -476,12 +456,12 @@
                 </sp>
 
                 <sp>
-                    <speaker>Bellamy.</speaker>
+                    <speaker>Bellamy</speaker>
                     <l n="155">I thought you came to see my daughter.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="156">That may be too, sweet Lady, pray uncase me,</l>
                     <l n="157">I honour your faire daughter; for I know,</l>
                     <l n="158">As well as another, what belongs to a Gentlewoman:</l>
@@ -490,22 +470,22 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="161">Were you ever married?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="162">Sweet Sir, not all men are not alike.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="163">For some are fooles.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="164">Sweet Sir, I do confesse it:</l>
                     <l n="165">But wit is never good till it be bought.</l>
                     <l n="166">They say there are good wits in towne,</l>
@@ -513,32 +493,32 @@
                     <l n="168">If any will sell me a penny-worth, I'll</l>
 
                     <pb n="17"/>
-                    <fw place="top-center" type="head"> The Constant Maid, Act II Scene I</fw>
+                    <fw place="top-center" type="head">ACT II. SCENE I.</fw>
 
                     <l n="169">Give him a hundred peeces, 'cause I would carrie</l>
                     <l n="170">A little downe into the Countrey.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="171">Is there</l>
                     <l n="172">A dearth, Sir, in your Countrey?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="173">Sweet Sir, no;</l>
                     <l n="174">There's plentie.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="175">Of wild oats; I heard you had much</l>
                     <l n="176">To sow still.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="177">My servants have, sweet Sir; but 'tis all one;</l>
                     <l n="178">This Lady shall be Lord o' the Soyle: I wo'not</l>
                     <l n="179">Give any man six pence for a bushell o' money;</l>
@@ -549,122 +529,122 @@
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="184">Away, away.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="185">By this gold they shall.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="186">He keeps his oath.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="187">Not run? my Grandfather was a Nobleman Foot-man,</l>
                     <l n="188">and indeed he run his countrey; my father did outrun the Con-</l>
                     <l n="189">stable.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="190">And he, sweet Lady, being his father’s issue, must run na-</l>
                     <l n="191">turally.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="192">If I live.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="193">He'll run himselfe out of all.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="194">Not run, sweet Lady?</l>
                     <l n="195">If you have occasion to use me, I wo'not stand upon my feet.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="196">No, Sir.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="197">Nay, I wo'not stand upon my head, sweet Lady, to doe</l>
                     <l n="198">you courtesie.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="199">That were the cleane contrarie way.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Bellamy.</speaker>
+                    <speaker>Bellamy</speaker>
                     <l n="200">Please you, a sorrie dinner stayes for you.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="201">Sweet Lady, I am your servant: will this Gentleman</l>
                     <l n="202">dine with us?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Bellamy.</speaker>
+                    <speaker>Bellamy</speaker>
                     <l n="203">I'll prevaile with Master <name rend="italic">Hartwell</name>.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="204">Do yee know what you ha done? he's you rivall,</l>
                     <l n="205">invite him?</l>
                 </sp>
 
                 <pb n="18"/>
-                <fw place="top-center" type="head"> The Constant Maid, Act II Scene II</fw>
+                <fw place="top-center" type="head">ACT II. SCENE II.</fw>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="206">Sweet Sir, I invite no body, if you love any body here?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="207">What then?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="208">Sweet Sir, I shannot take it kindly, I do not use to quarrel.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="209">But when y'are beaten: lay him o're the face, hee sha'not</l>
                     <l n="210">wrong you.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="211">Sweet Sir, 'tis dinner time: faire Lady:</l>
                 </sp>
 
-                <lb/>
+               
                 <stage type="exit" place="right">Exeunt all but Close.</stage>
-                <lb/>
+                
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="212">I had a great mind to have him beaten;</l>
                     <l n="213">But he's not valiant, but at meales; would I</l>
                     <l n="214">Were hired to beat him handsomely after dinner,</l>
@@ -672,9 +652,9 @@
                     <l n="216">Upon your precious body, my sweet Sir.</l>
                 </sp>
 
-                <lb/>
+               
                 <stage type="exit" place="right">Exit.</stage>
-                <lb/>
+                
 
             </div>
 
@@ -684,22 +664,22 @@
                 <stage type="location" place="center">A Room in Hornet’s House.</stage>
                 <stage type="entrance" place="center">Enter Hornet, Playfaire’s Cousen disguised
                     like a Doctor.</stage>
-                <lb/>
+                
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="1">You tell me wonders, Sir.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="2">I tell you truth:</l>
                     <l n="3">Alas, you know I have no ends of profit,</l>
                     <l n="4">I practise not for wealth.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="5">Y'are vertuous;</l>
                     <l n="6">For that you were commended, Sir, to me:</l>
                     <l n="7">You have a conscience, and wo'not take</l>
@@ -708,25 +688,25 @@
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="10">I have cur'd her melancholly; but she's a t'other side</l>
                     <l n="11">Now extreme merrie, dance and sing, all aire.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="12">'Tis strange, methinks, nothing but extremities:</l>
                     <l n="13">Good Master Doctor, could you not ha par'd</l>
                     <l n="14">Her t'other leaden humor.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="15">Sir, I could not</l>
 
                     <pb n="19"/>
 
-                    <fw place="top-center" type="head">The Constant Maid, Act II Scene II</fw>
+                    <fw place="top-center" type="head">ACT II. SCENE II.</fw>
 
                     <l n="16">Kill the malignitie of her melancholly</l>
                     <l n="17">Another way; extremities must be cur'd</l>
@@ -738,14 +718,14 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="23">I complain'd before</l>
                     <l n="24">Of quietnesse, now she's all noyse and madnesse,</l>
                     <l n="25">By your description.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="26">You must have patience</l>
                     <l n="27">A month or so, she is not mad, but merrie,</l>
                     <l n="28">Some few vagaries; you must understand</l>
@@ -759,34 +739,24 @@
                     <l n="36">Shee's here.</l>
                 </sp>
 
-                <lb/>
+              
                 <stage type="entrance" place="center">Enter Neece.</stage>
-                <lb/>
+              
 
                 <sp>
-                    <speaker>Neece.</speaker>
+                    <speaker>Neece</speaker>
                     <l n="37">Uncle, how does your body? you appeare</l>
-                    <l n="38">As leane<note type="etymological"><term>lean.</term> Wanting in flesh;
-                            not plump or fat; thin (OED adj. 1a).</note> as Lent<note
-                            type="etymological"><term>Lent</term><p>Chiefly with capital initial. A
-                                period of fasting and penitence, beginning on Ash Wednesday and
-                                ending shortly before Easter, observed in the Christian Church in
-                                commemoration of the time Jesus spent in the wilderness. Now also: a
-                                period of fasting or abstinence observed at the same time in secular
-                                culture. Formerly also in: † Clean Lent in the same sense
-                                (obsolete). (OED n. 2a).</p>
-                            <p>As other characters through the play, the Neece is commenting on
-                                Hornet’s thinness.</p></note>, I've a great mind to dance</l>
+                    <l n="38">As leane as Lent, I've a great mind to dance</l>
                     <l n="39">About a May-pole, shall we?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="40">She is mad.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Neece.</speaker>
+                    <speaker>Neece</speaker>
                     <l n="41">This Doctor has for tickled me,</l>
                     <l n="42"> cannot chuse but laugh, ha, ha.</l>
                     <l n="43">Unckle, if you'l procure a dispensation</l>
@@ -803,16 +773,16 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="50">I know the Devill?</l>
                 </sp>
 
                 <pb n="20"/>
 
-                <fw place="top-center" type="head">The Constant Maid, Act II Scene II</fw>
+                <fw place="top-center" type="head">ACT II. SCENE II.</fw>
 
                 <sp>
-                    <speaker>Neece.</speaker>
+                    <speaker>Neece</speaker>
                     <l n="51">He's a fine old Gentleman,</l>
                     <l n="52">And something like you, no such Bug-beare as</l>
                     <l n="53">The world imagines, you an he'll keep house</l>
@@ -841,7 +811,7 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="66">Why does she talk of dying? she's stark mad.</l>
                     <l n="67">Could you not put into the next receit</l>
                     <l n="68">Something to make her sleep well? <hi rend="italic">Opium</hi></l>
@@ -849,7 +819,7 @@
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="70">I'll so proportion it, she shall never wake:</l>
                     <l n="71">I did it for a Merchant’s wife last weeke,</l>
                     <l n="72">Which loved a Knight: a great man, not long since</l>
@@ -858,17 +828,17 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="75">She heares.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="76">But collects nothing; all her senses are scatter'd.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Neece.</speaker>
+                    <speaker>Neece</speaker>
                     <l n="77">Stay, you shall give towards the building of a Church</l>
                     <l n="78">Nothing, see the money first laid out,</l>
                     <l n="79">That's given already; it were sin and pitie</l>
@@ -888,15 +858,15 @@
 
                 <pb n="21"/>
 
-                <fw place="top-center" type="head">The Constant Maid, Act II Scene II</fw>
+                <fw place="top-center" type="head">ACT II. SCENE II.</fw>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="84">Whom? what fellow?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Neece.</speaker>
+                    <speaker>Neece</speaker>
                     <l n="85">Why the Corne-cutter:</l>
                     <l n="86">Poore Gentleman, he meant no hurt to the Citie,</l>
                     <l n="87">His feet were verie wearie, and that made him</l>
@@ -906,28 +876,28 @@
                             >head</hi> spoyl'd all.</l>
                 </sp>
 
-                <lb/>
+         
                 <stage type="entrance" place="center">Enter Servant 4, disguised as
                     Pursevant.</stage>
-                <lb/>
+         
 
                 <sp>
-                    <speaker>Pursevant.</speaker>
+                    <speaker>Pursevant</speaker>
                     <l n="90">Which is Master <name rend="italic">Hornet?</name></l>
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="91">Ha, with me?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Pursevant.</speaker>
+                    <speaker>Pursevant</speaker>
                     <l n="92">A word, Sir.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Neece.</speaker>
+                    <speaker>Neece</speaker>
                     <l n="93">Prethee, what's he? he comes to borrow money</l>
                     <l n="94">On his wives wedding-ring, or his child's whistle:</l>
                     <l n="95">You may see by his nose he has no land, he looks</l>
@@ -943,19 +913,19 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="101">I am sent for by a Pursevant to his Highnesse;</l>
                     <l n="102">Alas, I am undone, I never saw him,</l>
                     <l n="103">How should he know me, a poore wretch?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="104">Is't not some complaint, think you?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="105">That's my feare, there be</l>
                     <l n="106">Too many knaves i'th' world, and a man cannot</l>
                     <l n="107">Grow rich; but one State-Surgeon or other</l>
@@ -975,13 +945,13 @@
                 </sp>
 
                 <sp>
-                    <speaker>Neece.</speaker>
+                    <speaker>Neece</speaker>
                     <l n="119">Why how now, Unckle, is your Scrivener broke,</l>
                     <l n="120">You talk such lamentation?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="121">I am sent for the King, Neece, &amp; shall be made a beggar</l>
                     <l n="122"> As I was borne; I see my chattell ceas'd,</l>
                     <l n="123">This chest is ransackt, and that bag deflour'd,</l>
@@ -993,62 +963,62 @@
                 </sp>
 
                 <sp>
-                    <speaker>Neece.</speaker>
+                    <speaker>Neece</speaker>
                     <l n="126">Nay, and you be at that ward, I must leave you,</l>
 
                     <pb n="22"/>
 
-                    <fw place="top-center" type="head">The Constant Maid, Act II Scene III</fw>
+                    <fw place="top-center" type="head">ACT II. SCENE III.</fw>
 
                     <l n="127">Fare well, pray do not lift my Uncle too hard;</l>
                     <l n="128">And so I leave you both to the mercy of the Bear-garden.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="129">Best make fast her Chamber.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="130">I, I, cursed dog.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="131">Wo' not some money quallifie your haste?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Pursevant.</speaker>
+                    <speaker>Pursevant</speaker>
                     <l n="132">Deale in your owne affairs; Will you go sit?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="133">Go, I must go.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Doctor.</speaker>
+                    <speaker>Doctor</speaker>
                     <l n="134">I'll take my leave;</l>
                     <l n="135">Have comfort, sir, this cloud may soon blow over.</l>
                 </sp>
 
-                <lb/>
+           
                 <stage type="exit" place="right">Exit.</stage>
-                <lb/>
+               
 
                 <sp>
-                    <speaker>Hornet.</speaker>
+                    <speaker>Hornet</speaker>
                     <l n="136">Yes, when I am blowne up;</l>
                     <l n="137">I reade imprisonment in his very looks,</l>
                     <l n="138">And all my gold confiscate.</l>
                 </sp>
 
-                <lb/>
+           
                 <stage type="exit" place="right">Exeunt.</stage>
-                <lb/>
+          
 
             </div>
             <div type="scene" n="3">
@@ -1056,11 +1026,11 @@
 
                 <stage type="location" place="center">A Room in Mistresse Bellamy's House.</stage>
                 <stage type="entrance" place="center">Enter Nurse and Startup.</stage>
-                <lb/>
+          
 
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="1">I heard her say she would walke up to her chamber,</l>
                     <l n="2">The trick was but to teach him whither he</l>
                     <l n="3">Should follow; who as nimbly apprehended,</l>
@@ -1074,19 +1044,19 @@
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="9">This will be excellent;</l>
                     <l n="10">So we shall strangle him in his owne nooze,</l>
                     <l n="11">And he never know who hurt him.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="12">I'll loose no time, you know my instructions.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="13">I had almost forgot, there is a cast of angels<note type="contextual"
                                 ><name rend="bold">angels.</name>A gold coin issued in England
                             between 1465 and c1642, bearing the figure of the archangel Michael
@@ -1096,19 +1066,19 @@
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="14">They are not cast away.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="15">If thou dost fear they'll drowne, <name rend="italic">Nurse</name>, I
                         can give thee</l>
                     <l n="16">Lighter, I have some want weight.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="17">If you have an evill angel<note type="contextual">In France and
                             England there was a superstitious belief that the royal touch could cure
                             scrofula, also known as “the king's evil”. The kings of England
@@ -1118,72 +1088,72 @@
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="19">There.</l>
                     <stage type="delivery">Gives her more money.</stage>
                 </sp>
 
                 <sp>
-                    <speaker>Nurse.</speaker>
+                    <speaker>Nurse</speaker>
                     <l n="20">Now all the good ones wait upon your worship.</l>
                 </sp>
 
-                <lb/>
+              
                 <stage type="exit" place="right">Exit.</stage>
-                <lb/>
+           
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="21">These things that go to and agen, must have</l>
                     <l n="22">Their fees, they'll never speak in cause else.</l>
                     <l n="23">Save you sweet Lady.</l>
                 </sp>
 
-                <lb/>
+           
                 <stage type="entrance" place="center">Enter Frances.</stage>
-                <lb/>
+       
 
                 <pb n="23"/>
-                <fw place="top-center" type="head">The Constant Maid, Act II Scene III</fw>
+                <fw place="top-center" type="head">ACT II. SCENE III.</fw>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="24">Kinde Mr. <name rend="italic">Startup</name>.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="25">Yes, I am kinde if you knew all, but you are</l>
                     <l n="26">Deceiv'd in some body; love, and love your heart out,</l>
                     <l n="27">The party does not care a button for you.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="28">What party?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="29">No, I am a foole, a countrey clod, sweet Lady,</l>
                     <l n="30">Not worth one of your Shooe-tyes, no not I;</l>
                     <l n="31">I do not know who makes an asse of you.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="32">How sir?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="33">A gull, a coxcomb, I am asham'd you have</l>
                     <l n="34">So little wit; Tell me, and tell me truly,</l>
                     <l n="35">Who loves this face of yours besides my selfe.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="36">Although it were immodest to commend it,</l>
                     <l n="37">I must thus far, in gratitude to nature,</l>
                     <l n="38">Acknowledge it no monster, I have seen</l>
@@ -1191,7 +1161,7 @@
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="40">Sweet Lady I know that;</l>
                     <l n="41">A worse face would become the Countrey, nay,</l>
                     <l n="42">There are but fifteen women in the parish</l>
@@ -1201,60 +1171,60 @@
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="46">This is course language.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="47">Not to see who abuses you; Oh I could</l>
                     <l n="48">Now finde in my heart to baste you, baste you soundly:</l>
                     <l n="49">You think Mr. <name rend="italic">Hartwell</name> loves you.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="50">I</l>
                     <l n="51">Believe he hates me not.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="52">You lie.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="53">Good words.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="54">You lie most basely, he affects your mother.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="55">My mother? this fool's mad.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="56">I would it were</l>
                     <l n="57">The fashion for women to weare swords.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="58">What then?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="59">I'de breath you into a little understanding,</l>
 
                     <pb n="24"/>
-                    <fw place="top-center" type="head">The Constant Maid, Act II Scene III</fw>
+                    <fw place="top-center" type="head">ACT II. SCENE III.</fw>
 
                     <l n="60">I say agen, and she is the son of darknesse</l>
                     <l n="61">Denyes it; Mr. <name rend="italic">Hartwell</name> loves your
@@ -1262,24 +1232,24 @@
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="62">I hope he does.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="63">Oh I could kick your ignorance:</l>
                     <l n="64">He does love her in the way of Matrimony,</l>
                     <l n="65">And makes a property of you; I'll justifie it.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="66">It is impossible.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="67">D'ee know that couple?</l>
                     <stage type="delivery">Enter behind Hartwell and mistresse Bellamy.</stage>
                     <l n="68">Step behinde the hangings, and you may</l>
@@ -1287,12 +1257,12 @@
                     <l n="70">I am a rustick puppy, and know nothing.</l>
                 </sp>
 
-                <lb/>
+            
                 <stage type="exit" place="right">Frances and Startup retire.</stage>
-                <lb/>
+            
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="71">I have considered perfectly, and if</l>
                     <l n="72">You will vouchsafe me hearing, dare poure forth</l>
                     <l n="73">My heart, which, full of love, tenders it selfe</l>
@@ -1302,12 +1272,12 @@
                 </sp>
 
                 <sp>
-                    <speaker>Bellamy.</speaker>
+                    <speaker>Bellamy</speaker>
                     <l n="77">But may I credit this?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="78">But suspect were an injustice to my faith, which lookes</l>
                     <l n="79">Upon your vertue with as much religion</l>
                     <l n="80">As love is able to receive; your age</l>
@@ -1329,11 +1299,11 @@
                 </sp>
 
                 <pb n="25"/>
-                <fw place="top-center" type="head">The Constant Maid, Act II Scene III</fw>
+                <fw place="top-center" type="head">ACT II. SCENE III.</fw>
 
 
                 <sp>
-                    <speaker>Bellamy.</speaker>
+                    <speaker>Bellamy</speaker>
                     <l n="96">Have you already</l>
                     <l n="97">Retriv'd the affection that pursu'd my daughter?</l>
                     <l n="98">Shall I beleeve no seed of love remains,</l>
@@ -1344,7 +1314,7 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="103">That is but an attendant, as you use it,</l>
                     <l n="104">I must confesse a welcome one; although</l>
                     <l n="105">The minde is the first beauty, which true love</l>
@@ -1361,55 +1331,55 @@
                 </sp>
 
                 <sp>
-                    <speaker>Bellamy.</speaker>
+                    <speaker>Bellamy</speaker>
                     <l n="116">And I ghesse ere long,</l>
                     <l n="117">Such an occasion will present it selfe.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="118">Till then, have <name rend="italic">Hartwell</name> in your loving
                         memory,</l>
                     <l n="119">Who wishes no more happinesse of life,</l>
                     <l n="120">Than to be call'd yours.</l>
                 </sp>
 
-                <lb/>
+       
                 <stage type="exit" place="right">Exeunt.</stage>
-                <lb/>
+       
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="121">What have I understood?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="122">Will you beleeve me another time, sweet Lady?</l>
                     <l n="123">If I loved you not, what would become on you?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="124">It is not he, some devill does but couzen us,</l>
                     <l n="125">And mock our sense with these phantastick bodies,</l>
                     <l n="126"><name rend="italic">Hartwell</name>.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="127">Nay 'tis the man; I hope you'll be converted,</l>
                     <l n="128">And think a Countrey Gentleman worth favour,</l>
                     <l n="129">That brought you to this knowledge; I deserve—</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="130">My curses for this black discovery,</l>
                     <l n="131">When as before 'twas not impossible,</l>
 
                     <pb n="26"/>
-                    <fw place="top-center" type="head">The Constant Maid, Act III Scene I</fw>
+                    <fw place="top-center" type="head">ACT III. SCENE I.</fw>
 
                     <l n="132">In time I might be brought to pity thee;</l>
                     <l n="133">Henceforth I'll look upon thee as my sins,</l>
@@ -1417,32 +1387,32 @@
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="135">Nay d'yee but hear.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="136">Die quickly, and be forgotten.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="137">This is very fine i’faith, sweet Lady.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Frances.</speaker>
+                    <speaker>Frances</speaker>
                     <l n="138">My mother, oh my fate, see me no more,</l>
                     <l n="139">And I’ll forgive thee.</l>
                 </sp>
 
-                <lb/>
+        
                 <stage type="exit" place="right">Exit.</stage>
-                <lb/>
+          
 
                 <sp>
-                    <speaker>Startup.</speaker>
+                    <speaker>Startup</speaker>
                     <l n="140">Thanke you, most sweet Lady,</l>
                     <l n="141">Is my discovery come to this? I'de better</l>
                     <l n="142">Ha'been tongue-ty'd; Curse me, and call me her sins,</l>
@@ -1451,9 +1421,9 @@
                         >Nurse</name>.</l>
                 </sp>
 
-                <lb/>
+            
                 <stage type="exit" place="right">Exeunt.</stage>
-                <lb/>
+      
 
             </div>
             <div type="act" n="3">
