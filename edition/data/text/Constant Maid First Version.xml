@@ -304,7 +304,7 @@
                     <l n="76">Or foolish circumstance, to be repaid;</l>
                     <l n="77">Which you were never yet so much a Christian,</l>
                     <l n="78">As to be guilt of, in your Usurers gallon</l>
-                    <l n="79">Of conscience melting Sacke; This deserves something,</l>
+                    <l n="79">Of conscience melting Sacke;<note type="contextual">Lambert demands a bigger sum for returning the Neece, one of his arguments being that Hornet is a Jew and the individual who kidnapped the Neece is a Christian.</note> This deserves something,</l>
                     <l n="80">But cause some expedition is required;</l>
                     <l n="81">You have a Bond of mine.</l></sp>
                 
@@ -449,7 +449,7 @@
   <l n="40">Lift up a weapon to defend himselfe.</l></sp>
     
   <sp><speaker>Justice.</speaker>
-  <l n="41">That was not manly.</l></sp>
+      <l n="41">That was not manly.<note type="contextual"><term>†manly. </term>Used not as strong or masculine, but rather as humane, charitable; generous. <name rend="italics">Obsolete.</name> (OED adj. c4).</note></l></sp>
     
   <sp><speaker>Hartwell.</speaker>
   <l n="42">I but slew a coward</l>
@@ -565,7 +565,7 @@
   <sp><speaker>Hartwell.</speaker>
   <l n="115">I know not that,</l>
   <l n="116">My servant's with him, but if he ha' plaid</l>
-  <l n="117">The hang-man, starv'd or smother'd him in a ditch,</l>
+      <l n="117">The hang-man,<note type="contextual">Hartwell means he does not know if Close has taken justice into his own hands and killed the Countrey-man.</note> starv'd or smother'd him in a ditch,</l>
   <l n="118">I ha' made faire worke</l></sp>
   
   <sp><speaker>Omnes.</speaker>
@@ -611,7 +611,7 @@
   <l n="134">Not kill'd out right, but I was almost starv'd</l>
   <l n="135">With cold: These Gentlewoman know me,</l>
   <l n="136">And I should know that Hose and Doublet too;</l>
-  <l n="137">Those garments which you weare, I have oft seen, sweet sir.</l></sp>
+      <l n="137">Those garments which you weare, I have oft seen, sweet sir.<note type= "intertextual">Like some of the lines spoken by the servants in Act I, Scene I, the last line of Startup's speech comes from Thomas Kyd's The Spanish Tragedy, and are said by Hieronimo, which explains Close's response.</note></l></sp>
   
   <sp><speaker>Close.</speaker>
   <l n="138">Well said<name rend="italic">Jeronimo</name>.</l></sp>
@@ -907,7 +907,16 @@
   <l n="269">'Twixt Love and Fortune, now the accounts are even:</l>
   <l n="270">A chaine of hearts, and the first linck in heaven.</l></sp>
   
-  <lb/><stage type="exit" place="right">Exeunt.</stage><lb/>
+                <lb/><stage type="exit" place="right">Exeunt.<note type= "textual"><p>The 1667 edition of The Constant Maid includes the following epilogue:</p>
+                    
+                    <p>Through many hazards, Love hath found a way,</p>
+                    <p>For Friends to meet: good Omen to our Play.</p>
+                    <p>If love hath brought you hither, Gentlemen,</p>
+                    <p>Love will find out the way to come agen.</p>
+                    <p>And we dare promise, if you rellish these,</p>
+                    <p>Our Loves shall find out other ways to please.</p>
+                    <p>T.B.</p>
+                </note></stage><lb/>
             
             </div>
         </body>
