@@ -28,7 +28,47 @@
             <pb n="Cover" xml:id="TCMp1.0.jpg" facs="data/images/single/TCMp1.0.jpg"/>
             <pb n="i" xml:id="TCMp1.1.jpg" facs="data/images/single/TCMp1.1.jpg"/>
             <pb n="ii" xml:id="TCMp2.jpg" facs="data/images/single/TCMp2.jpg"/>
+            <div type="titlepage">
+                <l n="1">THE CONSTANT MAID</l>
+
+
+                <l n="2">A Comedy.</l>
+
+
+                <l n="3">Written by <name rend="italic">James Shirley.</name></l>
+
+
+                <l n="4">LONDON, Printed by <name rend="italic">I. Raworth</name>, for <name
+                        rend="italic">R. Whitaker.</name> 1640.</l>
+            </div>
             <pb n="iii" xml:id="TCMp3.jpg" facs="data/images/single/TCMp3.jpg"/>
+             <div type="characterlist">
+                <head>The names of the persons.</head>
+                <l n="1">Hornet, <hi rend="italic">a rich Usurer.</hi></l>
+                <l n="2">Hartwell, <hi rend="italic">a young Gentleman, Lover of Mistresse</hi>
+                    Frances.</l>
+                <l n="3">Playfaire, <hi rend="italic">a Gallant.</hi></l>
+                <l n="4">A Gentleman, <hi rend="italic">Cousen</hi> to Playfaire.</l>
+                <l n="5">Sir Clement, a <hi rend="italic">Justice.</hi></l>
+                <l n="6">Startup, a <hi rend="italic">foolish Gentleman.</hi></l>
+                <l n="7">A Countrey-man.</l>
+                <l n="8">Close, <hi rend="italic">Servant</hi> to Hartwell.</l>
+                <l n="9">Three Servants, <hi rend="italic">disguised sometimes as Lords, one of them
+                        once disguised as a Pursevant.</hi></l>
+                <l n="10">A Constable.</l>
+                <l n="11">Three Watchmen.</l>
+                <l n="12">Masquers.</l>
+                <l n="13">Officers.</l>
+                <l n="14">Servants and Attendants.</l>
+                <l n="15">Bellamy, <hi rend="italic">a Widdow.</hi></l>
+                <l n="16">Frances, <hi rend="italic">her Daughter.</hi></l>
+                <l n="17">Nurse, <hi rend="italic">their Servant.</hi></l>
+                <l n="18">Neece <hi rend="italic">to</hi> Hornet.</l>
+                <lb/>
+                <l n="19"><hi rend="italic">The Scene,</hi> London.</l>
+            </div>
+
+            <pb/>
             <div type="act" n="1">
                 <div type="scene" n="1">
                 <pb n="1" xml:id="TCMp4.jpg" facs="data/images/single/TCMp4.jpg"/>
