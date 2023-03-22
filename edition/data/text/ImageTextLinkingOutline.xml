@@ -28,7 +28,7 @@
             <pb n="Cover" xml:id="TCMp1.0.jpg" facs="data/images/single/TCMp1.0.jpg"/>
             <pb n="i" xml:id="TCMp1.1.jpg" facs="data/images/single/TCMp1.1.jpg"/>
             <pb n="ii" xml:id="TCMp2.jpg" facs="data/images/single/TCMp2.jpg"/>
-          
+          <div type="title page">
                 <l n="1">THE CONSTANT MAID</l>
 
 
@@ -40,7 +40,7 @@
 
                 <l n="4">LONDON, Printed by <name rend="italic">I. Raworth</name>, for <name
                         rend="italic">R. Whitaker.</name> 1640.</l>
-          
+          </div>
             <pb n="iii" xml:id="TCMp3.jpg" facs="data/images/single/TCMp3.jpg"/>
              <div type="characterlist">
                 <head>The names of the persons.</head>
