@@ -58,11 +58,336 @@
             <div type="scene" n="4">
                 <head>SCENE IV.</head>
             </div>
+            
+            
             <div type="act" n="4">
                 <head>ACT IV.</head>
-            </div>
             <div type="scene" n="1">
                 <head>SCENE I.</head>
+                
+    <stage type="location" place="center">The Fields.</stage>
+    <stage type="entrance" place="center">Enter Startup, wrapped in a blanket, followed by Close.</stage><lb/>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="1">Where are we now? 'tis verie cold, why do'st not</l>
+    <l n="2">Lead me to some house?</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="3">What, at this time a night?</l>
+    <l n="4">All people are a bed, the verie Owles</l>
+    <l n="5">Are in their dead sleep; or if we could</l>
+    <l n="6">Be admitted, would you venture a this fashion,</l>
+    <l n="7">And publish your disgrace, proclaime your selfe</l>
+    <l n="8">Coward, and lay some imputation</l>
+    <l n="9">Upon the place you came from, where your hopes</l>
+    <l n="10">May yet be faire for marriage? This brunt over.</l>
+    <l n="11">To meet some Drunkard now were comfortable,</l>
+    <l n="12">Whose eyes enflamed might serve for torches,</l>
+    <l n="13">Or he might spit flapdragons from his fire</l>
+    <l n="14">Of Sack, and light us: But no sober man,</l>
+    <l n="15">Considering what case you are in, sir,</l>
+    <l n="16">By my consent should see you.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="17">Ha, what's that?</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="18">Where, where? a fire-drake.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="19">Now 'tis gone: 'tis bright</l>
+    <l n="20">Agen, Is't not a spirit? Oh deliver me.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="21">I have heard some such things use to walke the fields.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="22">What shall I do?</l></sp>
+    
+    <pb n="40"/>
+    
+    <fw place="top-center" type="head">ACT IV. SCENE I.</fw>
+    
+    <sp><speaker>Close</speaker>
+    <l n="23">Pray, pray with as much strength</l>
+    <l n="24">As if you had no land, or were confined</l>
+    <l n="25">To my annuity: Now I feare no spirits;</l>
+    <l n="26">This riches makes us cowards; Hide your selfe,</l>
+    <l n="27">I will go neerer.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="28">Dost know the devill if thou seest him, <name rend="italic">Close</name>?</l>
+    <l n="29">A pox of love, if this be the reward on't;</l>
+    <l n="30">Some call it fire, but I finde no such matter;</l>
+    <l n="31">I am frozen to the Blanket, and my teeth</l>
+    <l n="32">Strike one another, and keep time like hammers</l>
+    <l n="33">That beat a Psalme upon the vertuous Anvile;</l>
+    <l n="34">I do beleeve if they were beaten out,</l>
+    <l n="35">They would make false Dyce, there's quicksilver in 'em,</l>
+    <l n="36">I know already by their dancing.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="37">Sir, where are you?</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="38">Here I am still.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="39">Y'are a dead man.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="40">More terrour? what's the matter?</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="41">'Tis my Master with a darke.</l>
+    
+    <pb n="41"/>
+    
+    <fw place="top-center" type="head">ACT IV. SCENE I.</fw>
+    
+    <l n="42">Lanthorne, that pursues us: By</l>
+    <l n="43">This darknesse, 'tis his voice, wrap your selfe up,</l>
+    <l n="44">And roule into some ditch, flight will betray us.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="45">I had as good be kill'd, but yet I'll venture.</l></sp>
+    
+    <stage type="exit" place="right">Exit.</stage>
+    
+    <sp><speaker>Close.</speaker>
+    <l n="46">'Tis he indeed, and more than I expected:</l>
+    <l n="47">The matters do not fadge well with his Mistresse.</l></sp>
+    
+    <stage type="entrance" place="centre">Enter Hartwell with a lantern.</stage>
+       
+    <sp><speaker>Hartwell</speaker>
+    <l n="48">What a sweet thing is night? how calme and harmlesse?</l>
+    <l n="49">No whispering, but of leaves, on which the breath</l>
+    <l n="50">Of heaven playes Music to the birds that slumber;</l>
+    <l n="51">Here are no objects to betray our sence</l>
+    <l n="52">To repentance, nor can women, thus</l>
+    <l n="53">Advantag'd by the Tapers of the night,</l>
+    <l n="54">Spread their temptations to undoe poore man:</l>
+    <l n="55">What a fine book is heaves? which we may read</l>
+    <l n="56">Best now, when every Star is a faire letter:</l>
+    <l n="57">How much they wrong thee night, which call thee guilty</l>
+    
+    <pb n="42"/>
+    
+        <fw place="top-center" type="head">ACT IV. SCENE I.</fw>
+        
+    <l n="58">Of rapes and murders: 'Tis the day, that like</l>
+    <l n="59">A glorious whore, engages men to act 'em,</l>
+    <l n="60">And taking then the darknesse to obscure 'em:</l>
+    <l n="61">We unjustly lay the shame upon thy browes,</l>
+    <l n="62">That art so innocent; Thou never sawest them</l>
+    <l n="63">Befriended with this silence; I begin</l>
+    <l n="64">To wander: There's no wildernesse abroad,</l>
+    <l n="65">To him that's lost at home.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="66">Sir.</l></sp>
+    
+    <sp><speaker>Hartwell</speaker>
+    <l n="67">Who's that?</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="68">One that has taken paines for you to night:</l>
+    <l n="69">I am <name rend="italic">Close.</name></l></sp>
+    
+    <sp><speaker>Hartwell</speaker>
+    <l n="70">What mak'st thou here?</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="71">I wait upon</l>
+    <l n="72">My charge; I led your Rivall a procession</l>
+    <l n="73">In's shirt, perswading him you had resolv'd</l>
+    <l n="74">To cut his throat else; he's hard by at's prayers,</l>
+    <l n="75">And thinkes you ha' pursued him.</l></sp>
+    
+    <sp><speaker>Hartwell</speaker>
+    <l n="76">Ha, I'll do't;</l>
+    <l n="77">Show me the foole, by all my hopes I'll kill him,</l>
+    <l n="78">And send his base heart as a present to her:</l>
+    <l n="79">Fate has preserved me with this revenge,</l>
+    <l n="80">And I will not delay his death a minute.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="81">You wo'not kill him basely?</l></sp>
+    
+    <sp><speaker>Hartwell</speaker>
+    <l n="82">No.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="83">Why not?</l>
+    <l n="84">There is no feare but he'll live long enough;</l>
+    <l n="85">I'll undertake he never shall go provided</l>
+    <l n="86">To fight w'ee; and for other satisfaction,</l>
+    <l n="87">Name it, and take it; so I'll fetch him to ye.</l></sp>
+    
+    <sp><speaker>Hartwell</speaker>
+    <l n="88">Stay, I have been too passionate, let him live</l>
+    <l n="89">To be her punishment; that's revenge enough,</l>
+    <l n="90">While I pursue my owne wayes.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="91">Whither now?</l></sp>
+    
+    <sp><speaker>Hartwell</speaker>
+    <l n="92">Whither thou must not follow, by thy honesty,</l>
+    <l n="93">I charge thee come not after me.</l></sp>
+    
+    <pb n="43"/>
+    
+    <fw place="top-center" type="head">ACT IV. SCENE I.</fw>
+    
+    <sp><speaker>Close</speaker>
+    <l n="94">That bindes my attendance, sir.</l></sp>
+    
+    <sp><speaker>Hartwell</speaker>
+    <l n="95">But not when I command</l>
+    <l n="96">The contrary, if thou dost move this way,</l>
+    <l n="97">Thou drawest my anger; Minde the preservation</l>
+    <l n="98">Of the tame thing you undertooke; Farewell,</l>
+    <l n="99">If thou dost love me, follow not, nor question</l>
+    <l n="100">'Tis in my power to loose thee or my selfe.</l></sp>
+    
+    <stage type="exit" place="right">Exit.</stage>
+    
+    <sp><speaker>Close</speaker>
+    <l n="101">I cannot see i'th'darke with spectacles,</l>
+    <l n="102">And mine owne eyes ha' lost him o'the suddaine;</l>
+    <l n="103">Well, I must hope the best; What shall I do</l>
+    <l n="104">With my hen-hearted lover, that would give</l>
+    <l n="105">Halfe his estate his colde fit were well over:</l>
+    <l n="106">I shall make worke for the Physicians :</l>
+    <l n="107">Candles and Cullices will never restore him;</l>
+    <l n="108">If he but scape with life, I am not sorry,</l>
+    <l n="109">He may be a souldier, and indure the trenches;</l>
+    <l n="110">I put him first to the becomming sufferance:</l>
+    <l n="111">But what are these? an army of hornes and Halberds?</l>
+    <l n="112">Upon my conscience, the Watch; I thought</l>
+    <l n="113">The fields had not been haunted with these goblins:</l>
+    <l n="114">I cannot run; If I should squat, and they finde me,</l>
+    <l n="115">There were no mercy but Bride-well,</l>
+    <l n="116">Or some such lovely place; I am resolv'd</l>
+    <l n="117">To cast away a few good words upon 'em,</l>
+    <l n="118">A leg and worshipping; the Constable</l>
+    <l n="119">That leads the rusty Regiment will quit me,</l>
+    <l n="120">I passe the gates wo't often, and so may</l>
+    <l n="121">The devill if he pay the Porter; blesse you:</l>
+    
+    <stage type="entrance" place="center">Enter Constable and Watch-men.</stage>
+    
+    <l n="122">My masters what a clocke is't?</l></sp>
+    
+    <sp><speaker>Watchman 1</speaker>
+    <l n="123">Who's theere?</l></sp>
+    
+    <sp><speaker>Constable</speaker>
+    <l n="124">I charge you stand.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="125">Your worship may do much.</l></sp>
+    
+    <sp><speaker>Constable</speaker>
+    <l n="126">Where have you beene?</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="127"> At <name rend="italic">Islington</name>, and please you, about businesse.</l></sp>
+    
+    <sp><speaker>Constable</speaker>
+    <l n="128">Some thiefe, I warrant him, no honest man,</l>
+        
+    <pb n="44"/>
+        
+    <fw place="top-center" type="head">ACT IV. SCENE II.</fw>
+        
+    <l n="129">I know by his basket hilt, some rogue that watches,</l>
+    <l n="130">The fields are pester'd with such sturdy robbers.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="131">He is a rogue that watches, for my part.</l></sp>
+    
+    <sp><speaker>Constable</speaker>
+    <l n="132">He cals my watchmen rogues.</l></sp>
+    
+    <sp><speaker>Watchman 1</speaker>
+    <l n="133">How Mr. Constable? you are one your selfe.</l></sp>
+    
+    <sp><speaker>Constable</speaker>
+    <l n="134">A way with him.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="135">Good sir.</l></sp>
+        
+    <sp><speaker>Watchman 2</speaker>
+    <l n="136">We will provide you a lodging.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="137">Where?</l></sp>
+    
+    <sp><speaker>Constable</speaker>
+    <l n="138">New Prison.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="139">But are you in earnest, Gentlemen?</l>
+    <l n="140">If there be no remedy.</l></sp>
+    
+    <sp><speaker>Watchman 2</speaker>
+    <l n="141">We'll humble you.</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="142">I have a companion hereabouts: where are you Sir?</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="143">Here in the ditch.</l></sp>
+    
+    <sp><speaker>Constable</speaker>
+    <l n="144">They seldome go alone:</l>
+    <l n="145">We'll finde him out; ha sirra.</l></sp>
+    
+    <stage type="entrance" place="center">Re-enter Watchmen and Startup.</stage>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="146">I thanke you honest men: where art thou <name rend="italic">Close</name>?</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="147">Here; these good men will helpe us to a lodging.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="148">Blessing on their hearts, I am almost starv'd.</l></sp>
+    
+    <sp><speaker>Constable</speaker>
+    <l n="149">Yes, we'll do you that favour; Come away, sir.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="150">Whether shall we go now?</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="151">To prison.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="152">How, <name rend="italics">Close?</name></l></sp>
+    
+    <sp><speaker>Watchman 1</speaker>
+    <l n="153">You shal be close enough.</l></sp>
+    
+    <sp><speaker>Startup</speaker>
+    <l n="154">D'ee heare, sweet Gentlemen?</l></sp>
+    
+    <sp><speaker>Close</speaker>
+    <l n="155">I follow, Sir, I cannot leave you in adversity;</l>
+    <l n="156">All this is for your health, cleane straw is warme, sir;</l>
+    <l n="157">You have the benefit of being naked:</l>
+    <l n="158">I shall have worke to morrow in the woollen.</l></sp>
+    
+    <sp><speaker>Constable</speaker>
+    <l n="159">Away, away; bring them away</l></sp>
+    
+    <stage type="exit" place="right">Exeunt.</stage>
+                
+ 
             </div>
             <div type="scene" n="2">
                 <head>SCENE II.</head>
@@ -70,6 +395,9 @@
             <div type="scene" n="3">
                 <head>SCENE III.</head>
             </div>
+            </div>
+            
+            
             <div type="act" n="5">
                 <head>ACT V.</head>
             </div>
