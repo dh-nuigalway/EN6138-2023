@@ -37,7 +37,7 @@
 
             <div type="act" n="2">
                 <head>ACT II.</head>
-            </div>
+           
 
             <div type="scene" n="1">
                 <head>SCENE I.</head>
@@ -1448,6 +1448,7 @@
                 <stage type="exit" place="right">Exeunt.</stage>
       
 
+            </div>
             </div>
             <div type="act" n="3">
                 <head>ACT III.</head>
