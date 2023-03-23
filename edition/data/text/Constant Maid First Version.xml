@@ -212,7 +212,10 @@
 
                     <l n="65">To your first choyse, with howling out your passion</l>
                     <l n="66">For Mistresse <name rend="italic">Frances</name>, plaining how <name
-                            rend="italic">Don Cupid</name></l>
+                            rend="italic">Don Cupid</name><note type="etymological"
+                                ><term>Cupid.</term> In Roman Mythology, the god of love, son of
+                            Mercury and Venus, identified with the Greek Eros (OED n.
+                        1a).</note></l>
                     <l n="67">Hath scarrified your heart, you may go hang your selfe:</l>
                     <l n="68">Go to the Barber’s, let him firk your haire up<note
                             type="etymological"><term>firk your hair up.</term> Probably to stir up,
@@ -793,7 +796,11 @@
                     <l n="44">To marrie me your selfe, deduct the charge</l>
                     <l n="45">Out of my portion, I could love an old man</l>
                     <l n="46">Rarely, <hi rend="italic"> An old man with a bed full of bones &amp;
-                            c.</hi></l>
+                            c.</hi><note type="itertextual">The Neece could be singing “The Old Man
+                            with a Bed Full of Bones”, an English Country Dance first recorded in
+                            the <name rend="italic">Lovelace Manuscript,</name> a document that
+                            contains poems, songs and dances written between 1621 and 1649.
+                        </note></l>
 
                     <stage type="delivery">Sings.</stage>
 
@@ -901,7 +908,10 @@
                     <l n="86">Poore Gentleman, he meant no hurt to the Citie,</l>
                     <l n="87">His feet were verie wearie, and that made him</l>
                     <l n="88">In everie street cry out; ><hi rend="italic">Ha yee any
-                        cornes</hi></l>
+                            cornes</hi><note type="intertextual">Given the context of the scene and
+                            the previous references, "Ha yee any cornes in your head or toes" is
+                            probably an allusion to another old English song. However, the title is
+                            unknown. </note></l>
                     <l n="89"><hi rend="italic">In your head or toes?</hi> that <hi rend="italic"
                             >head</hi> spoyl'd all.</l>
                 </sp>
@@ -969,7 +979,13 @@
                     <l n="115">Taxations, I never pay the Church</l>
 
 
-                    <l n="116">Her superstitious tithes, nor come to trouble</l>
+                    <l n="116">Her superstitious tithes<note type="etymological"
+                                ><term>tithes.</term> A tenth of annual produce or earnings, taken
+                            as a tax (originally in kind) for the support of the church and clergy;
+                            this system of taxation; now chiefly <name rend="italic"
+                                >historical.</name> Later also, in certain religious denominations:
+                            one tenth of an individual's income, pledged to the church (OED n.2.
+                            1a).</note>, nor come to trouble</l>
                     <l n="117">Sermons, for feare of homilies before,</l>
                     <l n="118">That beg for burning.</l>
                 </sp>
@@ -1208,7 +1224,14 @@
                 <sp>
                     <speaker>Startup.</speaker>
                     <l n="47">Not to see who abuses you; Oh I could</l>
-                    <l n="48">Now finde in my heart to baste you, baste you soundly:</l>
+                    <l n="48">Now finde in my heart to baste<note type="etymological"
+                                ><term>baste.</term>
+                            <p>Probably to beat or thrash (a person, animal, etc.), esp. with a
+                                stick or other implement; to flog”. Originally Scottish. In later
+                                use regional, slang, and colloquial. transitive. (OED v. 3.).</p>
+                            <p>A few lines later, Startup makes another reference to beating, when
+                                he says “I could kick your ignorance”.</p></note> you, baste you
+                        soundly:</l>
                     <l n="49">You think Mr. <name rend="italic">Hartwell</name> loves you.</l>
                 </sp>
 
