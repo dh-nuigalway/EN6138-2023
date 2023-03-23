@@ -89,7 +89,6 @@
 
             <div type="act" n="1">
                 <head>ACT I.</head>
-            </div>
             <div type="scene" n="1">
                 <head>SCENE I.</head>
                 <fw place="top-center" type="head"> ACT I. SCENE I.</fw>
@@ -1081,6 +1080,7 @@
                 
                 <stage type="exit" place="right">Exit.</stage>
               
+            </div>
             </div>
             <pb n="13"/>
             <div type="act" n="2">
