@@ -45,7 +45,6 @@
             </div>
             <div type="act" n="3">
                 <head>ACT III.</head>
-            </div>
             <div type="scene" n="1">
                 <head>SCENE I.</head>
                 
@@ -1103,6 +1102,7 @@
                     <l n="66">Your charms, and find out death, a cure for love.</l></sp>
                 
                 <stage type="exit" place="right">Exit.</stage>
+            </div>
             </div>
             
             <div type="act" n="4">
