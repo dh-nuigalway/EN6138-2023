@@ -85,7 +85,7 @@
                 <l n="19"><hi rend="italic">The Scene,</hi> London.</l>
             </div>
     
-            <pb/>
+            <pb n="1"/>
 
             <div type="act" n="1">
                 <head>ACT I.</head>
@@ -136,7 +136,7 @@
                     <l n="15">Assistance promise to your selves.</l>
                 </sp>
 
-                <pb n="1"/>
+                <pb n="2"/>
 
                 <fw place="top-center" type="head"> ACT I. SCENE I.</fw>
 
@@ -223,7 +223,7 @@
                 <stage type="exit" place="right">Exit.</stage>
               
 
-                <pb n="2"/>
+                <pb n="3"/>
 
                 <fw place="top-center" type="head">ACT I. SCENE I.</fw>
 
@@ -349,7 +349,7 @@
                     <l n="87">All?</l>
                 </sp>
 
-                <pb n="3"/>
+                <pb n="4"/>
 
                 <fw place="top-center" type="head">ACT I. SCENE II.</fw>
 
@@ -460,7 +460,7 @@
                     <speaker>Hornet</speaker>
                     <l n="17">And dares not spend it prodigally, knowing</l>
                 </sp>
-                <pb n="4"/>
+                <pb n="5"/>
                 <fw place="top-center" type="head">ACT I. SCENE II.</fw>
                 <sp>
                     <l n="18">The principall end it was ordain'd to, was</l>
@@ -544,7 +544,7 @@
                     <l n="51">A Gentleman that beares my daughter much </l>
                     <l n="52"> Affection.</l>
                 </sp>
-                <pb n="5"/>
+                <pb n="6"/>
                 <fw place="top-center" type="head">ACT I. SCENE II.</fw>
                 <sp>
                     <speaker>Hornet</speaker>
@@ -630,7 +630,7 @@
                     <l n="87">'Tis time ill spent to mention him, let's talk</l>
                     <l n="88">Of something else.</l>
                 </sp>
-                <pb n="6"/>
+                <pb n="7"/>
                 <fw place="top-center" type="head">ACT I. SCENE II.</fw>
                 <sp>
                     <speaker>Frances</speaker>
@@ -708,7 +708,7 @@
                     <l n="123">Spare your travell</l>
                     <l n="124">I sha'not practise these in haste, and must</l>
                 </sp>
-                <pb n="7"/>
+                <pb n="8"/>
 
                 <fw place="top-center" type="head">ACT I. SCENE II.</fw>
                 <sp>
@@ -807,7 +807,7 @@
                     <l n="158">Nor since hath he deserv'd a lesse esteeme</l>
                     <l n="159">In his owne person, but the circumstance</l>
                 </sp>
-                <pb n="8"/>
+                <pb n="9"/>
                 <fw place="top-center" type="head">ACT I. SCENE II.</fw>
                 <sp>
                     <l n="160">Is not the same, his fortune I have examin'd,</l>
@@ -866,7 +866,7 @@
                     <l n="194">And frame them to obedience, will this change</l>
                     <l n="195">Be for my honour, or my fame? when such</l>
 
-                    <pb n="9"/>
+                    <pb n="10"/>
                     <fw place="top-center" type="head">ACT I. SCENE II.</fw>
 
                     <l n="196">A noble Gentleman shall boast he had,</l>
@@ -942,7 +942,7 @@
                 <sp>
                     <speaker>Bellamy</speaker>
                     <l n="230">You do love my daughter,</l>
-                    <pb n="10"/>
+                    <pb n="11"/>
                     <fw place="top-center" type="head">ACT I. SCENE II.</fw>
                     <l n="231">At least I think so.</l>
                 </sp>
@@ -1020,7 +1020,7 @@
                     <l n="265">And must agen repeat, you cannot call</l>
                     <l n="266">Her Bride.</l>
                 </sp>
-                <pb n="11"/>
+                <pb n="12"/>
                 <fw place="top-center" type="head">ACT I. SCENE II.</fw>
 
                 <sp>
@@ -1082,7 +1082,7 @@
                 <stage type="exit" place="right">Exit.</stage>
               
             </div>
-            <pb n="12"/>
+            <pb n="13"/>
             <div type="act" n="2">
                 <head>ACT II.</head>
             </div>
