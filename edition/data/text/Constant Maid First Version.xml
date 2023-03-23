@@ -65,7 +65,6 @@
                     <l n="8">Close, <hi rend="italic">Servant</hi> to Hartwell.</l>
                     <l n="9">Three Servants, <hi rend="italic">disguised sometimes as Lords, one of them
                         once disguised as a Pursevant.</hi></l>
-<<<<<<< HEAD
                 <l n="10">A Constable.</l>
                 <l n="11">Three Watchmen.</l>
                 <l n="12">Masquers.</l>
@@ -85,22 +84,7 @@
                 <lb/>
                 <l n="19"><hi rend="italic">The Scene,</hi> London.</l>
             </div>
-
-=======
-                    <l n="10">A Constable.</l>
-                    <l n="11">Three Watchmen.</l>
-                    <l n="12">Masquers.</l>
-                    <l n="13">Officers.</l>
-                    <l n="14">Servants and Attendants.</l>
-                    <l n="15">Bellamy, <hi rend="italic">a Widdow.</hi></l>
-                    <l n="16">Frances, <hi rend="italic">her Daughter.</hi></l>
-                    <l n="17">Nurse, <hi rend="italic">their Servant.</hi></l>
-                    <l n="18">Neece <hi rend="italic">to</hi> Hornet.</l>
-                   
-                    <l n="19"><hi rend="italic">The Scene,</hi> London.</l>
     
-</div>
->>>>>>> ce7741e7252f06413b56eb46f556d9eba4c086be
             <pb/>
 
             <div type="act" n="1">
@@ -716,11 +700,7 @@
                     <l n="117">Think all this while of heaven.</l>
                 </sp>
                 <sp>
-<<<<<<< HEAD
                     <speaker>Hornet.</speaker>
-=======
-                    <speaker>Horent</speaker>
->>>>>>> ce7741e7252f06413b56eb46f556d9eba4c086be
                     <l n="118">'Tis in my chest,</l>
                     <l n="119">And multiplyed in everie bag.</l>
                 </sp>
@@ -823,7 +803,6 @@
                         answer.</l>
                 </sp>
                 <sp>
-<<<<<<< HEAD
                     <speaker>Frances.</speaker>
                     <l n="155">I hope you move<note type="etymological"><term>†move.</term><name
                                 rend="italic">Transitive.</name> To propose or suggest (something to
@@ -831,10 +810,6 @@
                             forward, propound (a question, etc.), mention (a matter). Also with to
                             (a person). <name rend="italic">Obsolete.</name> (OED v. 30a).</note>
                         not this, as if you doubted;</l>
-=======
-                    <speaker>Frances</speaker>
-                    <l n="155">I hope you move not this, as if you doubted;</l>
->>>>>>> ce7741e7252f06413b56eb46f556d9eba4c086be
                     <l n="156">I took him first, upon your character,</l>
                     <l n="157">Into my good opinion.</l>
                 </sp>
