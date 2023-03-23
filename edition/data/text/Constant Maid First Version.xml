@@ -33,7 +33,16 @@
 
 
                 <l n="4">LONDON, Printed by <name rend="italic">I. Raworth</name>, for <name
-                        rend="italic">R. Whitaker.</name> 1640.</l>
+                        rend="italic">R. Whitaker.</name><note type="contextual">John Raworth was a
+                        printer in London between 1638 and 1645. He printed this play for Thomas
+                        Whitaker, a bookseller in London who, in partnership with Richard Whitaker,
+                        “had an extensive business, and published much of the best literature of the
+                        period,” according to <name rend="italic">A Dictionary of the Booksellers
+                            and Printers who Were at Work in England, Scotland and Ireland from 1641
+                            to 1667.</name> They also printed another of the plays produced by James
+                        Shirley during his time in Dublin: <name rend="italic">St. Patrick of
+                            Ireland.</name>
+                    </note> 1640.</l>
             </div>
 
             <pb/>
@@ -56,10 +65,17 @@
                 <l n="12">Masquers.</l>
                 <l n="13">Officers.</l>
                 <l n="14">Servants and Attendants.</l>
-                <l n="15">Bellamy, <hi rend="italic">a Widdow.</hi></l>
+                <l n="15">Bellamy, <hi rend="italic">a Widdow<note type="contextual">Although
+                            Bellamy and Frances are two main characters in this play, they appear at
+                            the end of the list because it was common at the time to give the male
+                            roles first, followed by the female ones.</note>.</hi></l>
                 <l n="16">Frances, <hi rend="italic">her Daughter.</hi></l>
                 <l n="17">Nurse, <hi rend="italic">their Servant.</hi></l>
-                <l n="18">Neece <hi rend="italic">to</hi> Hornet.</l>
+                <l n="18">Neece <hi rend="italic">to</hi> Hornet<note type="textual">She is also one
+                        of the characters that in Act IV, Scene III performs a masque. The other
+                        characters in the masque are Paris, represented by Playfaire; and Juno,
+                        Pallas, Venus, Cupid, King and Soldier, who we do not know by whom they are
+                        played.</note>.</l>
                 <lb/>
                 <l n="19"><hi rend="italic">The Scene,</hi> London.</l>
             </div>
@@ -245,7 +261,7 @@
                             said by the servants in this passage are taken from Hieronimo’s
                             monologue in scene V of <name rend="italic">The Spanish Tragedy,</name>
                             a very popular and influential play in the English Renaissance theatre
-                            written by Thomas Kyd between 1582 and 1592. </note>,</l>
+                            written by Thomas Kyd between 1582 and 1592.</note>,</l>
                 </sp>
 
                 <sp>
@@ -638,8 +654,8 @@
                     <l n="96">This Lord is feasted, and that young Ladies</l>
                     <l n="97">Sweet tooth must have a banquet; t'other old</l>
                     <l n="98">Madam with ne're a tooth must have some marchpane<note
-                        type="etymological"><term>marchpane.</term>Historical for
-                        “marzipan”.</note></l>
+                            type="etymological"><term>marchpane.</term>Historical for
+                            “marzipan”.</note></l>
                     <l n="99">Corall to rub her gums withall; these are</l>
                     <l n="100">Ridiculous expences.</l>
                 </sp>
@@ -784,10 +800,11 @@
                 <sp>
                     <speaker>Frances.</speaker>
                     <l n="155">I hope you move<note type="etymological"><term>†move.</term><name
-                        rend="italic">Transitive.</name> To propose or suggest (something to be
-                        done); to prefer (a request); to lodge (a complaint); to bring forward,
-                        propound (a question, etc.), mention (a matter). Also with to (a person). <name
-                            rend="italic">Obsolete.</name> (OED v. 30a).</note> not this, as if you doubted;</l>
+                                rend="italic">Transitive.</name> To propose or suggest (something to
+                            be done); to prefer (a request); to lodge (a complaint); to bring
+                            forward, propound (a question, etc.), mention (a matter). Also with to
+                            (a person). <name rend="italic">Obsolete.</name> (OED v. 30a).</note>
+                        not this, as if you doubted;</l>
                     <l n="156">I took him first, upon your character,</l>
                     <l n="157">Into my good opinion.</l>
                 </sp>
