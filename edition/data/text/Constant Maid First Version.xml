@@ -76,7 +76,6 @@
             
             <div type="act" n="5">
                 <head>ACT V.</head>
-            </div>
             <div type="scene" n="1">
                 <head>SCENE I.</head>
       
@@ -916,6 +915,7 @@
                     <p>T.B.</p>
                 </note></stage>
             
+            </div>
             </div>
         </body>
     </text>
