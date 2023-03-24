@@ -360,7 +360,7 @@
                 </sp>
 
                 <sp>
-                    <speaker>Servants omnes</speaker>
+                    <speaker>Servants Omnes</speaker>
                     <l n="91">Doubt not, Mr. <name rend="italic">Playfaire</name>.</l>
                 </sp>
 
@@ -418,7 +418,7 @@
             </div>
             <div type="scene" n="2">
                 <head>SCENE II.</head>
-                <stage type="location" place="center">A Room in mistresse Bellamy’s House.</stage>
+                <stage type="location" place="center">A Room in Mistresse Bellamy’s House.</stage>
                 <stage type="entrance" place="center">Enter Hornet, Mistresse Bellamy.</stage>
                
                 <sp>
@@ -806,8 +806,10 @@
                     <l n="158">Nor since hath he deserv'd a lesse esteeme</l>
                     <l n="159">In his owne person, but the circumstance</l>
                 </sp>
+		    
                 <pb n="9"/>
                 <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+		    
                 <sp>
                     <l n="160">Is not the same, his fortune I have examin'd,</l>
                     <l n="161">Which rises not to such a value, I</l>
@@ -881,8 +883,7 @@
                     <l n="206">Is above needy providence, or grafting</l>
                     <l n="207">Into a new stock; it doth grow already</l>
                     <l n="208">Faire from his owne root, and doth want no peecing:</l>
-                    <l n="209">Nor are the meanes of <name rend="italic">Hartwell</name> so
-                        contemptible.</l>
+                    <l n="209">Nor are the meanes of <name rend="italic">Hartwell</name> so contemptible.</l>    
                 </sp>
                 <sp>
                     <speaker>Bellamy</speaker>
@@ -894,7 +895,7 @@
                     <l n="215">He's here, to your chamber.</l>
                 </sp>
             
-                <stage type="exit" place="right">Exit Frances. </stage>
+                <stage type="exit" place="right">Exit Frances.</stage>
             
                 <stage type="entrance" place="center">Re-enter Hartwell and Close.</stage>
            
@@ -908,8 +909,7 @@
                     <speaker>Hartwell</speaker>
                     <l n="218">I wish it well; but do you work your selfe</l>
                     <l n="219">Into the opinion of her Nurse, she is</l>
-                    <l n="220"><name rend="italic">The Major Domo,</name> and has all the
-                        intelligence.</l>
+                    <l n="220"><name rend="italic">The Major Domo,</name> and has all the intelligence.</l>
                 </sp>
                 <sp>
                     <speaker>Close</speaker>
@@ -997,7 +997,6 @@
                     <l n="254">Now I feare agen, this violent turne of praise</l>
                     <l n="255">Makes me suspect my state; if I be falne,</l>
                     <l n="256">Teach me to know my trespasse.</l>
-
                 </sp>
                 <sp>
                     <speaker>Bellamy</speaker>
@@ -1005,7 +1004,6 @@
                     <l n="258">With such cleere eyes into your worth, and 'twere</l>
                     <l n="259">A sin to generall goodnesse, to delay</l>
                     <l n="260">The free resigne of that your worth may challenge.</l>
-
                 </sp>
                 <sp>
                     <speaker>Hartwell</speaker>
@@ -1019,6 +1017,7 @@
                     <l n="265">And must agen repeat, you cannot call</l>
                     <l n="266">Her Bride.</l>
                 </sp>
+		    
                 <pb n="12"/>
                 <fw place="top-center" type="head">ACT I. SCENE II.</fw>
 
@@ -1060,8 +1059,7 @@
                     <l n="291">My love accepted comes with faire attendance,</l>
                     <l n="292">Deny'd, you hasten your owne exile, think on't,</l>
                     <l n="293">I will expect your answer.</l>
-
-                </sp>
+		 </sp>
                
                 <stage type="exit" place="right">Exit.</stage>
                
