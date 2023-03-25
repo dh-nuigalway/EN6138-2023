@@ -66,7 +66,7 @@
                 <head>SCENE I.</head>
                 
     <stage type="location" place="center">The Fields.</stage>
-    <stage type="entrance" place="center">Enter Startup, wrapped in a blanket, followed by Close.</stage><lb/>
+    <stage type="entrance" place="center">Enter Startup, wrapped in a blanket, followed by Close.</stage>
     
     <sp><speaker>Startup</speaker>
     <l n="1">Where are we now? 'tis verie cold, why do'st not</l>
@@ -149,11 +149,11 @@
     
     <stage type="exit" place="right">Exit.</stage>
     
-    <sp><speaker>Close.</speaker>
+    <sp><speaker>Close</speaker>
     <l n="46">'Tis he indeed, and more than I expected:</l>
     <l n="47">The matters do not fadge well with his Mistresse.</l></sp>
     
-    <stage type="entrance" place="centre">Enter Hartwell with a lantern.</stage>
+    <stage type="entrance" place="center">Enter Hartwell with a lantern.</stage>
        
     <sp><speaker>Hartwell</speaker>
     <l n="48">What a sweet thing is night? how calme and harmlesse?</l>
@@ -971,7 +971,7 @@
 <pb n="53"/>
     <fw place="top-center" type="head">ACT IV. SCENE III.</fw>
 
-<sp><speaker>Sir. Clement</speaker>
+<sp><speaker>Sir Clement</speaker>
 <l n="124">That's a ceremony growne out of use;</l>
 <l n="125">It was a running banquet.</l></sp>
 
