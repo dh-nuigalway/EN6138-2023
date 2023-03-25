@@ -91,7 +91,7 @@
                     <l n="18">Why no worse than her sins, heaven forgive her,</l>
                 
                 <pb n="28"/>
-                <fw place="top-center" type="head">ACT III SCENE I.</fw>
+                <fw place="top-center" type="head">ACT III. SCENE I.</fw>
                 
                 <l n="19">She has the more to answer; nay she did</l>
                 <l n="20">Not stick to bid me die too, in that desparate</l>
@@ -934,12 +934,15 @@
                     <speaker>Startup</speaker>
                     <l n="1">Where is he, <name rend="italic">Close?</name></l>
                 </sp>
+		    
                 <sp>
                     <speaker>Close</speaker>
                     <l n="2">I told him, sir,</l>
                     <l n="3">You lay in a chamber o'th t'other side,</l>
+			
                     <pb n="37"/>
-                    <fw place="top-center" type="head">Act III. Scene IV.</fw>
+                    <fw place="top-center" type="head">Act III. SCENE IV.</fw>
+			
                     <l n="4">The house, whither he is gone with his sword drawne,</l>
                     <l n="5">And curses of themselves able to kill you:</l>
                     <l n="6">You did affront him once, and now his Mistresse</l>
@@ -948,10 +951,12 @@
                     <l n="9">I'll bring your clothes hereafter, yet your feare</l>
                     <l n="10">And running, sir, will keep you warme enough.</l>
                 </sp>
+		    
                 <sp>
                     <speaker>Startup</speaker>
                     <l n="11">Honest <name rend="italic">Close</name>, thou hast sav'd my life.</l>
                 </sp>
+		    
                 <sp>
                     <speaker>Close</speaker>
                     <l n="12"> Death, is he not behind you? this way, good sir.</l>
