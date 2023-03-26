@@ -21,7 +21,7 @@
             <p>Encoded by <name><!--WP4--></name></p>
         </encodingDesc>
     </teiHeader>
-    <text n="The Constant Maid" xml:id="tcm">
+     <text n="The Constant Maid" xml:id="tcm">
         <body>
             <pb n="Cover" xml:id="TCMp1.0.jpg" facs="data/images/single/TCMp1.0.jpg"/>
             <pb n="i" xml:id="TCMp1.1.jpg" facs="data/images/single/TCMp1.1.jpg"/>
@@ -63,7 +63,7 @@
                 <l n="16">Frances, <hi rend="italic">her Daughter.</hi></l>
                 <l n="17">Nurse, <hi rend="italic">their Servant.</hi></l>
                 <l n="18">Neece <hi rend="italic">to</hi> Hornet.</l>
-                <lb/>
+                
                 <l n="19"><hi rend="italic">The Scene,</hi> London.</l>
                
             </div>
@@ -72,6 +72,53 @@
             <div type="act" n="1">
                 <div type="scene" n="1">
                 <pb n="1" xml:id="TCMp4.jpg" facs="data/images/single/TCMp4.jpg"/>
+                   
+                        <head>ACT I.</head>
+                        <div type="scene" n="1">
+                            <head>SCENE I.</head>
+                            <fw place="top-center" type="head"> ACT I. SCENE I.</fw>
+                            
+                            <stage type="location" place="center">The Street before Hartwell’s House.</stage>
+                            
+                            <stage type="entrance" place="center">Enter Hartwell, Close, and three other
+                                Servants.</stage>
+                            
+                            
+                            
+                            <sp>
+                                <speaker>Hartwell</speaker>
+                                <l n="1">Nay let’s not part so heavily.</l>
+                            </sp>
+                            
+                            <sp>
+                                <speaker>Close</speaker>
+                                <l n="2">For mine owne part</l>
+                                <l n="3">It does not trouble me so much, that you</l>
+                                <l n="4">Have broke up house; for hospitalitie</l>
+                                <l n="5">Went out of fashion with crop-doublets<note type="etymological"><p><term>†crop-doublet.</term> A short doublet. <name rend="italic">Obsolete.</name>(OED n. C3).</p>
+                                    <p><term>doublet.</term> A close-fitting body-garment, with or without
+                                        sleeves, worn by men from the 14th to the 18th centuries. (Rarely
+                                        applied to a similar garment worn by women.) <name rend="italic">Obsolete exc. Historical.</name> (OED n. 1a).</p></note>
+                                </l>
+                                <l n="6">And cod-peeces<note type="etymological">
+                                    <term>cod-peeces</term> A (padded) pouch attached to the front of a
+                                    man's close-fitting hose or breeches to cover the genitals, commonly
+                                    worn in the 15th and 16th cent. (OED “codpiece”, n. 1a).</note>: but I
+                                    that have worne out</l>
+                                <l n="7">So many liveries under the worshipfull</l>
+                                <l n="8">Old Gentleman your father.</l>
+                            </sp>
+                            
+                            <sp>
+                                <speaker>Hartwell</speaker>
+                                <l n="9">My father had an office, which brought in</l>
+                                <l n="10">A faire revenew; I inherit but</l>
+                                <l n="11">His little land, whose annuall profits wo'not</l>
+                                <l n="12">Encourage me to live at the same height:</l>
+                                <l n="13">Yee may meet better fortunes, there's enough</l>
+                                <l n="14">Preferment in the world; my love and best</l>
+                                <l n="15">Assistance promise to your selves.</l>
+                            </sp>
                 <pb n="2" xml:id="TCMp5.jpg" facs="data/images/single/TCMp5.jpg"/>
                 
                
@@ -154,7 +201,7 @@
                     <l n="51">Meet me at Mistresse <name rend="italic">Bellamy</name>’s then.</l>
                 </sp>
 
-                <lb/>
+                
 
                 <pb n="3" xml:id="TCMp6.jpg" facs="data/images/single/TCMp6.jpg"/>      <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
 
@@ -163,11 +210,11 @@
                     <l n="52">I shall, Sir.</l>
                 </sp>
 
-                <lb/>
+                
 
                 <stage type="entrance" place="center">Enter Playfaire.</stage>
 
-                <lb/>
+                
 
                 <sp>
                     <speaker>Playfaire.</speaker>
@@ -284,14 +331,730 @@
                 <pb n="4" xml:id="TCMp7.jpg" facs="data/images/single/TCMp7.jpg"/>
 		</div>
                 <div type="scene" n="2">
+                    <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                    
+                    <sp>
+                        <speaker>Playfaire</speaker>
+                        <l n="88">Your Master only, Sir, belongs to you,</l>
+                        <l n="89">Follow him still, and if there be occasion,</l>
+                        <l n="90">I shall enquire for you; you will be faithfull.</l>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Servants Omnes</speaker>
+                        <l n="91">Doubt not, Mr. <name rend="italic">Playfaire</name>.</l>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Playfaire</speaker>
+                        <l n="92">I have a project,</l>
+                        <l n="93">Follow me for instructions; farewell <name rend="italic">Close</name>,</l>
+                        <l n="94">Commend me to your master.</l>
+                    </sp>
+                    
+                    <sp>
+                        <speaker>Servant 2</speaker>
+                        <l n="95">Buoy <name rend="italic">Close</name>, buoy honest <name rend="italic">Close</name>, we are blanks, blanks.</l>
+                    </sp>
+                    
+                    
+                    
+                    <stage type="exit" place="right">Exit Playfaire and Servants.</stage>
+                    
+                    
+                    
+                    <sp>
+                        <speaker>Close</speaker>
+                        <l n="96">Roule up your selves in paper-liveries, and</l>
+                        <l n="97">Be drawne at the next Lotterie; I wo'not</l>
+                        <l n="98">Forsake my certaintie for all your projects,</l>
+                        <l n="99">If it should faile I shall find some of you</l>
+                        <l n="100">Sneaking in <name rend="italic">Paul's</name><note type="contextual">Close is most probably referring to the Old St Paul’s Cathedral, which
+                            was destroyed shortly afterwards in the Great Fire of London in 1666 and
+                            rebuilt as we know it today. Despite its decay at the time, the
+                            cathedral was in the 17th century one of the focal points of London’s
+                            cultural, literary and political life, as well as a popular pilgrimage
+                            site.</note> behind a pillar, with</l>
+                        <l n="101">A zealous prayer, some Gentleman would read</l>
+                        <l n="102">The bed-roll<note type="etymological"><term>†bed-roll.</term> A list
+                            of persons to be specially prayed for. <name rend="italic">Obsolete or
+                                archaic.</name>(OED “bead-roll”, n. 1).</note> of your
+                            commendation<note type="etymological"><term>commendation.</term>An
+                                office originally ending with the prayer <name rend="italic">Tibi,
+                                    Domine, commendamus,</name> in which the souls of the dead were
+                                commended to God; said both before their burial, and in anniversary or
+                                commemorative services. <name rend="italic">Liturgical</name> (gen. In
+                                plural; also <name rend="italic">Commendation of Souls</name>). (OED n.
+                                II. 6a). Commendatory prayer (OED n. II. 6b).</note>,</l>
+                        <l n="103">And pitie a verie serviceable fellow,</l>
+                        <l n="104">That would faine wait on him, but wants a cloake:</l>
+                        <l n="105">Go, prosper with your project.</l>
+                    </sp>
+                    
+                    
+                    
+                    <stage type="exit" place="right">Exeunt.</stage>
+                    
+                    
+                </div>
+                    <div type="scene" n="2">
+                        <head>SCENE II.</head>
+                        <stage type="location" place="center">A Room in Mistresse Bellamy’s House.</stage>
+                        <stage type="entrance" place="center">Enter Hornet, Mistresse Bellamy.</stage>
+                        
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="1">Widdow, be rul'd by me, I know the world,</l>
+                            <l n="2">And I have studied it these fiftie yeares:</l>
+                            <l n="3">There's no man to be trusted.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="4">Without good.</l>
+                            <l n="5"> Securitie, you meane.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="6">No young man, widdow,</l>
+                            <l n="7">That talks, and sayes he loves you, writes you verses,</l>
+                            <l n="8">And sweares he shall goe hang himselfe, unlesse</l>
+                            <l n="9">You pitie him; take me an old man.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="10">So, take you an old man.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="11">Season'd with care and thrift, not led away</l>
+                            <l n="12">By vicious conversation, nor corrupted</l>
+                            <l n="13"> With pride and surfeit, one that knowes the use</l>
+                            <l n="14"> Of money; Do yee mark the use?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="15">Yes, Sir:</l>
+                            <l n="16">Use upon use, you meane.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="17">And dares not spend it prodigally, knowing</l>
+                        </sp>
                 <pb n="5" xml:id="TCMp8.jpg" facs="data/images/single/TCMp8.jpg"/>
+                        <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                        <sp>
+                            <l n="18">The principall end it was ordain'd to, was</l>
+                            <l n="19">To releeve our necessitie, and lay up</l>
+                            <l n="20">What is above.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="21">To help the poore.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="22">You may,</l>
+                            <l n="23"> If you be so dispos'd, but 'tis as commendable</l>
+                            <l n="24"> To give it in your will, to build an Hospitall,</l>
+                            <l n="25"> And so our charitie comes altogether:</l>
+                            <l n="26"> I would not have your state be eaten up</l>
+                            <l n="27"> By Catterpillers, but preserv'd and made</l>
+                            <l n="28">Greater, by marrying some discreet old man.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="29">And such an one you show your selfe.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="30">You happily</l>
+                            <l n="31">Interpret me.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="32">I would not tell you, Sir,</l>
+                            <l n="33">Till our next meeting, how much you have won,</l>
+                            <l n="34">By your good counsell, on me.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="35">She inclines.</l>
+                            
+                            <stage type="delivery">Aside.</stage>
+                            
+                            <l n="36">'Tis your good nature, I am plaine, and have</l>
+                            <l n="37">No tricks, I'll tell you all my fault, I am</l>
+                            <l n="38">Addicted verie much to gather wealth;</l>
+                            <l n="39">I have no children to devoure my state,</l>
+                            <l n="40">Nor kinred, only a Neece left to my trust,</l>
+                            <l n="41">One that is never like to marrie.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="42">Why?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="43">She never thriv'd since she came to mee.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="44">I easily beleeve it.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="45">Melancholly</l>
+                            <l n="46">Will kill her, and yet I pursue all wayes</l>
+                            <l n="47">That promise her delight: I spare no cost</l>
+                            <l n="48">Of Physick, what her Doctor sayes, is done.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="49">'Tis lovingly perform'd.</l>
+                        </sp>
+                        
+                        <stage type="entrance" place="center">Enter Hartwell and Mistresse Frances.</stage>
+                        
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="50">What's he?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="51">A Gentleman that beares my daughter much </l>
+                            <l n="52"> Affection.</l>
+                        </sp>
                 <pb n="6" xml:id="TCMp9.jpg" facs="data/images/single/TCMp9.jpg"/>
+                        <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="53">Sure I have seene him.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="54">Master <name rend="italic">Hartwell.</name></l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="55">Oh, he's a beggar, or must be verie shortly.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="56">Have you his lands in morgage?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="57">Not yet, not yet; but he'll want money, widdow.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="58">He has had good breeding.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="59">Hang breeding, 'tis unlucky,</l>
+                            <l n="60">They never keep their state that have too much on't,</l>
+                            <l n="61">Counsell your daughter, Mistresse <name rend="italic">Bellamy</name>,</l>
+                            <l n="62">To throw him off betime<note type="etymological"><term>†betime.</term>In good time, early, seasonably. <name rend="italic">Obsolete.</name> (OED adv. 1).</note>.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="63">You direct well.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="64">When we are married, I'll provide a match for her.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="65">You have care on's.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="66">It will become me.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="67">Is he Suitor to your mother, Lady?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Frances</speaker>
+                            <l n="68">He would be such a thing: Were not I blest</l>
+                            <l n="69">In such a jolly father in law?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="70">He looks like some cast money-bag, that had given up</l>
+                            <l n="71">The stuffing, and for want of use growne mouldy:</l>
+                            <l n="72">He dares not keep much fire in's kitchin, lest</l>
+                            <l n="73">Warming his hands, which rather looke like gloves,</l>
+                            <l n="74">So tann'd and thin, he let em scorch, and gather</l>
+                            <l n="75">Into a heap. I do not think he ever</l>
+                            <l n="76">Put off his clothes, he would run-mad to see</l>
+                            <l n="77">His owne anatomy, that such a wretch</l>
+                            <l n="78">Should have so vast a wealth.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Frances</speaker>
+                            <l n="79">I wod not be his</l>
+                            <l n="80">Niece for all his fortune.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="81">I presume</l>
+                            <l n="82">Your mother is more noble, than to encourage him</l>
+                            <l n="83">In his pretence, and her estate would mix</l>
+                            <l n="84">But ill with his ill-gotten wealth, extorted</l>
+                            <l n="85">From widdowes and from or plans, nor will all</l>
+                            <l n="86">His plentie keep his soule one day from famine:</l>
+                            <l n="87">'Tis time ill spent to mention him, let's talk</l>
+                            <l n="88">Of something else.</l>
+                        </sp>
                 <pb n="7" xml:id="TCMp10.jpg" facs="data/images/single/TCMp10.jpg"/>
+                        <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                        <sp>
+                            <speaker>Frances</speaker>
+                            <l n="89">Of what?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="90">Of love agen,</l>
+                            <l n="91">Whose flame we equally divide.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="92">Your table</l>
+                            <l n="93">Is a devourer, and they shut up doores</l>
+                            <l n="94">First, that keep open house and entertainments:</l>
+                            <l n="95">This Lord is feasted, and that young Ladies</l>
+                            <l n="96">Sweet tooth must have a banquet; t'other old</l>
+                            <l n="97">Madam with ne're a tooth must have some marchpane<note type="etymological"><term>marchpane.</term>Historical for
+                                “marzipan”.</note></l>
+                            <l n="98">Corall to rub her gums withall; these are</l>
+                            <l n="99">Ridiculous expences.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="100">Far from thrift.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="101">This roome has too rich furniture, and worse</l>
+                            <l n="102">Hangings would serve the turne; if I may be</l>
+                            <l n="103">Worthy to counsell, costly pictures are</l>
+                            <l n="104">Superfluous, though of this, or t'other masters</l>
+                            <l n="105">Doing: Hang <name rend="italic">Michael Angelo</name><note type="contextual">Michelangelo di Lodovico Buonarroti Simoni
+                                (1475-1564), Italian Renaissance sculptor, painter, architect and
+                                poet.</note> and his oyles.</l>
+                            <l n="106">If they be given, y'are the more excus'd</l>
+                            <l n="107">To let 'em shew; but have a care you let not</l>
+                            <l n="108">Appeare, either in Arras, or in picture,</l>
+                            <l n="109">The storie of the Prodigall<note type="intertextual">Hornet advises
+                                Bellamy not to display art depicting the Parable of the Prodigal Son,
+                                one of the parables of Jesus Christ in the Bible, appearing in Luke
+                                15:11-32. The parable is framed as a response to a criticism of Jesus by
+                                the Pharisees and scribes for receiving sinners and eating with them,
+                                and emphasises God’s mercy towards the repentant. Hornet seems to warn
+                                that, if Bellamy shows this parable to her young male guests, they may
+                                restrict how much they spend on their dowries.</note>, 'twill fright</l>
+                            <l n="110">Young Gentlemen that come to visit you</l>
+                            <l n="111">From spending o'their portions, whose riot</l>
+                            <l n="112">May enrich you with their forfeited estates;</l>
+                            <l n="113">I have a thousand precepts more.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="114">But do not</l>
+                            <l n="115">Think all this while of heaven.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="116">'Tis in my chest,</l>
+                            <l n="117">And multiplyed in everie bag.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="118">Or Hell.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="119">A fable to fright fooles, or children; but</l>
+                            <l n="120">I cannot stay, my Scrivener doth expect me,</l>
+                            <l n="121">I'll visit you another time, sweet widdow,</l>
+                            <l n="122">And give you more instructions.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="123">Spare your travell</l>
+                            <l n="124">I sha'not practise these in haste, and must</l>
+                        </sp>
                 <pb n="8" xml:id="TCMp11.jpg" facs="data/images/single/TCMp11.jpg"/>
+                        <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                        <sp>
+                            <l n="125">Declare these precepts make not for your welcome:</l>
+                            <l n="126">My patience was a vertue all this while,</l>
+                            <l n="127">If you but think you have a soule; repent;</l>
+                            <l n="128">Your rules I am not covetous to follow,</l>
+                            <l n="129">Good master <name rend="italic">Hornet.</name></l>
+                        </sp>
+                        <sp>
+                            <speaker>Hornet</speaker>
+                            <l n="130">Live and be undone then:</l>
+                            <l n="131">You'l tell me another tale hereafter widdow.</l>
+                        </sp>
+                        
+                        <stage type="exit" place="right">Exit.</stage>
+                        
+                        <stage type="entrance" place="center">Enter Nurse and Close.</stage>
+                        
+                        <sp>
+                            <speaker>Nurse</speaker>
+                            <l n="132">Letters from Master Startup, the countrey Gentleman</l>
+                            
+                            <stage type="delivery">Gives letters to Bellamy.</stage>
+                            
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="133">What's he?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Frances</speaker>
+                            <l n="134">A Sutor of my Nurses commendations.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Close</speaker>
+                            <l n="135">Now heaven deliver me, what have I seen?</l>
+                            <l n="136">This monster once was shewne i'th' faire, or such</l>
+                            <l n="137">Another furr'd Baboone for all the world,</l>
+                            <l n="138">Do'st know him? Why do I ask such a question?</l>
+                            <l n="139">He's such a thing the Devill would not owne's</l>
+                            <l n="140">Acquaintance.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Nurse</speaker>
+                            <l n="141">Master <name rend="italic">Hornet,</name> the great Usurer.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Close</speaker>
+                            <l n="142"><name rend="italic">Hornet?</name> Nay then, my wonder's over, and
+                                the</l>
+                            <l n="143">Devill be but such another, they</l>
+                            <l n="144">May be sworne brothers; yes, and divide hell</l>
+                            <l n="145">Betwixt em.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="146">Who is that you talk on, Sir?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Close</speaker>
+                            <l n="147">The beast, that Heaven be thank'd, has left you,</l>
+                            <l n="148"><name rend="italic">Hornet;</name> but I ha newes for you.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="149"><name rend="italic">Frances.</name></l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="150">I'll heare it in the garden.</l>
+                        </sp>
+                        
+                        <stage type="exit" place="right">Exeunt Hartwell and Close.</stage>
+                        
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="151">Do you love </l>
+                            <l n="152">That <name rend="italic">Master Hartwell?</name> do not blush, but
+                                answer.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Frances</speaker>
+                            <l n="153">I hope you move<note type="etymological"><term>†move.</term><name rend="italic">Transitive.</name> To propose or suggest (something to
+                                be done); to prefer (a request); to lodge (a complaint); to bring
+                                forward, propound (a question, etc.), mention (a matter). Also with to
+                                (a person). <name rend="italic">Obsolete.</name> (OED v. 30a).</note>
+                                not this, as if you doubted;</l>
+                            <l n="154">I took him first, upon your character,</l>
+                            <l n="155">Into my good opinion.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="156">But things alter:</l>
+                            <l n="157">What then I thought, I deliver'd yee;</l>
+                            <l n="158">Nor since hath he deserv'd a lesse esteeme</l>
+                            <l n="159">In his owne person, but the circumstance</l>
+                        </sp>
                 <pb n="9" xml:id="TCMp12.jpg" facs="data/images/single/TCMp12.jpg"/>
+                        <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                        
+                        <sp>
+                            <l n="160">Is not the same, his fortune I have examin'd,</l>
+                            <l n="161">Which rises not to such a value, I</l>
+                            <l n="162">Did apprehend; and it becomes my care,</l>
+                            <l n="163">Being at one gift to depart with thee</l>
+                            <l n="164">And my estate, to look for one whose purse</l>
+                            <l n="165">May carrie a proportion.</l>
+                            
+                        </sp>
+                        <sp>
+                            <speaker>Frances</speaker>
+                            <l n="166">Make me not</l>
+                            <l n="167">Imagine you would wed me to a heap</l>
+                            <l n="168">Of shining dust, a golden bondage.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="169">Nor</l>
+                            <l n="170">To penurie; his birth, and education</l>
+                            <l n="171">Are not unworthy, he's a handsome man too;</l>
+                            <l n="172">But be not govern'd by your eye too much:</l>
+                            <l n="173">Children and age pursue, and many stormes</l>
+                            <l n="174">Hover about our fraile conditions:</l>
+                            <l n="175">All these must be provided for, they are not</l>
+                            <l n="176">Kisses will arme you against winter, therefore</l>
+                            <l n="177">Confident of your obedience, I propound</l>
+                            <l n="178">Another to your best thoughts,</l>
+                        </sp>
+                        <sp>
+                            <speaker>Frances</speaker>
+                            <l n="179">Oh my unhappinesse.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="180">A Countrey Gentleman of spreading fortunes,</l>
+                            <l n="181">Young too, and not uncomely; for his breeding,</l>
+                            <l n="182">It was not spun the finest, but his wealth,</l>
+                            <l n="183">Able to guild deformitie, and make</l>
+                            <l n="184">Even want of wit a vertue, when your life</l>
+                            <l n="185">Renders it selfe more sweet by your command;</l>
+                            <l n="186">His name is Master Startup, whom I expect</l>
+                            <l n="187">Our guest to morrow, that's his letter, read it.</l>
+                            
+                            <stage type="delivery">Gives her a letter.</stage>
+                            
+                            <l n="188">This may seeme strange at the first coming toward you;</l>
+                            <l n="189">But when discretion comes to examine what</l>
+                            <l n="190">A fruitfull consequence attends it, you</l>
+                            <l n="191">Will thank me for't.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Frances</speaker>
+                            <l n="192">But with your pardon, mother,</l>
+                            <l n="193">Although I could dispence with my owne thoughts,</l>
+                            <l n="194">And frame them to obedience, will this change</l>
+                            <l n="195">Be for my honour, or my fame? when such</l></sp>
                 <pb n="10" xml:id="TCMp13.jpg" facs="data/images/single/TCMp13.jpg"/>
+                        <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                        
+                        <l n="196">A noble Gentleman shall boast he had,</l>
+                        <l n="197">With your consent, my love? or pray admit</l>
+                        <l n="198">That which we gaine by riches of the second,</l>
+                        <l n="199">Seeme to authorize, and may justifie</l>
+                        <l n="200">The act with some; how can it cure the wound,</l>
+                        <l n="201">Which the poore heart, which loves, shall find too soone,</l>
+                        <l n="202">When 'tis neglected, and so cruelly,</l>
+                        <l n="203">Where it did hope for cherishing? Oh think</l>
+                        <l n="204">How you did love my father first, and be</l>
+                        <l n="205">More gentle to your daughter, your estate</l>
+                        <l n="206">Is above needy providence, or grafting</l>
+                        <l n="207">Into a new stock; it doth grow already</l>
+                        <l n="208">Faire from his owne root, and doth want no peecing:</l>
+                        <l n="209">Nor are the meanes of <name rend="italic">Hartwell</name> so contemptible.</l>    
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="210">No more: y'have consider'd well, you'l shape</l>
+                            <l n="211">Another answer; i'th' meane time dispose</l>
+                            <l n="212">Your countenance to entertaine this new</l>
+                            <l n="213">And able Lover: leave the satisfaction</l>
+                            <l n="214">Of Hartwell to my care:</l>
+                            <l n="215">He's here, to your chamber.</l>
+                        </sp>
+                        
+                        <stage type="exit" place="right">Exit Frances.</stage>
+                        
+                        <stage type="entrance" place="center">Re-enter Hartwell and Close.</stage>
+                        
+                        
+                        <sp>
+                            <speaker>Close</speaker>
+                            <l n="216">I know not what's the trick on't, nor themselves yet;</l>
+                            <l n="217">But he has a project to employ 'em all.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="218">I wish it well; but do you work your selfe</l>
+                            <l n="219">Into the opinion of her Nurse, she is</l>
+                            <l n="220"><name rend="italic">The Major Domo,</name> and has all the intelligence.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Close</speaker>
+                            <l n="221">Let me alone, I'll work her Sir like wax,</l>
+                            <l n="222">To print what forme you please upon her, 'tis</l>
+                            <l n="223">A Loving Crone already to me, I</l>
+                            <l n="224">Will speake her faire, and in my drink may marrie her.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="225">Master <name rend="italic">Hartwell.</name></l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="226">About your businesse.</l>
+                        </sp>
+                        
+                        <stage type="exit" place="right">Exit Close.</stage>
+                        
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="227">There is a matter, Sir, which I must open,</l>
+                            <l n="228">And you perhaps will wonder at.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="229">You prepare my attention.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="230">You do love my daughter,</l></sp>
                 <pb n="11" xml:id="TCMp14.jpg" facs="data/images/single/TCMp14.jpg"/>
+                        <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                        <l n="231">At least I think so.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="232">If you knew my heart,</l>
+                            <l n="233">You might be confident, in her I sum</l>
+                            <l n="234">All my desires on earth.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="235">Be not so fixt.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="236">How Lady?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="237">When you have heard me out, you'l find</l>
+                            <l n="238">Your consent easie to call back a promise</l>
+                            <l n="239">Made to your disadvantage.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="240">I acknowledge;</l>
+                            <l n="241">This makes me wonder, pray interpret Lady,</l>
+                            <l n="242">And speake the dialect I understand:</l>
+                            <l n="243">I love your daughter.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="244">But must never glorie</l>
+                            <l n="245">In the reward which you expect should be,</l>
+                            <l n="246">Her marriage.</l>
+                            
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="247">In the number of my actions</l>
+                            <l n="248">There is not one that's guiltie of so much</l>
+                            <l n="249">Offence to you, that I should be so soone</l>
+                            <l n="250">Lost to your favour.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="251">Have no thought so poore</l>
+                            <l n="252">You can deserve lesse, my opinion</l>
+                            <l n="253">Is richer laden with your merit.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="254">Now I feare agen, this violent turne of praise</l>
+                            <l n="255">Makes me suspect my state; if I be falne,</l>
+                            <l n="256">Teach me to know my trespasse.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="257">I ne're look'd</l>
+                            <l n="258">With such cleere eyes into your worth, and 'twere</l>
+                            <l n="259">A sin to generall goodnesse, to delay</l>
+                            <l n="260">The free resigne of that your worth may challenge.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="261">If this be meant, pray pardon my mistake</l>
+                            <l n="262">Of something went before, love made me feare;</l>
+                            <l n="263">You said I never should enjoy your daughter</l>
+                            <l n="264">In marriage, which your selfe so late enclined to.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="265">And must agen repeat, you cannot call</l>
+                            <l n="266">Her Bride.</l>
+                        </sp>
                 <pb n="12" xml:id="TCMp15.jpg" facs="data/images/single/TCMp15.jpg"/>
+                        <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                        
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="267">Can you forbid this happinesse,</l>
+                            <l n="268">And love me?</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="269">Yes, so deerly, Hartwell, I</l>
+                            <l n="270">Present my selfe to thy affection.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="271">You fright my understanding.</l>
+                        </sp>
+                        <sp>
+                            <speaker>Bellamy</speaker>
+                            <l n="272">Does the name</l>
+                            <l n="273">Of widdow sound displeasing, I have learn'd</l>
+                            <l n="274">Already to obey; my yeares are not</l>
+                            <l n="275">So many, with the thought, to freeze your bloud,</l>
+                            <l n="276">I weare no print of time deep in my brow:</l>
+                            <l n="277">Have my haires the innocence of age,</l>
+                            <l n="278"> To speake me twice a child? Gentlemen active,</l>
+                            <l n="279">And of great birth, have courted my affection</l>
+                            <l n="280">And if they flatter not, commend my person.</l>
+                            <l n="281">Adde unto this my wealth, no narrow fortune,</l>
+                            <l n="282">And without competition, my daughter,</l>
+                            <l n="283">Depending on my love, whose portion must</l>
+                            <l n="284">Flow from my bountie, or be nothing; make</l>
+                            <l n="285">A sober apprehension of this tender,</l>
+                            <l n="286">And think I was not able to suppresse</l>
+                            <l n="287">My silent flame, increast still by your vertues:</l>
+                            <l n="288">This minute give all hopes up for my daughter,</l>
+                            <l n="289">I can admit no Rivall; 'tis within</l>
+                            <l n="290">Your election to be happie, Sir:</l>
+                            <l n="291">My love accepted comes with faire attendance,</l>
+                            <l n="292">Deny'd, you hasten your owne exile, think on't,</l>
+                            <l n="293">I will expect your answer.</l>
+                        </sp>
+                        
+                        <stage type="exit" place="right">Exit.</stage>
+                        
+                        <sp>
+                            <speaker>Hartwell</speaker>
+                            <l n="294">I am destroy'd:</l>
+                            <l n="295">Was it her mother that spake all this while?</l>
+                            <l n="296">As pilgrims, by mistake of some small path,</l>
+                            <l n="297">Having told many wearie steps, at night,</l>
+                            <l n="298"> When their hopes flatter em, they are not far</l>
+                            <l n="299"> From some kind entertainment, find themselves</l>
+                            <l n="300">Lost in a wildernesse; so am I miserable:</l>
+                            <l n="301">Thus love delights to wound, and see us bleed,</l>
+                            <l n="302">He were a gentle god to kill indeed. </l>
+                        </sp>
+                        
+                        <stage type="exit" place="right">Exit.</stage>
+                        
 		</div>
             </div>
             
