@@ -773,10 +773,6 @@
                     <l n="50">I know the Devill?</l>
                 </sp>
 
-                <pb n="21"/>
-
-                <fw place="top-center" type="head">ACT II. SCENE II.</fw>
-
                 <sp>
                     <speaker>Neece</speaker>
                     <l n="51">He's a fine old Gentleman,</l>
@@ -784,6 +780,11 @@
                     <l n="53">The world imagines, you an he'll keep house</l>
                     <l n="54">Together one day; but you'll burne Sea-cole</l>
                     <l n="55">To save charges, and stink the poore soules so.</l>
+			    
+			<pb n="21"/>
+
+                	<fw place="top-center" type="head">ACT II. SCENE II.</fw>
+			    
 		    <l n="56">Unckle, you are not merrie, I pray laugh</l>
                     <l n="57">A little: imagine y'had undone a widdow,</l>
                     <l n="58">Or turn'd an Orphan begging; ha, ha, ha.</l>
