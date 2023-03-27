@@ -852,10 +852,6 @@
                     <l n="83">Why did they put the poore fellow in prison?</l>
                 </sp>
 
-                <pb n="22"/>
-
-                <fw place="top-center" type="head">ACT II. SCENE II.</fw>
-
                 <sp>
                     <speaker>Hornet</speaker>
                     <l n="84">Whom? what fellow?</l>
@@ -883,6 +879,10 @@
                     <speaker>Pursevant</speaker>
                     <l n="90">Which is Master <name rend="italic">Hornet?</name></l>
                 </sp>
+			    
+	        <pb n="22"/>
+
+                <fw place="top-center" type="head">ACT II. SCENE II.</fw>
 
                 <sp>
                     <speaker>Hornet</speaker>
