@@ -23,8 +23,10 @@
     
     <text>
         <body>
+            
             <div><l n="1">644 c. 59<note type="textual">The “644.c.59” handwritten annotation we see on this page is the British Library shelfmark or call number, and it suggests the provenance of this copy. Usually, the British Library marks their ownership of books using an ink library stamp, which we see here slightly faded under the reference number. In this case, “644.c.59” signals to the General Reference Collection DRT Digital Store.</note></l></div>
 		
+		<pb/>
 		
             <div type="titlepage">
                 <l n="1">THE CONSTANT MAID</l>
@@ -86,7 +88,9 @@
             </div>
     
             <pb n="1"/>
-
+            
+            <div><head>THE CONSTANT MAID</head></div>
+            
             <div type="act" n="1">
                 <head>ACT I.</head>
             <div type="scene" n="1">
