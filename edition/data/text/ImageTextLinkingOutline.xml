@@ -2733,23 +2733,1166 @@
             </div>
             <div type="act" n="5">
                 <div type="scene" n="1">
-                <pb n="57" xml:id="TCMp60.jpg" facs="data/images/single/TCMp60.jpg"/>
-                <pb n="58" xml:id="TCMp61.jpg" facs="data/images/single/TCMp61.jpg"/>
-                <pb n="59" xml:id="TCMp62.jpg" facs="data/images/single/TCMp62.jpg"/>
-		</div>
+                    <pb n="57" xml:id="TCMp60.jpg" facs="data/images/single/TCMp60.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE I.</fw>
+                    <stage type="location" place="center">A Street.</stage>
+                    <stage type="entrance" place="center">Enter Officers, with Hartwell in Startup’s
+                        clothes, followed by Countrey-man, and a Servant.</stage>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="1">You have done well?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Countrey-man</speaker>
+                        <l n="2">Would you had done no worse.</l>
+                        <l n="3">These are his clothes, and you must give account</l>
+                        <l n="4">How you came by 'em, and produce him safe</l>
+                        <l n="5">Ere you acquit your selfe; We may suspect</l>
+                        <l n="6">You ha' kill'd him.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="7">Then I obey my destiny;</l>
+                        <l n="8">Justice I see pursues the guilty person:</l>
+                        <l n="9">Dispose me where you please.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Officer</speaker>
+                        <l n="10">He does confesse.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="11">What ere you be, you can but have my life</l>
+                        <l n="12">For his; all your revenge can reach no higher:</l>
+                        <l n="13">And to the law I yeeld my selfe.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Countrey-man</speaker>
+                        <l n="14">My hopes are colde</l>
+                        <l n="15">As his blood whom thou hast slaine: Thou hast</l>
+                        <l n="16">Been cruell in this act, to me and mine;</l>
+                        <l n="17">Whose fames in him are miserably wounded:</l>
+                        <l n="18">But looke for the reward.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="19">I must expect it;</l>
+                        <l n="20">In the meane time I do not beg your mercy:</l>
+                        <l n="21">Life is a burden, I would faine be rid on't.</l>
+                        <l n="22">Does he weary me to carry it?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Servant</speaker>
+                        <l n="23">I'll acquaint my Mistresse.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Countrey-man</speaker>
+                        <l n="24">Do so: To the next Justice; come away</l>
+                    </sp>
+
+                    <stage type="exit" place="right">Exeunt.</stage>
+                </div>
                 <div type="scene" n="2">
-                <pb n="60" xml:id="TCMp63.jpg" facs="data/images/single/TCMp63.jpg"/>
-                <pb n="61" xml:id="TCMp64.jpg" facs="data/images/single/TCMp64.jpg"/>
-                <pb n="62" xml:id="TCMp65.jpg" facs="data/images/single/TCMp65.jpg"/>
-                <pb n="63" xml:id="TCMp66.jpg" facs="data/images/single/TCMp66.jpg"/>
-                <pb n="64" xml:id="TCMp67.jpg" facs="data/images/single/TCMp67.jpg"/>
-                <pb n="65" xml:id="TCMp68.jpg" facs="data/images/single/TCMp68.jpg"/>
-                <pb n="66" xml:id="TCMp69.jpg" facs="data/images/single/TCMp69.jpg"/>
-                <pb n="67" xml:id="TCMp70.jpg" facs="data/images/single/TCMp70.jpg"/>
-		</div>
+                    <head>ACT V. SCENE II.</head>
+
+                    <stage type="location" place="center">A Room in Hornet’s House.</stage>
+                    <stage type="entrance" place="center">Enter Hornet.</stage>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="1">She's gone, she's gone, I shall run mad; My Neece,</l>
+                        <l n="2">Rob'd of three thousand pound in her escape,</l>
+                        <l n="3">I finde too late, I am awake and gull’d,</l>
+
+                        <pb n="58" xml:id="TCMp61.jpg" facs="data/images/single/TCMp61.jpg"/>
+                        <fw place="top-center" type="head">ACT V. SCENE II.</fw>
+
+                        <l n="4">Nor know I whom to accuse for my tormentors;</l>
+                        <l n="5">Devils or men, but sure they were not men,</l>
+                        <l n="6">But very fiends <note type="etymological">
+                                <term>fiend.</term> An evil spirit generally; a demon, devil, or
+                                diabolical being; more fully fiend of hell. (OED n. 3) </note>I
+                            revell'd with last night.</l>
+                        <l n="7">That I could meet the prince of devils that knighted me,</l>
+                        <l n="8">The Poets call him <name rend="italic">Pluto</name>, god of
+                            riches;</l>
+                        <l n="9">I and my learned Councell would undo him</l>
+                        <l n="10">In Law, in very Law, which he should finde</l>
+                        <l n="11">Hotter ere I had done, than hell it selfe,</l>
+                        <l n="12">And call his place of torment, in three Termes,</l>
+                        <l n="13">But a refreshing to't: Yet let me see,</l>
+                        <l n="14">I have the portion still, though she be vanish'd,</l>
+                        <l n="15">That's better than my <name rend="italic">Neece</name>, but if she
+                            marry,</l>
+                        <l n="16">I lose it all there; there's the vexation.</l>
+                    </sp>
+
+                    <stage type="entrance" place="center">Enter Cousen.</stage>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="17">Save Mr. <name rend="italic">Hornet</name>.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="18">'Tis too late, away,</l>
+                        <l n="19">I do not love unnecessary complement.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen.</speaker>
+                        <l n="20">This he?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="21">Yes, I am he; am I not very fine?</l>
+                        <l n="22">What do you thinke this trim will cost me, ha?</l>
+                        <l n="23">Three thousand pounds, no more?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="24">The Broker wo'not</l>
+                        <l n="25">Lend halfe the money.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="26">Will you, sir, be gone,</l>
+                        <l n="27">I ha' no money to lend now, it is not,</l>
+                        <l n="28">You know, in fashion, with rich clothes.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="29">I came for other purpose, and with newes perhaps,</l>
+                        <l n="30">You would be willing to receive; You have</l>
+                        <l n="31">A <name rend="italic">Neece</name>?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="32">No; such a creature was in my possession:</l>
+                        <l n="33">Do you know where she is?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="34">Faith I imagine.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="35">Ha, good sir? pray forwards:</l>
+                        <l n="36">You shall have money upon good security.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="37">I thanke you, sir, for nothing; I do owe you</l>
+                        <l n="38">Too much already, on these tearmes.</l>
+                    </sp>
+
+                    <pb n="59" xml:id="TCMp62.jpg" facs="data/images/single/TCMp62.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE II.</fw>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="39">My <name rend="italic">Neece</name>, as you were saying.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="40">Were you knighted lately?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="41">Is that talk'd abroad?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="42">No generall rumour; By a chance I came</l>
+                        <l n="43">Where such a thing was whisper'd only whisper'd;</l>
+                        <l n="44">Just as he was describ'd: In my opinion</l>
+                        <l n="45">Y'are very handsome, and do looke as like a reverend—</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="46">Asse.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="47">Why, you shall have it, sir.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="48">But touching my <name rend="italic">Neece</name>, good sir,</l>
+                        <l n="49">That most ungracious giglet,<note type="etymological">
+                                <term>giglet.</term> A giddy, laughing, romping girl. (OED n. b)
+                            </note></l>
+                        <l n="50">That's run or stolne away, juggled last night</l>
+                        <l n="51">Out a my doores.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="52">Did not she leap the casement?<note type="etymological">
+                                <term>casement.</term>A vertically hinged frame containing glass,
+                                forming (part of) a window. Hence (more generally): a window. (OED
+                                n. 2a) </note></l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="53">Do not increase my agony; you came—</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="54">With civill meaning to discover how</l>
+                        <l n="55">You may be abus'd.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="56">What money do you want, sir?</l>
+                        <l n="57">Your owne bond shall suffice.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="58">I ha sworne never</l>
+                        <l n="59">To write my name or marke; But I can tell—</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="60">Where I may finde this girle.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="61">More I can do, if need require;</l>
+                        <l n="62">Tis in my power to give</l>
+                        <l n="63">Her back to your possession, and I am willing.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="64">An honest man.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="65">On reasonable conditions, and such</l>
+                        <l n="66">As shall not trench on borrowing money.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="67">Honester yet.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="68">For you shall give it freely and get by't;</l>
+                        <l n="69">For you must understand if I do this,</l>
+                        <l n="70">I shall betray a friend of mine, that has</l>
+                        <l n="71">Put me in trust, one that intends to marry her,</l>
+                        <l n="72">(For truth to tell, they are not yet contracted)</l>
+                        <l n="73">To marry her, d'ee marke? and yet e're morning</l>
+                        <l n="74">Three thousand pounds upon her, Is't not so much?</l>
+                    </sp>
+                </div>
                 <div type="scene" n="3">
-                <pb n="68" xml:id="TCMp71.jpg" facs="data/images/single/TCMp71.jpg"/>
-		</div>
+                    <pb n="60" xml:id="TCMp63.jpg" facs="data/images/single/TCMp63.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE III.</fw>
+
+                    <l n="75">One that has lent me sums too without parchment.<note
+                            type="etymological">
+                            <term>parchment.</term>Animal skin dressed and prepared for writing,
+                            painting, bookbinding, etc. (OED n. 1)</note></l>
+                    <l n="76">Or foolish circumstance, to be repaid;</l>
+                    <l n="77">Which you were never yet so much a Christian,</l>
+                    <l n="78">As to be guilt of, in your Usurers gallon</l>
+                    <l n="79">Of conscience melting Sacke;<note type="contextual">Lambert demands a
+                            bigger sum for returning the Neece, one of his arguments being that
+                            Hornet is a Jew and the individual who kidnapped the Neece is a
+                            Christian.</note> This deserves something,</l>
+                    <l n="80">But cause some expedition is required;</l>
+                    <l n="81">You have a Bond of mine.</l>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="82">For fifty pound.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="83">I had but forty, and your Scrivenor paid,</l>
+                        <l n="84">With whom, perhaps, your worship too divided;</l>
+                        <l n="85">If you remember, there were precious dinners,</l>
+                        <l n="86">Ere I could count my Chickens altogether,</l>
+                        <l n="87">Which was your thrift and my expence; You shall</l>
+                        <l n="88">First cancell that Bond, nay this wo'not dot,</l>
+                        <l n="89">And give, d'ee marke, give me a hundred pieces,</l>
+                        <l n="90">Perhaps I'll drinke your health: This shall retrive</l>
+                        <l n="91">Your <name rend="italic">Neece</name>, and give her into your
+                            hands,</l>
+                        <l n="92">Though for my treachery, I be sung in ballads,</l>
+                        <l n="93">And have the towne curse if ever I marry.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="94">'Tis too much for no more labour, sir.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="95">If I consider,</l>
+                        <l n="96">Three hundred will not bring me to't agen;</l>
+                        <l n="97">Thus faire I'll deale with you; I'le not touch your money</l>
+                        <l n="98">Till I ha' don't, but then I will be sure:</l>
+                        <l n="99">Fetch, fetch the businesse.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="100">The Bond is ready.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="101">I will have ready money too: You have</l>
+                        <l n="102">Bags of all sizes and denominations. </l>
+                        <stage type="delivery">Hornet opens a cabinet.</stage>
+                        <l n="103">I, these things promise well; now I'll attend you.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="104">Do this fear for me, and 'tis all thine owne.</l>
+                    </sp>
+
+                    <stage type="exit" place="right">Exeunt.</stage>
+                    <fw place="center" type="head">SCENE III.</fw>
+
+                    <stage type="location" place="center">A Room in Justice Clement's House.</stage>
+                    <stage type="entrance" place="center">Enter Justice Clement, Playfaire and
+                        Neece.</stage>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="1">Now we may wish you say, the Priest has tied</l>
+                        <l n="2">That knot no subtity nor malice can</l>
+                        <l n="3">Dissolve; And repent not I have been</l>
+                        <l n="4">An actor in your Comedy, though I should not</l>
+                    </sp>
+
+                    <pb n="61" xml:id="TCMp64.jpg" facs="data/images/single/TCMp64.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE III.</fw>
+
+                    <l n="5">Be tempted easily to such another</l>
+                    <l n="6">Engagement; For your sake I have dispenc'd with</l>
+                    <l n="7">My person and my place.</l>
+
+                    <sp>
+                        <speaker>Playfaire</speaker>
+                        <l n="8">You alwayes were</l>
+                        <l n="9">My loving Uncle.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Neece</speaker>
+                        <l n="10">Sir, you have, in this,</l>
+                        <l n="11">Deserv'd our lives and fortunes.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Playfaire</speaker>
+                        <l n="12">It was good mirth</l>
+                        <l n="13">To heare him confident all our device</l>
+                        <l n="14">Was but a dreame.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="15">He is awake by this time;</l>
+                        <l n="16">Should your Cousen faile, we'll have another way</l>
+                        <l n="17">To invite him; And if honesty prevaile not,</l>
+                        <l n="18">Force him till he consent.</l>
+                    </sp>
+
+                    <stage type="entrance" place="center">Enter Servant.</stage>
+
+                    <sp>
+                        <speaker>Servant</speaker>
+                        <l n="19">Some offenders are brought to be examin'd.</l>
+                    </sp>
+
+                    <stage type="exit" place="right">Exit.</stage>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="20">Nephew, withdraw, and you, faire Bride; These troubles</l>
+                        <l n="21">Are incident to my place, I'll soon dispatch 'em.</l>
+
+                        <stage type="exit" place="right">Exeunt Playfaire and Neece.</stage>
+
+                        <stage type="entrance" place="center">Enter Countrey-man, Hartwell, and
+                            Officers.</stage>
+
+                        <l n="22">How now my Masters? Mr. <name rend="italic">Hartwell?</name>
+                            ha!</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="23">Looke on me; Sir, as a delinquent; These</l>
+                        <l n="24">Are able to accuse me.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="25">What offence?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Constable</speaker>
+                        <l n="26">Nothing, but for killing of a man.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="27">What proofe?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Countrey-man</speaker>
+                        <l n="28">He has confest it, Sir.</l>
+                    </sp>
+
+                    <stage type="entrance" place="center">Enter Mistresse Bellamy and
+                        Frances.</stage>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="29">Mistresse <name rend="italic">Bellamy</name>,</l>
+                        <l n="30">You are come in a sad time: Here's Mr. <name rend="italic"
+                                >Hartwell</name></l>
+                        <l n="31">Accus'd for killing.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Bellamy</speaker>
+                        <l n="32">'Tis not possible.</l>
+                        <l n="33">Good sir beleeve it not.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="34">He does confesse.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="35">I am not worth your pity, gentle lady</l>
+                        <l n="36">In vaine I should extenuate my fact,</l>
+                    </sp>
+
+                    <pb n="62" xml:id="TCMp65.jpg" facs="data/images/single/TCMp65.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE III.</fw>
+
+                    <l n="37">To have the troubles of examinations;</l>
+                    <l n="38">Here I confesse agen, my hand is guilty</l>
+                    <l n="39">Of killing him whose feeble arme durst not</l>
+                    <l n="40">Lift up a weapon to defend himselfe.</l>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="41">That was not manly.<note type="contextual"><term>†manly.
+                                </term>Used not as strong or masculine, but rather as humane,
+                                charitable; generous. <name rend="italics">Obsolete.</name> (OED
+                                adj. c4).</note></l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="42">I but slew a coward</l>
+                        <l n="43">Startup, and could I call his life agen,</l>
+                        <l n="44">As soone I should destroy it; you perhaps</l>
+                        <l n="45">Know not my provocation: He was</l>
+                        <l n="46">My Rivall, sir, pardon me: Mistris <name rend="italic"
+                                >Bellamy</name>,</l>
+                        <l n="47">To whom I only seemed a Proselyte<note type="etymological">
+                                <term>proselyte.</term>A person who has changed from one opinion,
+                                religion, party, etc., to another; a convert. (OED n. 2)</note></l>
+                        <l n="48">In love, I had no heart to give from her:</l>
+
+                        <stage type="delivery">Pointing to Frances.</stage>
+
+                        <l n="49">And in my study to decline your anger;</l>
+                        <l n="50">I fell upon her scorne, which in few minutes,</l>
+                        <l n="51">Engaged me to this Fate; Nor am I troubled</l>
+                        <l n="52">That I must die, when she upon whose faith</l>
+                        <l n="53">I durst have laid the hopes of my eternity,</l>
+                        <l n="54">Hath violated all the trust of woman.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Countrey-man</speaker>
+                        <l n="55">Wilt please you, sir—</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="56">Forbear a little.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="57">Tell me, most unkinde, if thou didst love</l>
+                        <l n="58">At all? How couldst thou thinke I should be such</l>
+                        <l n="59">A desperate Atheist, that thou so soone,</l>
+                        <l n="60">And with a strange Apostacy<note type="etymological">
+                                <term>apostacy.</term>Abandonment or renunciation of one's religious
+                                faith or moral allegiance. (OED n. 1a)</note> should'st revenge
+                            it?</l>
+                        <l n="61">These swelling drops which in thy innocence</l>
+                        <l n="62">Might ha' prevail'd to ha' restor'd the dead,</l>
+                        <l n="63">Heaven now doth looke on, and despise: And though</l>
+                        <l n="64">Thou shed moist tribute on this Tombe, 't shall slide,</l>
+                        <l n="65">Neglected o're the Marble, and be lost,</l>
+                        <l n="66">As if the stone had sense to punish thy</l>
+                        <l n="67">Disdaine of me: I can behold that weeping,</l>
+                        <l n="68">And not be moved to wish I were not guilty</l>
+                        <l n="69">Of killing him whose love had been thy triumph;</l>
+                        <l n="70">And I dare boldly, still in the contempt</l>
+                        <l n="71">Of what I am to suffer, and the justice</l>
+                        <l n="72">Of my owne truth, challenge thy soule to answer</l>
+                    </sp>
+
+                    <pb n="63" xml:id="TCMp66.jpg" facs="data/images/single/TCMp66.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE III.</fw>
+
+                    <l n="73">In what I was beneath that gaudy<note type="etymological">
+                            <term>gaudy.</term>Excessively or glaringly showy, tastelessly fine or
+                            colourful. (OED adj.2. 3a) </note> foole,</l>
+                    <l n="74">Excepting that he had more earth than I</l>
+                    <l n="75">To helpe his scale, which yet he may be indebt for</l>
+                    <l n="76">To his fathers sins: Alive, he could not merit</l>
+                    <l n="77">One cold disdaine from thee; And dead, how comes it</l>
+                    <l n="78">He should be worth thy teares? But let thy eyes</l>
+                    <l n="79">Chide this unruly sorrow; dresse thy cheekes</l>
+                    <l n="80">With their fresh blood again, and let thy face</l>
+                    <l n="81">Open a book of smiles, in the assurance</l>
+                    <l n="82">I have not long to live; When I have numbred</l>
+                    <l n="83">A few sad minutes, thou shalt be reveng'd,</l>
+                    <l n="84">And I shall never trouble thee: If this</l>
+                    <l n="85">Be not enough, extend thy malice further;</l>
+                    <l n="86">And if thou find'st one man that lov'd me living,</l>
+                    <l n="87">Will honour this cold body with a grave,</l>
+                    <l n="88">Be cruell, and corrupt his charity.</l>
+                    <l n="89">So fare ye well.</l>
+
+                    <sp>
+                        <speaker>Frances</speaker>
+                        <l n="90">Yet you must stay and heare me:</l>
+                        <l n="91">He sha'not suffer, if my friends or state</l>
+                        <l n="92">Can purchase him a pardon: Where's the body</l>
+                        <l n="93">Of him that's slaine?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Countrey-man</speaker>
+                        <l n="94">We know not; But you heare</l>
+                        <l n="95">His free confession of the fact.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="96">This may</l>
+                        <l n="97">Proceed from discontents; Life to some men</l>
+                        <l n="98">Is but their torment in whose paine they will,</l>
+                        <l n="99">As on the Wracke, confesse what never</l>
+                        <l n="100">Was in their thought.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="101">Speak it agen, and I</l>
+                        <l n="102">Dare promise thee to live.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Frances</speaker>
+                        <l n="103">My heart was ever</l>
+                        <l n="104">Constant, my mothers love was but thy triall,</l>
+                        <l n="105">As mine a seeming change in thy disguise,</l>
+                        <l n="106">Which was not able to secure thee from me</l>
+                        <l n="107">The words were, I would choose my husband here</l>
+                        <l n="108">But what will this availe us?</l>
+                    </sp>
+                    <pb n="64" xml:id="TCMp67.jpg" facs="data/images/single/TCMp67.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE III.</fw>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="109">Mr. Justice, I here discharge you.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="110">How?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="111">My joyes obeyes</l>
+                        <l n="112">No limits; I accus'd my selfe unjustly,</l>
+                        <l n="113">The fool's alive.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Countrey-man</speaker>
+                        <l n="114"><name rend="italic">Startup</name>, Where?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="115">I know not that,</l>
+                        <l n="116">My servant's with him, but if he ha' plaid</l>
+                        <l n="117">The hang-man,<note type="contextual">Hartwell means he does not
+                                know if Close has taken justice into his own hands and killed the
+                                Countrey-man.</note> starv'd or smother'd him in a ditch,</l>
+                        <l n="118">I ha' made faire worke</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Omnes</speaker>
+                        <l n="119">This were a welcome truth.</l>
+                    </sp>
+
+                    <stage type="entrance" place="center">Re-enter Servant.</stage>
+
+                    <sp>
+                        <speaker>Servant</speaker>
+                        <l n="120">Sir, the Constable.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="121">I had rather it had been my Kinsman and the Usurer;</l>
+                        <l n="122">But wait and give me knowledge when they come.</l>
+                    </sp>
+
+                    <stage type="exit" place="right">Exit Servant.</stage>
+
+                    <stage type="entrance" place="center">Enter Constable, Startup, Close and
+                        Officers.</stage>
+
+                    <sp>
+                        <speaker>Constable</speaker>
+                        <l n="123">Where's Mr. Justice?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="124">It is he and <name rend="italic">Close</name>;</l>
+                        <l n="125">Then I am secure, your pardon, and thy love.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Bellamy</speaker>
+                        <l n="126">You have it freely, and a mother’s prayers</l>
+                        <l n="127">For both your happinesse.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Constable</speaker>
+                        <l n="128">Please your worship, these</l>
+                        <l n="129">We took last night i'th'fields suspiciously,</l>
+                        <l n="130">And by my owne authority I condemn'd 'em.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Startup</speaker>
+                        <l n="131">Shall we be hang'd, <name rend="italics">Close,</name> we are
+                            condemn'd already.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="132">This is the Gentleman was kill'd.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Startup</speaker>
+                        <l n="133">Sweet sir, no;</l>
+                        <l n="134">Not kill'd out right, but I was almost starv'd</l>
+                        <l n="135">With cold: These Gentlewoman know me,</l>
+                        <l n="136">And I should know that Hose and Doublet too;</l>
+                        <l n="137">Those garments which you weare, I have oft seen, sweet sir.<note
+                                type="intertextual">Like some of the lines spoken by the servants in
+                                Act I, Scene I, the last line of Startup's speech comes from Thomas
+                                Kyd's The Spanish Tragedy, and are said by Hieronimo, which explains
+                                Close's response.</note></l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Close</speaker>
+                        <l n="138">Well said<name rend="italic">Jeronimo</name>.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Startup</speaker>
+                        <l n="139">I was faine to borrow</l>
+                        <l n="140">These of a prisoner that lies in, upon</l>
+                        <l n="141">My Diamond Ring.</l>
+                    </sp>
+                    <pb n="65" xml:id="TCMp68.jpg" facs="data/images/single/TCMp68.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE III.</fw>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="142">You are discharg'd.</l>
+                    </sp>
+
+                    <stage type="exit" place="right">Exeunt Constable,Watchmen and Officers.</stage>
+
+                    <sp>
+                        <speaker>Startup</speaker>
+                        <l n="143">And we too?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="144">Yes, and joy in every bosome.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Startup</speaker>
+                        <l n="145">
+                            <name rend="italic">Close</name>, you must know this your Mistresse:
+                            Sweet Lady.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Frances</speaker>
+                        <l n="146">How?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Close</speaker>
+                        <l n="147">'Tis enough for you to know her, sir,</l>
+                        <l n="148">And me to acknowledge.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Countrey-man</speaker>
+                        <l n="149">Do you know me, sir?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Startup</speaker>
+                        <l n="150">Hum; yes, who brought you to town? And your daugh-</l>
+                        <l n="151">ter too, sweet sir?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Countrey-man</speaker>
+                        <l n="152">And you shall right her.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Startup</speaker>
+                        <l n="153">Is she growne crooked? I knew her too well.</l>
+                        <l n="154">Peace, not a word more, I know your meaning,</l>
+                        <l n="155">Do not discredite me, sweet sir, and we'll steale downe</l>
+                        <l n="156">And marry her ere any be aware on't;</l>
+                        <l n="157">I wo'not stay to shift me, take no leave;</l>
+                        <l n="158">The jest will be when I am in the Countrey,</l>
+                        <l n="159">How like an asse he'll look in my apparrell.</l>
+                    </sp>
+
+                    <stage type="exit" place="right">Exeunt Startup, Countrey-man.</stage>
+
+                    <stage type="entrance" place="center">Re-enter servant.</stage>
+
+                    <sp>
+                        <speaker>Servant</speaker>
+                        <l n="160">Sir, Mr. <name rend="italic">Playfaire’s</name> Cousen and the
+                            other Gallant.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="161">I must intreat your patience a little,</l>
+                        <l n="162">You'll meet with friends in the next roome.</l>
+                    </sp>
+
+                    <stage type="exit" place="right">Exeunt Hartwell, Bellamy, Frances and
+                        Close.</stage>
+
+                    <stage type="entrance" place="center">Enter Cousen, and Hornet in his court
+                        dress.</stage>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="163">Excuse my boldnesse, sir, this Gentleman.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="164">Mr. <name rend="italic">Hornet</name>, you are very welcome.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="165">Good sir no ceremony; We are come</l>
+                        <l n="166">'Bout businesse: I have lost my Neece, and would</l>
+                        <l n="167">Know where she is.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="168">D'ee take me for a Wizzard?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="169">Sir, our desires are modest; That you would</l>
+                        <l n="170">Be witnesse to a bargaine, and receive</l>
+                        <l n="171">Some trifles, sir, in trust to be deliver'd</l>
+                        <l n="172">To me, If I restore his Kinswoman.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="173">Not else; On that condition I deposite</l>
+                        <l n="174">These hundred pieces, and a bond, if he</l>
+                        <l n="175">Deliver me my Neece, they are his fraught,</l>
+                    </sp>
+
+                    <pb n="66" xml:id="TCMp69.jpg" facs="data/images/single/TCMp69.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE III.</fw>
+
+                    <l n="176">If not, they call me owner.</l>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="177">Pardon, sir,</l>
+                        <l n="178">That I presume to bring this trouble to you.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="179">'Tis none at all.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="180">You sha'not long expect: So rest you merry.</l>
+                    </sp>
+
+                    <stage type="exit" place="right">Exit.</stage>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="181">How fare you, sir?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="182">As you see, falne away an inch since morning,</l>
+                        <l n="183">But this will physicke<note type="etymological">
+                                <term>†physick.</term>A healthy practice or habit, meaning “this
+                                will cure me”. <name rend="italics">Obsolete.</name> (OED n.
+                                2a)</note> me; If I possesse</l>
+                        <l n="184">This harlotry<note type="etymological">
+                                <term>†harlotry.</term>Coarse or indecent language or behaviour;
+                                crude jesting; ribaldry; obscenity. Also in weaker sense: frivolous
+                                entertainment or behaviour, buffoonery. <name rend="italics"
+                                    >Obsolete.</name> (OED, n. 1)</note>agen, I'll make her
+                            sure:</l>
+                        <l n="185">Trust not a woman, they have found the herbe</l>
+                        <l n="186">To open locks; not brazen Towers can hold'em.</l>
+                        <l n="187">Or if they get not loose, they have the vertue</l>
+                        <l n="188">Of Loadstones; Shut up in a box, they'll draw</l>
+                        <l n="189">Customers to them; Nay, being dead and buried,</l>
+                        <l n="190">There is a suspicion they will breake the grave,</l>
+                        <l n="191">Which puts so many husbands to the charge</l>
+                        <l n="192">Of heavy stones to keep their bad wires under.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="193">You are moved?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="194">Oh Mr. <name rend="italic">Justice</name> you are honest,</l>
+                        <l n="195">I ha'been abus'd, so miserably cheated,</l>
+                        <l n="196">I am asham'd to thinke on't,</l>
+
+                        <stage type="delivery">Music.</stage>
+
+                        <l n="197">Stay, what, musicke?</l>
+
+                        <stage type="entrance" place="center">Re-enter Cousen, leading the
+                            Neece.</stage>
+
+                        <l n="198">Ha, 'tis my Neece; the very same.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="199">There, sir, you have her, and I must ha' these.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="200">Take'em: But you shall go with me; have I found you?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Neece</speaker>
+                        <l n="201">How Unckle? a reveller? you'll lead me a Corranto.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="202">You shall dance homewards.</l>
+                    </sp>
+
+                    <stage type="entrance" place="center">Re-enter Playfaire.</stage>
+
+                    <sp>
+                        <speaker>Playfaire</speaker>
+                        <l n="203">What make you so familiar with my wife?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="204">How, wife? is she married?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="205">'Tis upon record,</l>
+                        <l n="206">I'll bring a Parson that shall take his oath on’t</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="207">Give me my bond and money, Mr. <name rend="italic"
+                                >Justice.</name></l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="208">Where? where?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="209">Here, here, but not to be recovered</l>
+                    </sp>
+
+                    <pb n="67" xml:id="TCMp70.jpg" facs="data/images/single/TCMp70.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE III.</fw>
+
+                    <l n="210">By law: I have a judgement, sir, against you.</l>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="211">You have conspired to rob, cheat, and undo me;</l>
+                        <l n="212">I'll have you all Star-chamber'd</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Playfaire</speaker>
+                        <l n="213">Sir, be calme, and hear us.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="214">I'll hear nothing.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Playfaire</speaker>
+                        <l n="215">Yes, you shall;</l>
+                        <l n="216">It will be necessary, I am bold,</l>
+                        <l n="217">Presuming on her favour, to demand</l>
+                        <l n="218">A parcell of three thousand pound, the sum</l>
+                        <l n="219">belongs to me, by vertue of a marriage</l>
+                        <l n="220">And I must have it.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="221">Tell me of a marriage?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="222">I saw the Priest conjoyne'em<note type="etymological">
+                                <term> †conjoyn. </term> Unite in marriage. <name rend="italics"
+                                    >Obsolete.</name> (OED. v. 1c) </note>:</l>
+                        <l n="223">He will deserve your love.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Playfaire</speaker>
+                        <l n="224">Perhaps you may continue</l>
+                        <l n="225">A thousand, or two thousand, for six moneths,</l>
+                        <l n="226">Upon security.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="227">Persecution.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="228">Faith sir consider,</l>
+                        <l n="229">It is more safe to see her thus bestowed,</l>
+                        <l n="230">Than trust a jury; If the Doctor had</l>
+                        <l n="231">Given her too much <hi rend="italic">Opium,</hi> or purg'd</l>
+                        <l n="232">Her soule away, things might go worse; But I</l>
+                        <l n="233">Keep counsell.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="234">Ha'ye mortified me yet?</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Cousen</speaker>
+                        <l n="235">For your owne sake, and as you are true Knight.</l>
+                    </sp>
+
+                    <stage type="entrance" place="center">Re-enter Mistresse Bellamy, Hartwell,
+                        Frances, and Close.</stage>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="236">Now, ha ye done? The widdow;</l>
+                        <l n="237">Not a word more, take her, I'll pay you sir,</l>
+                        <l n="238">Three thousand pounds to morrow: Noble widdow</l>
+                        <l n="239">You were in the first list to be invited;</l>
+                        <l n="240">My Neece I told you of, is married to</l>
+                        <l n="241">This worthy Gentleman.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Bellamy</speaker>
+                        <l n="242">You looke like a Bridegroom.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="243">'Tis in your power to make it good; What say you,</l>
+                        <l n="244">Shall we have issue? Now the word of comfort.</l>
+                    </sp>
+
+                    <pb n="68" xml:id="TCMp71.jpg" facs="data/images/single/TCMp71.jpg"/>
+                    <fw place="top-center" type="head">ACT V. SCENE III.</fw>
+
+                    <sp>
+                        <speaker>Bellamy</speaker>
+                        <l n="245">I will never marry.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="246">You are resolv'd why, so: Come hither Nephew,</l>
+                        <l n="247">Shalt be my heire, I love thee for thy wit;</l>
+                        <l n="248">But charme thy friends, they do not laugh at me:</l>
+                        <l n="249">I'll be a Knight too, if I live, and build</l>
+                        <l n="250">An Hospitall for twenty more o'th' Order,</l>
+                        <l n="251">Which I'll reduce my selfe out of the Suburbs;</l>
+                        <l n="252">It is a shame such men should lose their spurs</l>
+                        <l n="253">In women’s Petticoats, and turne Squires agen</l>
+                        <l n="254">To Whores, or Parasites to Noble men,</l>
+                        <l n="255">For want of fit provision.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="256">An excellent foundation.</l>
+                        <l n="257">But where's <name rend="italic">Startup?</name></l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Close</speaker>
+                        <l n="258">Sunke, I thinke.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="259">Never conjure for him; we are ingratefull to</l>
+                        <l n="260">Our blisse: But wasting of these precious minutes,</l>
+                        <l n="261">Which are so many ages, till the Church</l>
+                        <l n="262">Hath made us perfect.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hornet</speaker>
+                        <l n="263">Is there any more</l>
+                        <l n="264">Worke for the Priest? Then give you joy before hand,</l>
+                        <l n="265">And let us celebrate the day together.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Playfaire</speaker>
+                        <l n="266">I'me glad of your conversion; Ye are the first</l>
+                        <l n="267">Jew that in my remembrance has turn'd Christian.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Justice</speaker>
+                        <l n="268">Walke on to joyes.</l>
+                    </sp>
+
+                    <sp>
+                        <speaker>Hartwell</speaker>
+                        <l n="269">'Twixt Love and Fortune, now the accounts are even:</l>
+                        <l n="270">A chaine of hearts, and the first linck in heaven.</l>
+                    </sp>
+
+                    <stage type="exit" place="right">Exeunt.<note type="textual"><p>The 1667 edition
+                                of The Constant Maid includes the following epilogue:</p>
+                            <p>Through many hazards, Love hath found a way,</p>
+                            <p>For Friends to meet: good Omen to our Play.</p>
+                            <p>If love hath brought you hither, Gentlemen,</p>
+                            <p>Love will find out the way to come agen.</p>
+                            <p>And we dare promise, if you rellish these,</p>
+                            <p>Our Loves shall find out other ways to please.</p>
+                            <p>T.B.</p>
+                        </note></stage>
+                </div>
             </div>
             <pb n="Back" xml:id="TCMbackcover.jpg" facs="data/images/single/TCMbackcover.jpg"/>
         </body>
