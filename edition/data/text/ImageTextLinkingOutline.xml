@@ -861,7 +861,7 @@
                         <l n="207">Into a new stock; it doth grow already</l>
                         <l n="208">Faire from his owne root, and doth want no peecing:</l>
                         <l n="209">Nor are the meanes of <name rend="italic">Hartwell</name> so contemptible.</l>    
-                        </sp>
+                
                         <sp>
                             <speaker>Bellamy</speaker>
                             <l n="210">No more: y'have consider'd well, you'l shape</l>
@@ -875,7 +875,6 @@
                         <stage type="exit" place="right">Exit Frances.</stage>
                         
                         <stage type="entrance" place="center">Re-enter Hartwell and Close.</stage>
-                        
                         
                         <sp>
                             <speaker>Close</speaker>
