@@ -72,19 +72,12 @@
             <div type="act" n="1">
                 <div type="scene" n="1">
                 <pb n="1" xml:id="TCMp4.jpg" facs="data/images/single/TCMp4.jpg"/>
-                   
-                        <head>ACT I.</head>
-                        <div type="scene" n="1">
-                            <head>SCENE I.</head>
-                            <fw place="top-center" type="head"> ACT I. SCENE I.</fw>
+                    <fw place="top-center" type="head"> ACT I. SCENE I.</fw>
                             
-                            <stage type="location" place="center">The Street before Hartwell’s House.</stage>
-                            
-                            <stage type="entrance" place="center">Enter Hartwell, Close, and three other
+                        <stage type="location" place="center">The Street before Hartwell’s House.</stage>
+                        <stage type="entrance" place="center">Enter Hartwell, Close, and three other
                                 Servants.</stage>
-                            
-                            
-                            
+            
                             <sp>
                                 <speaker>Hartwell</speaker>
                                 <l n="1">Nay let’s not part so heavily.</l>
@@ -327,9 +320,9 @@
                     <speaker>Close.</speaker>
                     <l n="87">All?</l>
                 </sp>
-                </div>
+            </div>
+            <div type="scene" n="2">
                 <pb n="4" xml:id="TCMp7.jpg" facs="data/images/single/TCMp7.jpg"/>
-                <div type="scene" n="2">
                     <fw place="top-center" type="head">ACT I. SCENE II.</fw>
                     
                     <sp>
