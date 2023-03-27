@@ -2440,7 +2440,7 @@
                 <pb n="43" xml:id="TCMp46.jpg" facs="data/images/single/TCMp46.jpg"/>
 		 <fw place="top-center" type="head">ACT IV. SCENE II.</fw>
 
-                        <l n="129">I know by his basket hilt, some rogue that watches,</l>
+                        <sp><l n="129">I know by his basket hilt, some rogue that watches,</l>
                         <l n="130">The fields are pester'd with such sturdy robbers.</l>
                     </sp>
 
@@ -3306,7 +3306,7 @@
 		
 			<pb n="52" xml:id="TCMp55.jpg" facs="data/images/single/TCMp55.jpg"/>
 			                        <fw place="top-center" type="head">ACT IV. SCENE III.</fw>
-<sp>                        <l n="89">The Statutes and the <name rend="italic">Magna Charta</name>
+			<sp><l n="89">The Statutes and the <name rend="italic">Magna Charta</name>
                             have</l>
                         <l n="90">Taken a lease at his tongues end.</l>
                     </sp>
@@ -3676,7 +3676,7 @@
                         <stage type="business" place="center">Paris receives the Neece, and gives
                             Venus the Ball; Juno, Pallas, with their Masquers, Exeunt.</stage>
 
-                        <l n="213">She's safe enough at home,</l>
+                        <sp><l n="213">She's safe enough at home,</l>
                         <l n="214">And has but halfe her wits, as I remember:</l>
                         <l n="215">The devill cannot juggle her from my custody.</l>
                         <l n="216">Ha, ha, I do dreame still.</l>
@@ -3827,12 +3827,12 @@
                         <speaker>Hornet</speaker>
                         <l n="1">She's gone, she's gone, I shall run mad; My Neece,</l>
                         <l n="2">Rob'd of three thousand pound in her escape,</l>
-                        <l n="3">I finde too late, I am awake and gull’d,</l>
+			    <l n="3">I finde too late, I am awake and gull’d,</l></sp>
 
                         <pb n="58" xml:id="TCMp61.jpg" facs="data/images/single/TCMp61.jpg"/>
                         <fw place="top-center" type="head">ACT V. SCENE II.</fw>
 
-                        <l n="4">Nor know I whom to accuse for my tormentors;</l>
+                        <sp><l n="4">Nor know I whom to accuse for my tormentors;</l>
                         <l n="5">Devils or men, but sure they were not men,</l>
                         <l n="6">But very fiends <note type="etymological">
                                 <term>fiend.</term> An evil spirit generally; a demon, devil, or
@@ -4040,7 +4040,7 @@
                     <pb n="60" xml:id="TCMp63.jpg" facs="data/images/single/TCMp63.jpg"/>
                     <fw place="top-center" type="head">ACT V. SCENE III.</fw>
 
-                    <l n="75">One that has lent me sums too without parchment.<note
+                    <sp><l n="75">One that has lent me sums too without parchment.<note
                             type="etymological">
                             <term>parchment.</term>Animal skin dressed and prepared for writing,
                             painting, bookbinding, etc. (OED n. 1)</note></l>
@@ -4125,7 +4125,7 @@
                     <pb n="61" xml:id="TCMp64.jpg" facs="data/images/single/TCMp64.jpg"/>
                     <fw place="top-center" type="head">ACT V. SCENE III.</fw>
 
-                    <l n="5">Be tempted easily to such another</l>
+                  <sp><l n="5">Be tempted easily to such another</l>
                     <l n="6">Engagement; For your sake I have dispenc'd with</l>
                     <l n="7">My person and my place.</l>
 
@@ -4236,7 +4236,7 @@
                     <pb n="62" xml:id="TCMp65.jpg" facs="data/images/single/TCMp65.jpg"/>
                     <fw place="top-center" type="head">ACT V. SCENE III.</fw>
 
-                    <l n="37">To have the troubles of examinations;</l>
+                    <sp><l n="37">To have the troubles of examinations;</l>
                     <l n="38">Here I confesse agen, my hand is guilty</l>
                     <l n="39">Of killing him whose feeble arme durst not</l>
                     <l n="40">Lift up a weapon to defend himselfe.</l>
@@ -4308,7 +4308,7 @@
                     <pb n="63" xml:id="TCMp66.jpg" facs="data/images/single/TCMp66.jpg"/>
                     <fw place="top-center" type="head">ACT V. SCENE III.</fw>
 
-                    <l n="73">In what I was beneath that gaudy<note type="etymological">
+                    <sp><l n="73">In what I was beneath that gaudy<note type="etymological">
                             <term>gaudy.</term>Excessively or glaringly showy, tastelessly fine or
                             colourful. (OED adj.2. 3a) </note> foole,</l>
                     <l n="74">Excepting that he had more earth than I</l>
@@ -4610,7 +4610,7 @@
                     <pb n="66" xml:id="TCMp69.jpg" facs="data/images/single/TCMp69.jpg"/>
                     <fw place="top-center" type="head">ACT V. SCENE III.</fw>
 
-                    <l n="176">If not, they call me owner.</l>
+                    <sp><l n="176">If not, they call me owner.</l>
 
                     <sp>
                         <speaker>Cousen</speaker>
@@ -4736,7 +4736,7 @@
                     <pb n="67" xml:id="TCMp70.jpg" facs="data/images/single/TCMp70.jpg"/>
                     <fw place="top-center" type="head">ACT V. SCENE III.</fw>
 
-                    <l n="210">By law: I have a judgement, sir, against you.</l>
+			    <sp><l n="210">By law: I have a judgement, sir, against you.</l></sp>
 
                     <sp>
                         <speaker>Hornet</speaker>
