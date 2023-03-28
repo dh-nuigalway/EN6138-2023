@@ -83,7 +83,7 @@
     <l n="10">May yet be faire for marriage? This brunt over.</l>
     <l n="11">To meet some Drunkard now were comfortable,</l>
     <l n="12">Whose eyes enflamed might serve for torches,</l>
-    <l n="13">Or he might spit flapdragons from his fire</l>
+        <l n="13">Or he might spit flapdragons<note type="etymological"><term>†flapdragon</term>A raisin or other thing thus caught and eaten. <name rend="italic">Obsolete</name> (OED n. 1C).</note> from his fire</l>
     <l n="14">Of Sack, and light us: But no sober man,</l>
     <l n="15">Considering what case you are in, sir,</l>
     <l n="16">By my consent should see you.</l></sp>
@@ -92,7 +92,7 @@
     <l n="17">Ha, what's that?</l></sp>
     
     <sp><speaker>Close</speaker>
-    <l n="18">Where, where? a fire-drake.</l></sp>
+        <l n="18">Where, where? a fire-drake<note type="etymological"><term>†fire-drake</term>A comet or a large meteor, esp. viewed as an omen or portent. <name rend="italic">Obsolete</name> (OED n. 2A).</note>.</l></sp>
     
     <sp><speaker>Startup</speaker>
     <l n="19">Now 'tis gone: 'tis bright</l>
@@ -153,7 +153,7 @@
     <l n="46">'Tis he indeed, and more than I expected:</l>
     <l n="47">The matters do not fadge well with his Mistresse.</l></sp>
     
-    <stage type="entrance" place="center">Enter Hartwell with a lantern.</stage>
+                <stage type="entrance" place="center">Enter Hartwell with a lantern.<note type="textual">In the 1833 edition of <name rend="italic">The Constant Maid</name>, the editor added in the stage directions that Hartwell is carrying a lantern when he enters the scene. This clarification does not appear in the original text.</note></stage>
        
     <sp><speaker>Hartwell</speaker>
     <l n="48">What a sweet thing is night? how calme and harmlesse?</l>
@@ -204,7 +204,7 @@
     <l n="76">Ha, I'll do't;</l>
     <l n="77">Show me the foole, by all my hopes I'll kill him,</l>
     <l n="78">And send his base heart as a present to her:</l>
-    <l n="79">Fate has preserved me with this revenge,</l>
+        <l n="79">Fate has preserved me with this revenge,<note type="textual">The 1833 edition reads: “Fate has preserved me [, sure, for] this revenge.” The editor included this to clarify that Hartwell is claiming fate has destined him to exact revenge on his rival.</note></l>
     <l n="80">And I will not delay his death a minute.</l></sp>
     
     <sp><speaker>Close</speaker>
@@ -264,7 +264,7 @@
     <l n="112">Upon my conscience, the Watch; I thought</l>
     <l n="113">The fields had not been haunted with these goblins:</l>
     <l n="114">I cannot run; If I should squat, and they finde me,</l>
-    <l n="115">There were no mercy but Bride-well,</l>
+        <l n="115">There were no mercy but Bride-well,<note type="textual">In the 1833 edition, the editor chose to clarify Shirley’s meaning by adding: “there were no mercy [for me] but Bridewell.”</note></l>
     <l n="116">Or some such lovely place; I am resolv'd</l>
     <l n="117">To cast away a few good words upon 'em,</l>
     <l n="118">A leg and worshipping; the Constable</l>
@@ -412,7 +412,7 @@
 <l n="7">This is verie strange.</l></sp>
 
 <sp><speaker>Nurse</speaker>
-<l n="8">I dare not tell her of his shift, they're gone,</l>
+    <l n="8">I dare not tell her of his shift<note type="textual">The 1833 annotation for this line clarifies that “I dare not tell her of his shift” means that the Nurse dares not to tell her about Hartwell having put on Startup’s clothes.</note>, they're gone,</l>
 <l n="9">The doores I found left open, and no signe</l>
 <l n="10">Which way they are bestowed.</l></sp>
 
@@ -450,10 +450,10 @@
 <sp><speaker>Bellamy</speaker>
 <l n="26">Admit him, he perhaps does bring some newes.</l></sp>
 
-<stage type="entrance" place="center">Enter Countrey-man.</stage>
+                <stage type="entrance" place="center">Enter Countrey-man.<note type="textual">In the 1833 edition, the editor also added stage directions for the Nurse to go back and forth from the door.</note></stage>
 
 <sp><speaker>Countrey-man</speaker>
-<l n="27">By your leave Mistresse, pardon my importunitie</l>
+    <l n="27">By your leave Mistresse, pardon my importunitie<note type="etymological"><term>importunitie</term>The quality or fact of being persistent or pressing in making requests, demands, or offers, esp. so as to cause irritation or distress; importune behaviour or character (OED n. “importunity” 1A).</note></l>
 <l n="28">At so unfit an houre.</l></sp>
 
 <sp><speaker>Bellamy</speaker>
@@ -630,7 +630,7 @@
 <l n="121">The cause of his departure in this fashion,</l>
 <l n="122">Pray heaven he have not made away himselfe:</l>
 <l n="123">Did ever childe deceive a mother so?</l>
-<l n="124">I have a sad presage, you may to bed,</l>
+    <l n="124">I have a sad presage<note type="etymological"><term>presage</term>Something that gives warning of what is about to happen; an indication or foreshadowing of a future event; an omen, a sign, a portent (OED n. 1A).</note>, you may to bed,</l>
 <l n="125">And rise without my blessing, yet</l>
 <l n="126">You may stay, wherefore should I despaire</l>
 <l n="127">Of his returne? You say you could not tell</l>
@@ -654,7 +654,7 @@
 
 <sp><speaker>Frances</speaker>
 <l n="141">Indeed I dare not, yet could I</l>
-<l n="142">Put off the knowledge that you are a mother—</l></sp>
+    <l n="142">Put off the knowledge that you are a mother—<note type="textual">The editor of the 1833 text included “Put off the knowledge that you are [my] mother.” It is important to note how this changes the meaning of this piece of dialogue. Frances telling Bellamy to disregard the fact that she is generally a mother as opposed to her own mother is a significant distinction. She is emphasizing that Bellamy should have been more empathetic towards her for this reason, and not have withheld the truth from her.</note></l></sp>
 
 <sp><speaker>Bellamy</speaker>
 <l n="143">What then?</l></sp>
@@ -673,7 +673,7 @@
 <l n="148">Pray let's heare.</l></sp>
 
 <sp><speaker>Frances</speaker>
-<l n="149">I durst tell you,</l>
+    <l n="149">I durst<note type="etymological"><term>durst</term><name rend="italic">Intransitive</name> (Inflected <name rend="italic">dare, durst</name> (also <name rend="italic">dares, dared</name>.) To have boldness or courage (to do something); to be so bold as (OED v.1 1A).</note> tell you,</l>
 <l n="150">In confidence of my cause, that you betray</l>
 <l n="151">Two innocents to sorrow; and though heaven</l>
 <l n="152">Looke on, and seem to smile upon your cruelty,</l>
@@ -734,7 +734,7 @@
 
 <sp><speaker>Bellamy</speaker>
 <l n="191">But never procure thee one sad thought;</l>
-<l n="192">Now I have tried you both; assure my childe,</l>
+    <l n="192">Now I have tried you both; assure my childe,<note type="textual">The text here is rather unintelligible which has led a few editors of this play to assume that this passage was potentially jumbled together at the press and some of the dialogue was lost in the process. In most versions of the play, editors have left this passage as is and disregarded their lost meaning. However, the 1833 version attempts to separate this passage where the editor believed certain words are lost. </note></l>
 <l n="193">I loved him but for thee, dispose thy selfe</l>
 <l n="194">To be his Bride: This newes, at his returne,</l>
 <l n="195">Will make all well to rest.</l></sp>
@@ -819,7 +819,7 @@
 <l n="32">Where ha' you left him?</l></sp>
 
 <sp><speaker>Playfaire</speaker>
-<l n="33">I'th' Gallery, where with much patience,</l>
+    <l n="33">I'th' Gallery, where with much patience,<note type="textual">The 1833 edition reads, “I’the gallery, where with much [im]patience.” This changes the meaning significantly. It could be that Shirley is being sarcastic here and the 1833 editor chose to emphasize this, but this addition is up to the reader’s interpretation.</note></l>
 <l n="34">He does expect his highnesse will send for him.</l></sp>
 
 <sp><speaker>Cousen</speaker>
@@ -838,7 +838,7 @@
 <l n="45">Knowes not of what Religion he is;</l>
 <l n="46">Or if he chance to thinke of his first faith,</l>
 <l n="47">He spits o'th hangings, and excused with,</l>
-<l n="48">I do not like the Story, 'tis apocryphall:</l>
+    <l n="48">I do not like the Story, 'tis apocryphall<note type="etymological"><term>apocryphall</term>Of doubtful authenticity; spurious, fictitious, false; fabulous, mythical. (OED adj. “apocryphal” 1A).</note>:</l>
 <l n="49">Sometimes he'll offer at a jest, and talke</l>
 <l n="50">Non-sense with him that has been seaven yeares Lorded;</l>
 <l n="51">Frowne upon any man that will presume</l>
@@ -893,7 +893,7 @@
     
 <sp><speaker>Cousen</speaker>
 <l n="73">I, that garbe becomes him;</l>
-<l n="74">How was his person lost within that shape</l>
+    <l n="74">How was his person lost within that shape<note type="textual">The “shape” refers to the dress; this is a green-room term.</note></l>
 <l n="75">He was first presented to me?</l></sp>
 
 <sp><speaker>Hornet</speaker>
@@ -931,7 +931,7 @@
 <sp><speaker>Cousen</speaker>
 <l n="96">You'll follow.</l></sp>
 
-<stage type="Exit" place="right">Exeunt everyone but Hornet.</stage>
+                <stage type="Exit" place="right">Exeunt everyone but Hornet.<note type="textual">Only the 1833 edition clarifies that everyone except Hornet exits, which allows his subsequent speech to act as a soliloquy.</note></stage>
 
 <sp><speaker>Hornet</speaker>
 <l n="97">I attend you presently:</l>
@@ -1006,7 +1006,7 @@
 <l n="143">And not be asham'd; here is a Lady too.</l></sp>
 
 <sp><speaker>Hornet</speaker>
-<l n="144">A Lady too? Is she with child? What makes she</l>
+    <l n="144">A Lady too? Is she with child?<note type="textual">Sir Giles is acting as a court-wit here; he is being facetious on the similarity of sound between too and two. (v. 1833). </note> What makes she</l>
 <l n="145">Here, and she be with child already?</l>
 <l n="146">'Tell thee none such shall be admitted, while</l>
 <l n="147">I am in place: More rapping? Keep the doores,</l>
@@ -1017,7 +1017,7 @@
 
 <sp><speaker>Hornet</speaker>
 <l n="150">Thy wives?</l>
-<l n="151">What's he that pleads <hi rend="italic">In forma pauperis</hi>?</l></sp>
+    <l n="151">What's he that pleads <hi rend="italic">In forma pauperis<note type="etymological"><term>forma pauperis</term>As a poor person : relieved of the fees and costs of a legal action because of inability to pay. (Merriam Webster adj./adv.).</note></hi>?</l></sp>
 
 <sp><speaker>Within</speaker>
 <l n="152">A Citizen, and like you.</l></sp>
@@ -1114,21 +1114,21 @@
 
 <sp><speaker>Hornet</speaker>
 <l n="193">What's here, the three Goddesses</l>
-<l n="194">Contention for the golden ball?</l>
+    <l n="194">Contention for the golden ball?<note type="intertextual">They are going to represent the myth of the Judgement of Paris, one of the most famous in classical mythology. The trial takes place during the wedding of Thetis and Peleus, which was attended by all the deities except Eris, the personification of discord, who had not been invited. In revenge, this goddess threw a golden apple with the inscription “to the fairest one”, which led to the subsequent quarrel of three goddesses at the Judgement of Paris and ultimately caused the Trojan War. Here, Hornet refers to that golden apple and to the three goddesses: Juno (Hera), Pallas (Athena) and Venus (Aphrodite). In 1646 Shirley would write a whole masque inspired by this myth: <name rend="italic">The Triumph of Beauty</name>.</note></l>
 
 <pb n="55"/>
     <fw place="top=center" type="head">ACT IV. SCENE III.</fw>
 
 <stage type="entrance" place="center">Enter Playfaire as Paris, dancing, with a Golden Ball in his hand.</stage>
 
-<l n="195">This is <name rend="italic">Paris</name>; So.</l>
+    <l n="195">This is <name rend="italic">Paris</name>; So.<note type="intertextual">Jupiter (Zeus), who was related to the three candidate goddesses, instructs Hermes to choose another person to act as judge in the contest. The chosen one is Paris, second son of Priam, King of Troy. Paris was abandoned at birth by his parents because Hecuba had a dream during her pregnancy: she dreamt that she would give birth to a flaming torch that would destroy the city, so Priam ordered his servant Agelaus to abandon the child on Mount Ida. Agelaus, at the last moment, took pity on the newborn and decided to raise him as his own son.</note></l>
 
 <stage type="entrance" place="center">Enter Juno, Pallas, Venus.</stage>
 
 <l n="196">These are the three Goddesses;</l>
-<l n="197"><name rend="italic">Juno</name>, <name rend="italic">Pallas</name>, <name rend="italic">Venus</name>.</l></sp>
+    <l n="197"><name rend="italic">Juno</name>, <name rend="italic">Pallas</name>, <name rend="italic">Venus</name>.<note type="intertextual">The three goddesses who are candidates for the most beautiful are: Juno, sister and wife of Jupiter, goddess of love and marriage; Pallas, daughter of Jupiter, goddess of wisdom, warfare and handicraft; and Venus, aunt of Jupiter, goddess of love and beauty.</note></l></sp>
 
-<stage type="business" place="center">The Goddesses dance, and court Paris for his Ball: Juno enters one like a King; Takes his Crowne and Scepter, offers it to Paris, he refuses.</stage>
+                <stage type="business" place="center">The Goddesses dance, and court Paris for his Ball<note type="intertextual">In the myth, each goddess tries to bribe Paris by offering him different gifts.</note>: Juno enters one like a King; Takes his Crowne and Scepter, offers it to Paris, he refuses.<note type="intertextual">Juno offers him power and the possibility of becoming the Emperor of Asia. Here she enters with someone disguised as a king and gives Paris the crown and sceptre he carries. Paris refuses.</note></stage>
 
 <sp><speaker>Lord 2</speaker>
 <l n="198"><name rend="italic">Juno</name> doth wooe him with her State and Kingdomes.</l></sp>
@@ -1137,7 +1137,7 @@
 <l n="199">But he refuses, more foole he.</l></sp>
 
 <stage type="business" place="center">To Pallas enter one like a Soldier armed, with a book in his hand; she presents 
-the sword and book to Paris, but he rejects them.</stage>
+    the sword and book to Paris, but he rejects them.<note type="intertextual">Pallas offers him wisdom and the possibility of winning every battle. Here it is symbolised by the soldier carrying a sword and a book, but Paris also rejects her.</note></stage>
 
 <sp><speaker>Sir Clement</speaker>
 <l n="200">He is not for her service, though she offer</l>
@@ -1147,7 +1147,7 @@ the sword and book to Paris, but he rejects them.</stage>
 <sp><speaker>Hornet</speaker>
 <l n="203">No, no, that fairie must win the ball.</l>
 
-<stage type="business" place="center">To Venus comes Cupid, leading in Hornet's Neece, richly drest.</stage>
+    <stage type="business" place="center">To Venus comes Cupid, leading in Hornet's Neece, richly drest.<note type="intertextual">Finally, Aphrodite offers him the love of the most beautiful woman in the world. In the myth, this woman is Helen; in the masque, it is the Neece, who enters dressed as a bride hand in hand with Cupid.</note></stage>
 
 <l n="204">Ha? that's my <name rend="italic">Neece</name>.</l></sp>
 
@@ -1155,14 +1155,14 @@ the sword and book to Paris, but he rejects them.</stage>
 <l n="205">Which, Sir <name rend="italic">Giles</name>?</l></sp>
 
 <sp><speaker>Hornet</speaker>
-<l n="206">That whom Dame <name rend="italic">Venus</name> and her Dandiprat</l>
+    <l n="206">That whom Dame <name rend="italic">Venus</name> and her Dandiprat<note type="etymological"><term>dandiprat</term>An insignificant, contemptible, or ridiculous person. Also (esp. in early use): a person of unusually small stature. Now <name rend="italic">rare</name> and chiefly <name rend="italic">archaic</name> (OED n. 2A).</note></l>
 <l n="207">Are busie withall.</l></sp>
 
 <sp><speaker>Lord 1</speaker>
 <l n="208">Why that's the Bride.</l></sp>
 
 <sp><speaker>Hornet</speaker>
-<l n="209">Bride, quotha?</l></sp>
+    <l n="209">Bride, quotha<note type="etymological"><term>quotha</term>Used with contemptuous, ironic, or sarcastic force after repeating words said by someone else: ‘he said?’, ‘she said?’; (hence) ‘indeed!’ <name rend="italic">Archaic</name> (OED int.)</note>?</l></sp>
 
 <sp><speaker>Sir Clement</speaker>
 <l n="210">Married this morning; 'Tis my daughter, sir.</l></sp>
@@ -1181,7 +1181,7 @@ the sword and book to Paris, but he rejects them.</stage>
 <l n="215">The devill cannot juggle her from my custody.</l>
 <l n="216">Ha, ha, I do dreame still.</l></sp>
 
-<stage type="business" place="center">Cupid joins their hands and  sings, exits with Playfaire and Neece.</stage>
+                <stage type="business" place="center">Cupid joins their hands and  sings, exits with Playfaire and Neece.<note type="intertextual">Paris gives the apple to Venus and Cupid joins Playfaire’s and the Neece’s hands. By performing this masque before Hornet, they are revealing to him the marriage between Playfair and the Neece, who are also the only ones whose identity is known to us during the performance.</note></stage>
 
 <sp><speaker>Cousen</speaker>
 <l n="217">'Tis time to breake off revels: How like you this, Sir <name rend="italic">Giles</name>?</l></sp>
