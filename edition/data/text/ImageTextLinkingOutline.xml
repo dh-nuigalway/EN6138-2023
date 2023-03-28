@@ -5381,8 +5381,9 @@
                     <sp>
                         <speaker>Hornet</speaker>
                         <l n="35">I am not worth your pity, gentle lady</l>
-                        <l n="36">In vaine I should extenuate my fact,</l></sp>
-                    </sp>
+                        <l n="36">In vaine I should extenuate my fact,</l>
+		</sp>
+            
 
                     <pb n="62" xml:id="TCMp65.jpg" facs="data/images/single/TCMp65.jpg"/>
                     <fw place="top-center" type="head">ACT V. SCENE III.</fw>
@@ -5391,6 +5392,7 @@
                     <l n="38">Here I confesse agen, my hand is guilty</l>
                     <l n="39">Of killing him whose feeble arme durst not</l>
                     <l n="40">Lift up a weapon to defend himselfe.</l>
+			</sp>
 
                     <sp>
                         <speaker>Justice</speaker>
