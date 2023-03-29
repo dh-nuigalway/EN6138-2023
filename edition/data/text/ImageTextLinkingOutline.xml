@@ -1763,7 +1763,7 @@
                     <l n="80">To abuse the dead: but 'tis no matter, Unckle,</l>
                     <l n="81">You'll be as famous for pulling downe the parish,</l>
                     <l n="82">The Church will fall of it selfe, ><hi rend="italic">With ding dong
-                            bell.</hi><note type="intertextual">Ding Dong Bell is a nursery rhyme, a
+                            bell.</hi><note type="intertextual">"Ding Dong Bell" is a nursery rhyme, a
                             traditional song for children, first recorded in 1580 by John Lant, the
                             organist of Winchester Cathedral. The phrase “Ding Dong Bell” appears in
                             two Shakespeare’s plays: The Tempest and The Merchant of Venice.
@@ -4782,7 +4782,7 @@
 		<pb n="54" xml:id="TCMp57.jpg" facs="data/images/single/TCMp57.jpg"/>
 			                        <fw place="top-center" type="head">ACT IV. SCENE III.</fw>
 
-                       <sp><l n="160">To see the Gally foist, then be confined</l>
+                       <sp><l n="160">To see the Gally foist<note>According to the OED, a "galley-foist” is “a state barge, esp. that of the Lord Mayor of London” (OED n. 1). Hornet is probably alluding to the Lord Mayor’s Show, in which the lord mayor leads a procession to Westminster, originally on a barge. The vast majority of the quotations in the OED date from the 17th century, which signals that this celebration was very popular in this time period.<note/>, then be confined</l>
                         <l n="161">To their Chamber, and one Prentice—yet agen.</l>
                     </sp>
 
@@ -4913,11 +4913,32 @@
 			                        <fw place="top=center" type="head">ACT IV. SCENE III.</fw>
 
                         <stage type="entrance" place="center">Enter Playfaire as Paris, dancing,
-                            with a Golden Ball in his hand.</stage>
+                            with a Golden Ball in his hand.<note
+                     type="intertextual">They are going to represent the myth of the Judgement of Paris,
+                     one of the most famous in classical mythology. The trial takes place during the
+                     wedding of Thetis and Peleus, which was attended by all the deities except
+                     Eris, the personification of discord, who had not been invited. In revenge,
+                     this goddess threw a golden apple with the inscription “to the fairest one”,
+                     which led to the subsequent quarrel of three goddesses at the Judgement of
+                     Paris and ultimately caused the Trojan War. Here, Hornet refers to that golden
+                     apple and to the three goddesses: Juno (Hera), Pallas (Athena) and Venus
+                     (Aphrodite). In 1646 Shirley would write a whole masque inspired by this myth:
+                     The Triumph of Beauty.</note></stage>
 
-                        <sp><l n="195">This is <name rend="italic">Paris</name>; So.</l>
+                        <sp><l n="195">This is <name rend="italic">Paris</name><note type="intertextual">Jupiter (Zeus), who was related to the
+                     three candidate goddesses, instructs Hermes to choose another person to act as
+                     judge in the contest. The chosen one is Paris, second son of Priam, King of
+                     Troy. Paris was abandoned at birth by his parents because Hecuba had a dream
+                     during her pregnancy: she dreamt that she would give birth to a flaming torch
+                     that would destroy the city, so Priam ordered his servant Agelaus to abandon
+                     the child on Mount Ida. Agelaus, at the last moment, took pity on the newborn
+                     and decided to raise him as his own son.</note>; So.</l>
 
-                        <stage type="entrance" place="center">Enter Juno, Pallas, Venus.</stage>
+                        <stage type="entrance" place="center">Enter Juno, Pallas, Venus.<note type="intertextual">The
+                     three goddesses who are candidates for the most beautiful are: Juno, sister and
+                     wife of Jupiter, goddess of love and marriage; Pallas, daughter of Jupiter,
+                     goddess of wisdom, warfare and handicraft; and Venus, aunt of Jupiter, goddess
+                     of love and beauty.</note></stage>
 
                         <l n="196">These are the three Goddesses;</l>
                         <l n="197"><name rend="italic">Juno</name>, <name rend="italic"
@@ -4925,8 +4946,12 @@
                     </sp>
 
                     <stage type="business" place="center">The Goddesses dance, and court Paris for
-                        his Ball: Juno enters one like a King; Takes his Crowne and Scepter, offers
-                        it to Paris, he refuses.</stage>
+                        his Ball<note type="intertextual">In the myth, each goddess tries to bribe Paris by offering him
+                  different gifts.</note>: Juno enters one like a King; Takes his Crowne and Scepter, offers
+                        it to Paris, he refuses<note type="intertextual">Juno offers him
+                  power and the possibility of becoming the Emperor of Asia. Here she enters with
+                  someone disguised as a king and gives Paris the crown and sceptre he carries.
+                  Paris refuses.</note>.</stage>
 
                     <sp>
                         <speaker>Lord 2</speaker>
@@ -4941,7 +4966,9 @@
 
                     <stage type="business" place="center">To Pallas enter one like a Soldier armed,
                         with a book in his hand; she presents the sword and book to Paris, but he
-                        rejects them.</stage>
+                        rejects them.<note type="intertextual">Pallas offers him wisdom and the possibility of winning every
+                  battle. Here it is symbolised by the soldier carrying a sword and a book, but
+                  Paris also rejects her.</note></stage>
 
                     <sp>
                         <speaker>Sir Clement</speaker>
@@ -4955,7 +4982,7 @@
                         <l n="203">No, no, that fairie must win the ball.</l>
 
                         <stage type="business" place="center">To Venus comes Cupid, leading in
-                            Hornet's Neece, richly drest.</stage>
+                            Hornet's Neece, richly drest.<note type="intertextual">Finally, Venus offers him the love of the most beautiful woman in the world. In the myth, this woman is Helen; in the masque, it is the Neece, who enters dressed as a bride hand in hand with Cupid.</note></stage>
 
                         <l n="204">Ha? that's my <name rend="italic">Neece</name>.</l>
                     </sp>
@@ -5008,7 +5035,10 @@
                     </sp>
 
                     <stage type="business" place="center">Cupid joins their hands and sings, exits
-                        with Playfaire and Neece.</stage>
+                        with Playfaire and Neece.<note type="intertextual">Paris gives the apple to Venus and Cupid joins
+                  Playfaire’s and the Neece’s hands. By performing this masque before Hornet, they
+                  are revealing to him the marriage between Playfair and the Neece, who are also the
+                  only ones whose identity is known to us during the performance.</note></stage>
 
                     <sp>
                         <speaker>Cousen</speaker>
@@ -5795,7 +5825,7 @@
                         <l n="137">Those garments which you weare, I have oft seen, sweet sir.<note
                                 type="intertextual">Like some of the lines spoken by the servants in
                                 Act I, Scene I, the last line of Startup's speech comes from Thomas
-                                Kyd's The Spanish Tragedy, and are said by Hieronimo, which explains
+                                Kyd's <name rend="italic">The Spanish Tragedy,<name/> and are said by Hieronimo, which explains
                                 Close's response.</note></l>
                     </sp>
 
