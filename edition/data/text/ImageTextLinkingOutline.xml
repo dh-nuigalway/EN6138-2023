@@ -2231,7 +2231,9 @@
                 </sp>
             
                 <stage type="exit" place="right">Exeunt.</stage>
-                  
+                   <div type="act" n="3">
+               <head>ACT III. SCENE I.</head>
+                <div type="scene" n="1">
                    <stage type="location" place="center">Another Room In the Same.</stage>
                    <stage type="entrance" place="center">Enter Nurse and Startup.</stage>
                    
@@ -2276,14 +2278,8 @@
                    </sp>
 		</div>
             </div>
-            <div type="act" n="3">
-               <head>ACT III.</head>
-                <div type="scene" n="1">
-                   <head>SCENE I.</head>
             <pb n="28" xml:id="TCMp31.jpg" facs="data/images/single/TCMp31.jpg"/>
-                 
-            <pb n="29" xml:id="TCMp32.jpg" facs="data/images/single/TCMp32.jpg"/>
-                      <fw place="top-center" type="head">ACT III. SCENE I.</fw>
+                 <fw place="top-center" type="head">ACT III. SCENE I.</fw>
                     <sp>
                       <l n="19">She has the more to answer; nay she did</l>
                       <l n="20">Not stick to bid me die too, in that desparate</l>
@@ -2337,6 +2333,67 @@
                       <l n="52">And deep revenge, fling out upon May-day,</l>
                       <l n="53">Among the Prentices, without fear or wit.</l>
                    </sp>
+            <pb n="29" xml:id="TCMp32.jpg" facs="data/images/single/TCMp32.jpg"/>
+                      <fw place="top-center" type="head">ACT III. SCENE I.</fw>
+                
+                <sp><speaker>Startup</speaker>
+                    <l n="54">I like this humour.</l></sp>
+                
+                <sp><speaker>Nurse</speaker>
+                    <l n="55">Nay he has a sconce,</l>
+                    <l n="56">And shall be of our counsell: Look you <name rend="italic">Close</name>,</l>
+                    <l n="57">There is a plot to helpe this Gentleman,</l>
+                    <l n="58">At night when they're a bed, and if you went</l>
+                    <l n="59">To bed betimes, to avoid suspicion,</l>
+                    <l n="60">'Twere never the worse; I'll say you are not well:</l>
+                    <l n="61">D'ee marke? this honest, honest Gentleman shall be</l>
+                    <l n="62">Let into Mistresse <name rend="italic">Frances</name> Bed-chamber.</l></sp>
+                
+                <sp><speaker>Close</speaker>
+                    <l n="63">Without her knowledge?</l></sp>
+                
+                <sp><speaker>Nurse</speaker>
+                    <l n="64">You shall only attend,</l>
+                    <l n="65">To give him notice from me when to come,</l>
+                    <l n="66">And watch about the house, he may get off</l>
+                    <l n="67">Without discovery; this is all.</l></sp>
+                
+                <sp><speaker>Close</speaker>
+                    <l n="68">So, so, I sha' not keep the doore.</l></sp>
+                
+                <sp><speaker>Nurse</speaker>
+                    <l n="69">I can do that.</l></sp>
+                
+                <sp><speaker>Close</speaker>
+                    <l n="70">Let me alone to give you notice who</l>
+                    <l n="71">Stirs about house.</l></sp>
+                
+                <stage type="entrance" place="center">Enter Hartwell.</stage>
+                
+                <sp><speaker>Nurse</speaker>
+                    <l n="72">Away, 'tis Mr. <name rend="italic">Hartwell</name>;</l>
+                    <l n="73">We'll not be seen together.</l></sp>
+                
+                <stage type="exit" place="right">Exeunt Nurse and Startup.</stage>
+                
+                <sp><speaker>Close</speaker>
+                    <l n="74">Go your wayes,</l>
+                    <l n="75">A foolish Knave and Bawd, that do want nothing</l>
+                    <l n="76">But carting; I would sooner see that triumph,</l>
+                    <l n="77">Than all the Pageans, a day after <name rend="italic">Symon</name></l>
+                    <l n="78">And <name rend="italic">Jude</name>, when the fine City goes a feasting.</l>
+                    <l n="79">Oh Sir, I have newes; yes, they are gone, brave newes;</l>
+                    <l n="80">Your Gentlewoman can hold out no longer;</l>
+                    <l n="81">This night there will be a stratagem:</l>
+                    <l n="82">Old Madam Humpe a pompe, the <name rend="italic">Nurse</name>, has promis'd</l>
+                    <l n="83">To admit the Countrey Gentleman, when all</l>
+                    <l n="84">Are a bed, into her chamber; yes, your Mistresse:</l>
+                    <l n="85">I'm o'th' plot, to lie <name rend="italic">Perdue</name>, and give</l>
+                    <l n="86">The word, if any Fire-lock approach</l>
+                    <l n="87">The rest; imagine if he have not art to</l>
+                    <l n="88">Perswade her to the feat with him, yet there</l>
+                    <l n="89">Be tricks, and he may be surprized in the Chamber,</l></sp>
+                
             <pb n="30" xml:id="TCMp33.jpg" facs="data/images/single/TCMp33.jpg"/>
                    <fw place="top-center" type="head">ACT III. SCENE II.</fw>
                    
