@@ -508,6 +508,7 @@
                         <sp>
                             <speaker>Hornet</speaker>
                             <l n="50">What's he?</l>
+			<stage type="aside" place="right">Aside to Bellamy.</stage>
                         </sp>
                         <sp>
                             <speaker>Bellamy</speaker>
@@ -566,6 +567,7 @@
                         <sp>
                             <speaker>Hartwell</speaker>
                             <l n="67">Is he Suitor to your mother, Lady?</l>
+			    <stage type="aside" place="right">Aside to Frances.</stage>
                         </sp>
                         <sp>
                             <speaker>Frances</speaker>
@@ -613,6 +615,7 @@
                         </sp>
                         <sp>
                             <speaker>Hornet</speaker>
+			    <stage type="aside" place="right">Aside to Bellamy.</stage>
                             <l n="92">Your table</l>
                             <l n="93">Is a devourer, and they shut up doores</l>
                             <l n="94">First, that keep open house and entertainments:</l>
@@ -1106,7 +1109,7 @@
                     <l n="23">To be got that way.</l>
                 </sp>
                
-                <stage type="entrance" place="center">Enter behind Hartwell, Playfaire.</stage>
+                <stage type="entrance" place="center">Enter Hartwell, Playfaire.</stage>
               
                 <sp>
                     <speaker>Close</speaker>
@@ -1122,7 +1125,7 @@
                     <l n="27">The rest at night over a Sack-posset<note type="etymological"><term>†sack</term>A general name for a class of white wines formerly imported from Spain and the Canaries (OED n. 3a).<term>posset</term>A drink made from hot milk curdled with ale, wine, or other liquor, flavoured with sugar, herbs, spices, etc., and often drunk for medicinal purposes (now historical); a kind of syllabub made from similar ingredients (OED n. 1).</note>.</l>
                 </sp>
                
-                <stage type="exit" place="right">Exit Close.</stage>
+                <stage type="exit" place="right">Exit.</stage>
                 
                 <sp>
                     <speaker>Nurse</speaker>
@@ -1285,7 +1288,7 @@
                     <l n="99">To free her from that slaverie she lives in</l>
                     <l n="100">Under the iron-hearted Jaylor, else</l>
 
-		    <pb n="16" xml:id="TCMp19.jpg" facs="data/images/single/TCMp19.jpg"/>
+	<pb n="16" xml:id="TCMp19.jpg" facs="data/images/single/TCMp19.jpg"/>
              <fw place="top-center" type="head">ACT II. SCENE I.</fw>
                     <l n="101">I shall repent my aime, he broods upon</l>
                     <l n="102">Her portion still; but I have a trick may spoile</l>
@@ -1345,7 +1348,7 @@
                     <l n="132">better Sack, sweet Lady, is there good Tobacco in London?</l>
                 </sp>
 
-		    <pb n="17" xml:id="TCMp20.jpg" facs="data/images/single/TCMp20.jpg"/>
+	<pb n="17" xml:id="TCMp20.jpg" facs="data/images/single/TCMp20.jpg"/>
             <fw place="top-center" type="head">ACT II. SCENE I.</fw>
                 <sp>
                     <speaker>Close</speaker>
@@ -1437,7 +1440,7 @@
                     <l n="166">They say there are good wits in towne,</l>
                     <l n="167">I ha brought money a purpose with mee for it;</l>
                     <l n="168">If any will sell me a penny-worth, I'll</l>
-		    <pb n="18" xml:id="TCMp21.jpg" facs="data/images/single/TCMp21.jpg"/>
+	<pb n="18" xml:id="TCMp21.jpg" facs="data/images/single/TCMp21.jpg"/>
             <fw place="top-center" type="head">ACT II. SCENE I.</fw>
                     <l n="169">Give him a hundred peeces, 'cause I would carrie</l>
                     <l n="170">A little downe into the Countrey.</l>
@@ -1534,7 +1537,7 @@
                     <l n="204">Do yee know what you ha done? he's you rivall,</l>
                     <l n="205">invite him?</l>
                 </sp>
-		    <pb n="19" xml:id="TCMp22.jpg" facs="data/images/single/TCMp22.jpg"/>
+	<pb n="19" xml:id="TCMp22.jpg" facs="data/images/single/TCMp22.jpg"/>
              <fw place="top-center" type="head">ACT II. SCENE II.</fw>
                 <sp>
                     <speaker>Startup</speaker>
@@ -1575,7 +1578,7 @@
             <div type="scene" n="2">
                 <head>SCENE II.</head>
                 <stage type="location" place="center">A Room in Hornet’s House.</stage>
-                <stage type="entrance" place="center">Enter Hornet, Playfaire’s Cousen disguised like a Doctor.</stage>
+                <stage type="entrance" place="center">Enter Hornet, Playfaire’s Cousen disguised as a Doctor.</stage>
                 
                 <sp>
                     <speaker>Hornet</speaker>
@@ -1619,7 +1622,7 @@
                 </sp>
 		</div>
                 <div type="scene" n="2">
-		    <pb n="20" xml:id="TCMp23.jpg" facs="data/images/single/TCMp23.jpg"/>
+	<pb n="20" xml:id="TCMp23.jpg" facs="data/images/single/TCMp23.jpg"/>
              <fw place="top-center" type="head">ACT II. SCENE II.</fw>
                 <sp>
                     <speaker>Hornet</speaker>
@@ -1683,7 +1686,7 @@
                     <l n="53">The world imagines, you an he'll keep house</l>
                     <l n="54">Together one day; but you'll burne Sea-cole</l>
                     <l n="55">To save charges, and stink the poore soules so.</l>
-		    <pb n="21" xml:id="TCMp24.jpg" facs="data/images/single/TCMp24.jpg"/>
+	<pb n="21" xml:id="TCMp24.jpg" facs="data/images/single/TCMp24.jpg"/>
             <fw place="top-center" type="head">ACT II. SCENE II.</fw>
 			    
 		    <l n="56">Unckle, you are not merrie, I pray laugh</l>
@@ -1702,6 +1705,7 @@
                             popular during the 17th and 18th centuries. The earliest surviving piece
                             that makes reference to this story dates from 1612. </note> who, they
                         say,</l>
+		<stage type="delivery" place="right">Sings.</stage>
                     <l n="63">Grew rich, and let his land out for nine lives,</l>
                     <l n="64">'Cause all came in by a Cat: but let me counsell you</l>
                     <l n="65">To die at all adventures, great men doe't in policie.</l>
@@ -1761,6 +1765,7 @@
                             unknown. </note></l>
                     <l n="89"><hi rend="italic">In your head or toes?</hi> that <hi rend="italic"
                             >head</hi> spoyl'd all.</l>
+		<stage type="delivery" place="right">Sings.</stage>
                 </sp>
          
                 <stage type="entrance" place="center">Enter Servant 4, disguised as Pursevant.</stage>
@@ -1769,7 +1774,7 @@
                     <speaker>Pursevant</speaker>
                     <l n="90">Which is Master <name rend="italic">Hornet?</name></l>
                 </sp>
-		    <pb n="22" xml:id="TCMp25.jpg" facs="data/images/single/TCMp25.jpg"/>
+	<pb n="22" xml:id="TCMp25.jpg" facs="data/images/single/TCMp25.jpg"/>
             <fw place="top-center" type="head">ACT II. SCENE II.</fw>
                 <sp>
                     <speaker>Hornet</speaker>
@@ -1844,7 +1849,7 @@
                 <sp>
                     <speaker>Neece</speaker>
                     <l n="126">Nay, and you be at that ward, I must leave you,</l>
-		    <pb n="23" xml:id="TCMp26.jpg" facs="data/images/single/TCMp26.jpg"/>
+	 <pb n="23" xml:id="TCMp26.jpg" facs="data/images/single/TCMp26.jpg"/>
               <fw place="top-center" type="head">ACT II. SCENE III.</fw>
                     <l n="127">Fare well, pray do not lift my Uncle too hard;</l>
                     <l n="128">And so I leave you both to the mercy of the Bear-garden.</l>
@@ -1962,7 +1967,7 @@
                 <stage type="entrance" place="center">Enter Frances.</stage>
 	    	</div>
                 <div type="scene" n="3">
-		    <pb n="24" xml:id="TCMp27.jpg" facs="data/images/single/TCMp27.jpg"/>
+	<pb n="24" xml:id="TCMp27.jpg" facs="data/images/single/TCMp27.jpg"/>
              <fw place="top-center" type="head">ACT II. SCENE III.</fw>
                 <sp>
                     <speaker>Frances</speaker>
@@ -2061,7 +2066,7 @@
                     <speaker>Startup</speaker>
                     <l n="59">I'de breath you into a little understanding,</l>
 
-		    <pb n="25" xml:id="TCMp28.jpg" facs="data/images/single/TCMp28.jpg"/>
+	<pb n="25" xml:id="TCMp28.jpg" facs="data/images/single/TCMp28.jpg"/>
              <fw place="top-center" type="head">ACT II. SCENE III.</fw>
                     <l n="60">I say agen, and she is the son of darknesse</l>
                     <l n="61">Denyes it; Mr. <name rend="italic">Hartwell</name> loves your mother.</l>
@@ -2080,10 +2085,10 @@
                     <speaker>Frances</speaker>
                     <l n="66">It is impossible.</l>
                 </sp>
+		<stage type="delivery" place="center">Enter Hartwell and Mistresse Bellamy.</stage>
                 <sp>
                     <speaker>Startup</speaker>
                     <l n="67">D'ee know that couple?</l>
-                    <stage type="delivery">Enter behind Hartwell and mistresse Bellamy.</stage>
                     <l n="68">Step behinde the hangings, and you may</l>
                     <l n="69">Both hear and see: I say no more, sweet Lady,</l>
                     <l n="70">I am a rustick puppy, and know nothing.</l>
@@ -2126,7 +2131,7 @@
                     <l n="95">And hasty marriages.</l>
                 </sp>
 
-		    <pb n="26" xml:id="TCMp29.jpg" facs="data/images/single/TCMp29.jpg"/>
+	<pb n="26" xml:id="TCMp29.jpg" facs="data/images/single/TCMp29.jpg"/>
              <fw place="top-center" type="head">ACT II. SCENE III.</fw>
                 <sp>
                     <speaker>Bellamy</speaker>
@@ -2167,7 +2172,7 @@
                     <l n="120">Than to be call'd yours.</l>
                 </sp>
        
-                <stage type="exit" place="right">Exeunt.</stage>
+                <stage type="exit" place="right">Exeunt Hartwell and Bellamy. Startup and Frances come forward.</stage>
        
                 <sp>
                     <speaker>Frances</speaker>
@@ -2195,7 +2200,7 @@
                     <l n="130">My curses for this black discovery,</l>
                     <l n="131">When as before 'twas not impossible,</l>
 
-		    <pb n="27" xml:id="TCMp30.jpg" facs="data/images/single/TCMp30.jpg"/>
+	<pb n="27" xml:id="TCMp30.jpg" facs="data/images/single/TCMp30.jpg"/>
              <fw place="top-center" type="head">ACT II. SCENE III.</fw>
                     <l n="132">In time I might be brought to pity thee;</l>
                     <l n="133">Henceforth I'll look upon thee as my sins,</l>
@@ -2234,7 +2239,7 @@
                    <div type="act" n="3">
                <head>ACT III. SCENE I.</head>
                 <div type="scene" n="1">
-                   <stage type="location" place="center">Another Room In the Same.</stage>
+                   <stage type="location" place="center">Another Room In Mistresse Bellamy's House.</stage>
                    <stage type="entrance" place="center">Enter Nurse and Startup.</stage>
                    
                    
@@ -2383,6 +2388,7 @@
                     <l n="77">Than all the Pageans, a day after <name rend="italic">Symon</name></l>
                     <l n="78">And <name rend="italic">Jude</name>, when the fine City goes a feasting.</l>
                     <l n="79">Oh Sir, I have newes; yes, they are gone, brave newes;</l>
+		    	<stage type="delivery" place="right">Looking out.</stage>
                     <l n="80">Your Gentlewoman can hold out no longer;</l>
                     <l n="81">This night there will be a stratagem:</l>
                     <l n="82">Old Madam Humpe a pompe, the <name rend="italic">Nurse</name>, has promis'd</l>
@@ -2533,7 +2539,7 @@
                   </sp>						
                   
                   
-                  <stage type="exit" place="right">Exit Cousen.</stage>
+                  <stage type="exit" place="right">Exit.</stage>
                   
                   <stage type="entrance" place="center">Enter three servants, disguised as Lords.</stage>
                   
@@ -2572,7 +2578,6 @@
                   </sp>
                   
                   
-                  <stage type="entrance" place="center">Enter one with perfume.</stage>
                   
                   
                   <sp>
@@ -2728,6 +2733,7 @@
                      <l n="84">I'th hams, that Courtier has Oyl'd his joynts,</l>
                      <l n="85">He looks this way, they point at me; a rot</l>
                      <l n="86">O'that knave’s finger.</l>
+		     <stage type="delivery" place="right">Aside.</stage>
                   </sp>
                   
                   <sp>
@@ -2906,7 +2912,7 @@
                   </sp>
                   
                   
-                  <stage type="entrance" place="center">Enter servants with clothes.</stage>
+                  <stage type="entrance" place="center">Enter other servants with clothes.</stage>
                   
                   
                   <sp>
@@ -2946,7 +2952,7 @@
                   </sp>
                   
                   
-                  <stage type="entrance" place="center">Enter Playfaire.</stage>
+                  <stage type="entrance" place="center">Re-enter Playfaire.</stage>
                   
                   
                   <sp>
@@ -2987,7 +2993,7 @@
                   <sp>
                      <speaker>Servant</speaker>
                      <l n="156">There be the Keyes.</l>
-                     <stage type="delivery">Takes the keys from Hornet’s pocket, and gives them aside to Lord 1.</stage>
+                     <stage type="delivery">Aside. Takes the keys from Hornet’s pocket, and gives them to Lord 1.</stage>
                   </sp>
                   
                   <sp>
@@ -3061,7 +3067,7 @@
                   </sp>
                   
                   
-                  <stage type="exit" place="right">Exeunt servant with Hornet’s clothes.</stage>
+                  <stage type="exit" place="right">Exeunt servants with Hornet’s clothes.</stage>
                   
                   
                   
