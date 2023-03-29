@@ -2194,8 +2194,9 @@
                     <speaker>Frances</speaker>
                     <l n="130">My curses for this black discovery,</l>
                     <l n="131">When as before 'twas not impossible,</l>
+
 		    <pb n="27" xml:id="TCMp30.jpg" facs="data/images/single/TCMp30.jpg"/>
-             <fw place="top-center" type="head">ACT III. SCENE I.</fw>
+             <fw place="top-center" type="head">ACT II. SCENE III.</fw>
                     <l n="132">In time I might be brought to pity thee;</l>
                     <l n="133">Henceforth I'll look upon thee as my sins,</l>
                     <l n="134">And beg as much forgivenesse that I knew thee.</l>
@@ -2230,14 +2231,7 @@
                 </sp>
             
                 <stage type="exit" place="right">Exeunt.</stage>
-		</div>
-            </div>
-            <div type="act" n="3">
-               <head>ACT III.</head>
-                <div type="scene" n="1">
-                   <head>SCENE I.</head>
-            <pb n="28" xml:id="TCMp31.jpg" facs="data/images/single/TCMp31.jpg"/>
-                   
+                  
                    <stage type="location" place="center">Another Room In the Same.</stage>
                    <stage type="entrance" place="center">Enter Nurse and Startup.</stage>
                    
@@ -2280,6 +2274,14 @@
                    <sp><speaker>Startup</speaker>
                       <l n="18">Why no worse than her sins, heaven forgive her,</l>
                    </sp>
+		</div>
+            </div>
+            <div type="act" n="3">
+               <head>ACT III.</head>
+                <div type="scene" n="1">
+                   <head>SCENE I.</head>
+            <pb n="28" xml:id="TCMp31.jpg" facs="data/images/single/TCMp31.jpg"/>
+                 
             <pb n="29" xml:id="TCMp32.jpg" facs="data/images/single/TCMp32.jpg"/>
                       <fw place="top-center" type="head">ACT III. SCENE I.</fw>
                     <sp>
