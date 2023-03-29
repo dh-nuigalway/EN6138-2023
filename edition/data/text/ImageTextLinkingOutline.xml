@@ -2231,7 +2231,9 @@
                 </sp>
             
                 <stage type="exit" place="right">Exeunt.</stage>
-                   <div type="act" n="3">
+                </div>
+                   
+            <div type="act" n="3">
                <head>ACT III. SCENE I.</head>
                 <div type="scene" n="1">
                    <stage type="location" place="center">Another Room In the Same.</stage>
@@ -2256,7 +2258,10 @@
                       <l n="9">To ha' put her to't behinde the hangings?</l></sp>
                    
                    <sp><speaker>Nurse</speaker>
-                      <l n="10">You should ha' been round with her.</l></sp>
+                      <l n="10">You should ha' been round<note type="etymological"
+                        ><term>†round</term>Of a task: carried out to a proper finish; thoroughly
+                            accomplished or discharged. <name rend="italic">Obsolete.</name> (OED
+                            adj. 13b). </note> with her.</l></sp>
                    
                    <sp><speaker>Startup</speaker>
                       <l n="11">I was round with her, I call'd her asse and coxcombe,</l>
@@ -2299,7 +2304,9 @@
                       <l n="24">I met and askt her for my Master, and</l>
                       <l n="25">She turn'd tayle lik a hound had lost the scent;</l>
                       <l n="26">There's something in the winde, my three pil'd worship</l>
-                      <l n="27">Are you there with my Lady o'th' Larder,</l>
+                      <l n="27">Are you there with my Lady o'th' Larder<note type="etymological"
+                                ><term>larder</term> A room or closet in which meat and other
+                            provisions are stored (OED n. 1a).</note>,</l>
                       <l n="28">Now in that posture? do not they two look like</l>
                       <l n="29">A fine Brick house and a thatched Barne in the Countrey,</l>
                       <l n="30">Laying their heads together? they ha' spied me.</l>
@@ -2313,25 +2320,40 @@
                    <sp><speaker>Close</speaker>
                       <l n="33">Your worship may trust me a bed with— I</l>
                       <l n="34">Have had a itch this great while, sir, a kinde</l>
-                      <l n="35">Of longing to be one of your appurtenances:</l>
+                      <l n="35">Of longing to be one of your appurtenances<note type="etymological"
+                                ><term>appurtenance</term>A thing that belongs to another, a
+                            ‘belonging’; a minor property, right, or privilege, belonging to another
+                            more important, and passing in possession with it; an appendage (OED n.
+                            1).</note>:</l>
                       <l n="36">I have some faults, and I'll confesse 'em; I have</l>
-                      <l n="37">A humour now and then, when I am ask'd</l>
+                      <l n="37">A humour<note type="etymological"><term>humour</term>A particular
+                            disposition, inclination, or liking, esp. one having no apparent ground
+                            or reason; a fancy, a whim. Now archaic and rare (OED n. 6a).</note> now and then, when I am ask'd</l>
                       <l n="38">A question, to tell true, though I be chid for't;</l>
                       <l n="39">And I do not love blowes; you may sooner beat</l>
                       <l n="40">My braines out, than a word of flattery:</l>
-                      <l n="41">I cannot batten upon commendation,</l>
+                      <l n="41">I cannot batten<note type="etymological"><term>batten</term>To feed
+                            gluttonously on, glut oneself; to gloat or revel in (OED v. 1b).</note> upon commendation,</l>
                       <l n="42">Without my wages, nor be valiant</l>
                       <l n="43">Upon small Beere; I am not overmuch</l>
-                      <l n="44">Given to be drunke, but I've a tricke o'th Dutchman,</l>
+                      <l n="44">Given to be drunke, but I've a tricke o'th Dutchman<note
+                            type="contextual">Allusions perpetuating the idea that the Dutch were
+                            heavy drinkers were common in 17th-century England. The English and the
+                            Dutch had a strong military and commercial rivalry, and thus would use
+                            this as a means of insulting one another.</note>,</l>
                       <l n="45">To do your businesse as well drunke as sober:</l>
                       <l n="46">I have not impudence enough to pimpe</l>
                       <l n="47">For you, but I have a gift I can say nothing:</l>
-                      <l n="48">I was borne upon Shrovetuesday, and shall be</l>
+                      <l n="48">I was borne upon Shrovetuesday<note type="contextual">In the 1833
+                            version of The Constant Maid, it is noted that “Close alludes to the
+                            turbulent conduct of the city apprentices on this holiday.”</note>, and shall be</l>
                       <l n="49">Now and then given to rebellion:</l>
                       <l n="50">My flesh will once a year rise at a Chamber-maid;</l>
                       <l n="51">If none such take me downe, I shall in malice</l>
                       <l n="52">And deep revenge, fling out upon May-day,</l>
-                      <l n="53">Among the Prentices, without fear or wit.</l>
+                      <l n="53">Among the Prentices<note type="etymological"><term>prentice</term>A
+                            person who learns a trade, craft, art, or profession from an employer;
+                            an apprentice (OED n. 2a).</note>, without fear or wit.</l>
                    </sp>
             <pb n="29" xml:id="TCMp32.jpg" facs="data/images/single/TCMp32.jpg"/>
                       <fw place="top-center" type="head">ACT III. SCENE I.</fw>
@@ -2340,7 +2362,9 @@
                     <l n="54">I like this humour.</l></sp>
                 
                 <sp><speaker>Nurse</speaker>
-                    <l n="55">Nay he has a sconce,</l>
+                    <l n="55">Nay he has a sconce<note type="etymological"><term>sconce</term>A
+                            jocular term for: The head; esp. the crown or top of the head; hence,
+                            ‘head’, ability, sense, wit (OED n. 2).</note>,</l>
                     <l n="56">And shall be of our counsell: Look you <name rend="italic">Close</name>,</l>
                     <l n="57">There is a plot to helpe this Gentleman,</l>
                     <l n="58">At night when they're a bed, and if you went</l>
@@ -2380,17 +2404,31 @@
                     <l n="74">Go your wayes,</l>
                     <l n="75">A foolish Knave and Bawd, that do want nothing</l>
                     <l n="76">But carting; I would sooner see that triumph,</l>
-                    <l n="77">Than all the Pageans, a day after <name rend="italic">Symon</name></l>
-                    <l n="78">And <name rend="italic">Jude</name>, when the fine City goes a feasting.</l>
+                    <l n="77">Than all the Pageans<note type="textual">Note that the editor of the
+                            1833 version of the constant maid changed this word to “pageants,” when
+                            it is meant to be “pagans.” The word “pagan” is being used in a
+                            derogatory manner here (OED “pagans” n. 1a).</note>, a day after <name rend="italic">Symon</name></l>
+                    <l n="78">And <name rend="italic">Jude</name><note type="intertextual">Simon and
+                            Jude were two of Jesus’ apostles who went together as missionaries to
+                            Persia, and were martyred there. Close’s comparison implies that the
+                            Nurse and Startup’s scheme against Frances is a tragedy of similar
+                            magnitude to these apostles being killed.</note>, when the fine City goes a feasting.</l>
                     <l n="79">Oh Sir, I have newes; yes, they are gone, brave newes;</l>
                     <l n="80">Your Gentlewoman can hold out no longer;</l>
                     <l n="81">This night there will be a stratagem:</l>
                     <l n="82">Old Madam Humpe a pompe, the <name rend="italic">Nurse</name>, has promis'd</l>
                     <l n="83">To admit the Countrey Gentleman, when all</l>
                     <l n="84">Are a bed, into her chamber; yes, your Mistresse:</l>
-                    <l n="85">I'm o'th' plot, to lie <name rend="italic">Perdue</name>, and give</l>
+                    <l n="85">I'm o'th' plot, to lie <name rend="italic">Perdue</name><note
+                            type="etymological"><term>to lie Perdue</term>To be placed as an
+                            outpost, guard, scout, etc., in an exposed or hazardous position. Also:
+                            to be hidden and on watch, to be lying in ambush. <name rend="italic"
+                                >Obsolete.</name> (OED “†perdu” adj. 2a).</note>, and give</l>
                     <l n="86">The word, if any Fire-lock approach</l>
-                    <l n="87">The rest; imagine if he have not art to</l>
+                    <l n="87">The rest<note type="textual">The editor of the 1833 edition notes the
+                            meaning of this phrase: “If there be any imminent danger of a discovery;
+                            alluding to the preparatory step for immediate firing, which was, by
+                            bringing the musket to the rest, or forked support.”</note>; imagine if he have not art to</l>
                     <l n="88">Perswade her to the feat with him, yet there</l>
                     <l n="89">Be tricks, and he may be surprized in the Chamber,</l></sp>
                 
@@ -2482,7 +2520,11 @@
                   
                   <sp>
                      <speaker>Playfaire</speaker>
-                     <l n="2">Witty enginere;</l>
+                     <l n="2">Witty enginere<note type="etymological"><term>enginere</term>A person
+                            who makes engines, structures, or systems; or a constructor of military
+                            engines; a person who designs and constructs military works for attack
+                            and defence. Also figurative. Now chiefly historical (OED “enginer” n. I
+                            1a).</note>;</l>
                      <l n="3">But was she taken with the plot?</l>
                   </sp>
             <pb n="31" xml:id="TCMp34.jpg" facs="data/images/single/TCMp34.jpg"/>
@@ -2492,7 +2534,13 @@
                      <speaker>Cousen</speaker>
                      <l n="4">I was compell'd to frame the outside of a reason,</l>
                      <l n="5">Lest our owne mirth should play the Traytor with us,</l>
-                     <l n="6">Her spleene was so dilated, he beleeved</l>
+                     <l n="6">Her spleene<note type="contextual">In 17th-century medicine, the spleen
+                            was believed, along with the liver and gallbladder, to house three of
+                            the purported humours of the body: blood, yellow bile, and black bile.
+                            The spleen, specifically, was meant to hold black bile, which was
+                            believed to cause sadness and melancholy. The Cousin is likening the
+                            Neece’s false display of madness to someone with imbalanced
+                            humours.</note> was so dilated, he beleeved</l>
                      <l n="7">I have made her mad, which change makes for us.</l>
                   </sp>
                   
@@ -2545,9 +2593,16 @@
                      <l n="23">Be ready, they know all their flourishes;</l>
                      <l n="24">But shift you quickly for your other part,</l>
                      <l n="25">My honourable Lords;</l>
-                     <l n="26">How they doe look like States-man, where's your tooth-pick?</l>
+                     <l n="26">How they doe look like States-man, where's your tooth-pick<note
+                            type="contextual">In the 17th century, toothpicks could be used as a way
+                            of showing off your status, as they would often be made extravagantly
+                            with metal and laid with gemstones. This is another small detail being
+                            used to keep up the ruse with Hornet, and convince him he is actually
+                            being knighted.</note>?</l>
                      <l n="27">Excellent; beare your staffe handsomely, contract</l>
-                     <l n="28">The brow, and look more superciliously.</l>
+                     <l n="28">The brow, and look more superciliously<note type="etymological"
+                                ><term>superciliously</term>In a supercilious manner; with an air of
+                            contemptuous indifference or superiority (OED adv. 1).</note>.</l>
                   </sp>
                   
                   <sp>
@@ -2673,18 +2728,30 @@
                   
                   <sp>
                      <speaker>King</speaker>
-                     <l n="67">To Bedlam with him then,</l>
+                     <l n="67">To Bedlam<note type="etymological"><term>bedlam</term> An asylum for
+                            the mentally ill; a madhouse, “lunatic asylum” (OED n. 3a).</note> with him then,</l>
                      <l n="68">Is this a place for fools or madmen, who</l>
                      <l n="69">Admitted him? take him, see you</l>
                      <l n="70">He be well whipt, and let him thanke our mercy,</l>
-                     <l n="71">Bandog.</l>
+                     <l n="71">Bandog<note type="etymological"><term>bandog</term> A dog tied or
+                            chained up, either to guard a house, or on account of its ferocity (OED
+                            n. a). Note that to “speak bandog and Bedlam” is a phrase meaning to
+                            speak furiously and madly, so it can be gleaned that these lines spoken
+                            by the Cousin are an extended play on words.</note>.</l>
                   </sp>
             <pb n="33" xml:id="TCMp36.jpg" facs="data/images/single/TCMp36.jpg"/>
                   <fw place="top-center" type="head">ACT III. SCENE II.</fw> 
                   
                   <sp>
                      <speaker>Playfaire</speaker>
-                     <l n="72">I quake already, excellent <name rend="italic">Warbeck</name>,</l>
+                     <l n="72">I quake already, excellent <name rend="italic">Warbeck</name><note
+                            type="contextual">In this line, Playfair is likening the Cousin’s acting
+                            as King to that of Perkin Warbeck, a pretender to the throne who was
+                            famous at the time. Warbeck was the titular character in a Caroline-era
+                            play by John Ford, which adds another layer of theatricality to this
+                            reference. In the 1661 quarto version of The Constant Maid, references
+                            to Warbeck are replaced by references to Lambert Simnel, a more recent
+                            pretender to the throne (Reimer pp. 146). </note>,</l>
                      <l n="73">Coole, coole thy lungs, and whisper with some Lord,</l>
                      <l n="74">Thou wo't be a key too high else, good Sir <name rend="italic">Clement</name>,</l>
                      <l n="75">Master of the house, at whose cost we are entertain'd.</l>
@@ -2692,12 +2759,19 @@
                   
                   <sp>
                      <speaker>Sir Clement</speaker>
-                     <l n="76">My part is rotten</l>
+                     <l n="76">My part is rotten<note type="textual">The editor of the 1833 edition
+                            of The Constant Maid points out that this phrase means “rotten ripe;
+                            overstudied,” illustrating that Clement is overthinking.</note></l>
                      <l n="77">In my head, doubt not.</l>
                   </sp>
                   
                   
-                  <stage type="entrance" place="center">Enter Servant 4 disguised as Pursevant.</stage>
+                  <stage type="entrance" place="center">Enter Servant 4 disguised as Pursevant<note
+                        type="etymological"><term>pursevant</term>Originally: a junior heraldic
+                        officer attendant on a herald or nobleman. In later use: an officer of the
+                        English, Scottish, or (formerly) Irish heraldic authority, ranking below a
+                        herald; (in Scotland also) a private officer of arms, appointed by an earl
+                        (OED “pursuivant” n. 1a).</note>.</stage>
                   
                   
                   <sp>
@@ -2777,7 +2851,16 @@
                   
                   <sp>
                      <speaker>Sir Clement</speaker>
-                     <l n="99">If the King of <hi rend="italic">Spaine</hi></l>
+                     <l n="99">If the King of <hi rend="italic">Spaine<note type="contextual">
+                            Philip IV (1605-1665), King of Spain from 1621 to 1665, chose Count-Duke
+                            of Olivares (1587-1645) as his royal favourite. After the Twelve Years’
+                            Truce (1609-1621), Olivares’ foreign policy focused on trying to win the
+                            Eighty Years’ War, which ended in 1648 with the recognition of the
+                            independence of the seven United Provinces (part of the Low Countries),
+                            now known as the Netherlands. What Clement implies by this comment is
+                            that if Philip IV had not had the Count-Duke of Olivares, his political
+                            brain and arm, England would have tried to take over the
+                            Netherlands.</note></hi></l>
                      <l n="100">Had but his head, that politick head,</l>
                      <l n="101">I know who might go fish for the Low-Countreyes.</l>
                   </sp>
@@ -3215,7 +3298,9 @@
                   
                    <sp><speaker>Nurse</speaker>
                      <l n="22">On like a bold Captaine,</l>
-                     <l n="23">Give her a broad side, she's within your shot,</l>
+                     <l n="23">Give her a broad side<note type="etymological"><term>broad
+                            side</term>An attack or onslaught, esp. a fierce verbal attack (OED
+                            “broadside” n. 2b).</note>, she's within your shot,</l>
                    </sp>
            
 		</div>
@@ -3286,7 +3371,12 @@
                       <l n="51">This faith be registred in Heaven, shall challenge from me a wives obedience.</l></sp>
                    
                    <sp><speaker>Hartwell</speaker>
-                      <l n="52">Planet-struck.</l>
+                      <l n="52">Planet-struck<note type="etymological"
+                            ><term>planet-struck</term>Stricken or afflicted, as by paralysis or
+                            other sudden physical disorder, as a result of the supposed malign
+                            influence of a planet. Hence: seized by sudden fear, amazement, etc.;
+                            panic-stricken; bewildered (OED adj.). Note that it is being used as an
+                            exclamation in this instance.</note>.</l>
                    </sp>
                    
                    <stage type="entrance" place="center">Enter Nurse with a lantern.</stage>
