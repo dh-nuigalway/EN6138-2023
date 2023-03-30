@@ -50,3 +50,11 @@ span.quote sup.iconbis-evt_quote-left,
 span.quote sup.iconbis-evt_quote-right {
 	display: none;
 }
+span.stage{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+span.stage[data-type="exit"]{
+	text-align : right;
+	
+}
