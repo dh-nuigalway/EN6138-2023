@@ -62,8 +62,8 @@
                 <l n="16">Frances, <hi rend="italic">her Daughter.</hi></l>
                 <l n="17">Nurse, <hi rend="italic">their Servant.</hi></l>
                 <l n="18">Neece <hi rend="italic">to</hi> Hornet.</l>
-                
-                <l n="19"><hi rend="italic">The Scene,</hi> London.</l>
+
+                <fw place="top-center" type="head"><hi rend="italic">The Scene,</hi> London.</fw>
                
             </div>
 
@@ -111,8 +111,7 @@
                                 <l n="15">Assistance promise to your selves.</l>
                             </sp>
                 <pb n="2" xml:id="TCMp5.jpg" facs="data/images/single/TCMp5.jpg"/>
-                
-               
+                    <fw place="top-center" type="head"> ACT I. SCENE I.</fw>
 
                 <sp>
                     <speaker>Close.</speaker>
@@ -194,7 +193,8 @@
 
                 
 
-                <pb n="3" xml:id="TCMp6.jpg" facs="data/images/single/TCMp6.jpg"/>      <fw place="top-center" type="head">The Constant Maid, Act I Scene I</fw>
+                <pb n="3" xml:id="TCMp6.jpg" facs="data/images/single/TCMp6.jpg"/>      
+                <fw place="top-center" type="head">ACT I. SCENE I.</fw>
 
                 <sp>
                     <speaker>Close.</speaker>
@@ -1058,6 +1058,7 @@
             <div type="act" n="2">
                 <div type="scene" n="1">
 		    <pb n="13" xml:id="TCMp16.jpg" facs="data/images/single/TCMp16.jpg"/>
+            <fw place="top-center" type="head">ACT I. SCENE II.</fw>
             <stage type="location" place="center">A Room in Mistresse Bellamy's House.</stage>
                 <stage type="entrance" place="center">Enter Close and Nurse.</stage>
 
@@ -3150,7 +3151,7 @@
 		</div>
                 <div type="scene" n="3">
        <pb n="37" xml:id="TCMp40.jpg" facs="data/images/single/TCMp40.jpg"/>
-                   <fw place="top-center" type="head">Act III. SCENE IV.</fw>
+                   <fw place="top-center" type="head">ACT III. SCENE IV.</fw>
                    
                  <sp>
                    <l n="4">The house, whither he is gone with his sword drawne,</l>
@@ -6114,7 +6115,7 @@
                         <l n="269">'Twixt Love and Fortune, now the accounts are even:</l>
                         <l n="270">A chaine of hearts, and the first linck in heaven.</l>
                     </sp>
-
+                        
                     <stage type="exit" place="right">Exeunt.<note type="textual"><p>The 1667 edition
                                 of The Constant Maid includes the following epilogue:</p>
                             <p>Through many hazards, Love hath found a way,</p>
@@ -6125,6 +6126,7 @@
                             <p>Our Loves shall find out other ways to please.</p>
                             <p>T.B.</p>
                         </note></stage>
+                        <fw place="top-center" type="head"><hi rend="italic">The Scene,</hi> London.</fw>
                 </div>
             </div>
                 <pb n="Back" xml:id="TCMbackcover.jpg" facs="data/images/single/TCMbackcover.jpg"/>
