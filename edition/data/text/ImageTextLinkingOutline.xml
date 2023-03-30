@@ -2238,7 +2238,7 @@
             
                 <stage type="exit" place="right">Exeunt.</stage>
                    <div type="act" n="3">
-               <head>ACT III. SCENE I.</head>
+               <head place="center">ACT III. SCENE I.</head>
                 <div type="scene" n="1">
                    <stage type="location" place="center">Another Room In Mistresse Bellamy's House.</stage>
                    <stage type="entrance" place="center">Enter Nurse and Startup.</stage>
