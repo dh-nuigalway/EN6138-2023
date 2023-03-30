@@ -40,7 +40,7 @@
           
             <pb n="III" xml:id="TCMp3.jpg" facs="data/images/single/TCMp3.jpg"/>
              <div type="characterlist">
-                <head>The names of the Persons.</head>
+                <head place="center">The names of the Persons.</head>
       
                 <l n="1">Hornet, <hi rend="italic">a rich Usurer.</hi></l>
                 <l n="2">Hartwell, <hi rend="italic">a young Gentleman, Lover of Mistresse</hi>
@@ -1539,7 +1539,7 @@
                     <l n="205">invite him?</l>
                 </sp>
 	<pb n="19" xml:id="TCMp22.jpg" facs="data/images/single/TCMp22.jpg"/>
-            <fw place="top-center" type="head">ACT II. SCENE II.</fw>
+            <fw place="top-center" type="head">ACT II. SCENE I.</fw>
                 <sp>
                     <speaker>Startup</speaker>
                     <l n="206">Sweet Sir, I invite no body, if you love any body here?</l>
@@ -1577,7 +1577,7 @@
                 
             </div>
             <div type="scene" n="2">
-                <head>SCENE II.</head>
+                <head place="center">SCENE II.</head>
                 <stage type="location" place="center">A Room in Hornet’s House.</stage>
                 <stage type="entrance" place="center">Enter Hornet, Playfaire’s Cousen disguised as a Doctor.</stage>
                 
@@ -1851,7 +1851,7 @@
                     <speaker>Neece</speaker>
                     <l n="126">Nay, and you be at that ward, I must leave you,</l>
 	 <pb n="23" xml:id="TCMp26.jpg" facs="data/images/single/TCMp26.jpg"/>
-            <fw place="top-center" type="head">ACT II. SCENE III.</fw>
+            <fw place="top-center" type="head">ACT II. SCENE II.</fw>
                     <l n="127">Fare well, pray do not lift my Uncle too hard;</l>
                     <l n="128">And so I leave you both to the mercy of the Bear-garden.</l>
                 </sp>
@@ -1894,7 +1894,7 @@
           
             </div>
             <div type="scene" n="3">
-                <head>SCENE III.</head>
+                <head place="center">SCENE III.</head>
                 <stage type="location" place="center">A Room in Mistresse Bellamy's House.</stage>
                 <stage type="entrance" place="center">Enter Nurse and Startup.</stage>
           
@@ -2402,7 +2402,7 @@
                     <l n="89">Be tricks, and he may be surprized in the Chamber,</l></sp>
                 
             <pb n="30" xml:id="TCMp33.jpg" facs="data/images/single/TCMp33.jpg"/>
-                <fw place="top-center" type="head">ACT III. SCENE II.</fw>
+                <fw place="top-center" type="head">ACT III. SCENE I.</fw>
                    
                  <sp>
                    <l n="90">And she may be compell'd to marry him in</l>
@@ -2477,7 +2477,7 @@
                 </div>
                
                <div type="scene" n="2">
-                  <head>SCENE II.</head>
+                  <head place="center">SCENE II.</head>
                   
                   <stage type="location" place="center">A Room in Justice Clement's House. A banquet set out.</stage>
                   <stage type="entrance" place="center">Enter Playfaire and his Cousen.</stage>
@@ -3025,7 +3025,7 @@
                      <l n="176">An active State-man.</l>
                   </sp>
         <pb n="36" xml:id="TCMp39.jpg" facs="data/images/single/TCMp39.jpg"/>
-            <fw place="top-center" type="head">ACT III. SCENE III.</fw>
+            <fw place="top-center" type="head">ACT III. SCENE II.</fw>
                   
                   <sp>
                      <speaker>Hornet</speaker>
@@ -3132,7 +3132,7 @@
                   
                </div>
                <div type="scene" n="3">
-                  <head>SCENE III.</head>
+                  <head place="center">SCENE III.</head>
                   
                   <stage type="location" place="center">The Street near Mistresse Bellamy's House</stage>
                   
@@ -3151,7 +3151,7 @@
 		</div>
                 <div type="scene" n="3">
        <pb n="37" xml:id="TCMp40.jpg" facs="data/images/single/TCMp40.jpg"/>
-                   <fw place="top-center" type="head">ACT III. SCENE IV.</fw>
+                   <fw place="top-center" type="head">ACT III. SCENE III.</fw>
                    
                  <sp>
                    <l n="4">The house, whither he is gone with his sword drawne,</l>
@@ -3178,7 +3178,7 @@
                    
                 </div>
                <div type="scene" n="4">
-                  <head>SCENE IV.</head>
+                  <head place="center">SCENE IV.</head>
                   
                   <stage type="location" place="center">A Room in Mistresse Bellamy's House.</stage>
                   <stage type="entrance" place="center">Enter Nurse, and Mistresse Frances.</stage>
@@ -3315,7 +3315,7 @@
                       <l n="58">Passion of me, what makes her rise?</l>
                    </sp>
        <pb n="39" xml:id="TCMp42.jpg" facs="data/images/single/TCMp42.jpg"/>
-                   <fw place="top-center" type="head">ACT IV. SCENE I.</fw>
+                   <fw place="top-center" type="head">ACT III. SCENE IV.</fw>
                    
                    <sp><speaker>Hartwell</speaker>
                       <l n="59">I will discover yet.</l>
@@ -3347,7 +3347,7 @@
 		</div>
             </div>
             <div type="act" n="4">
-		    <head>ACT IV. SCENE I.</head>
+		    <head place="center">ACT IV. SCENE I.</head>
                 <div type="scene" n="1">
 			<stage type="location" place="center">The Fields.</stage>
                     <stage type="entrance" place="center">Enter Startup, wrapped in a blanket, followed by Close.</stage>
@@ -3654,7 +3654,7 @@
 			    <l n="128">Some thiefe, I warrant him, no honest man,</l></sp>
 			    
                 <pb n="43" xml:id="TCMp46.jpg" facs="data/images/single/TCMp46.jpg"/>
-		 <fw place="top-center" type="head">ACT IV. SCENE II.</fw>
+		 <fw place="top-center" type="head">ACT IV. SCENE I.</fw>
 
                         <sp><l n="129">I know by his basket hilt, some rogue that watches,</l>
                         <l n="130">The fields are pester'd with such sturdy robbers.</l>
@@ -3792,7 +3792,7 @@
                 </div>
 
                 <div type="scene" n="2">
-                    <head>SCENE II.</head>
+                    <head place="center">SCENE II.</head>
 
                     <stage type="location" place="center">A Room in mistresse Bellamy's
                         Home.</stage>
@@ -4249,7 +4249,7 @@
 			    <l n="182">Breath many minutes after, to pray for you.</l></sp>
 	    
                 <pb n="49" xml:id="TCMp52.jpg" facs="data/images/single/TCMp52.jpg"/>
-		                       <fw place="top-center" type="head">ACT IV. SCENE III.</fw>
+		                <fw place="top-center" type="head">ACT IV. SCENE II.</fw>
 
                         <sp><l n="183">The herbs that shall adorne your Bridall chamber,</l>
                         <l n="184">Will serve my Funerall, and deck my Merse;</l>
@@ -4299,7 +4299,7 @@
                 </div>
 
                 <div type="scene" n="3">
-                    <head>SCENE III.</head>
+                    <head place="center">SCENE III.</head>
 
                     <stage type="location" place="center">A Room in Justice Clement's House.</stage>
                     <stage type="entrance" place="center">Enter Playfaire and his Cousen.</stage>
@@ -4350,7 +4350,7 @@
 			    <l n="18">I must confesse</l></sp> 
 			
                 <pb n="50" xml:id="TCMp53.jpg" facs="data/images/single/TCMp59.jpg"/>
-			                        <fw place="top-center" type="head">ACT IV. SCENE III.</fw>
+			            <fw place="top-center" type="head">ACT IV. SCENE III.</fw>
 
                        <sp><l n="19">I had a trick of <name rend="italic">Mercury</name> when I
                             pick'd</l>
@@ -4671,7 +4671,7 @@
                         <l n="158">I will petition to the King my self,</l>
                         <l n="159">They may have libertie but once a yeere</l></sp>
 		<pb n="54" xml:id="TCMp57.jpg" facs="data/images/single/TCMp57.jpg"/>
-			                        <fw place="top-center" type="head">ACT IV. SCENE III.</fw>
+			        <fw place="top-center" type="head">ACT IV. SCENE III.</fw>
 
                        <sp><l n="160">To see the Gally foist, then be confined</l>
                         <l n="161">To their Chamber, and one Prentice—yet agen.</l>
@@ -5034,7 +5034,7 @@
                     <stage type="exit" place="right">Exeunt.</stage>
                 </div>
                 <div type="scene" n="2">
-                    <head>ACT V. SCENE II.</head>
+                    <head place="center">SCENE II.</head>
 
                     <stage type="location" place="center">A Room in Hornet’s House.</stage>
                     <stage type="entrance" place="center">Enter Hornet.</stage>
