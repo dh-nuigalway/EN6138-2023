@@ -51,25 +51,26 @@
                 <l n="6">Startup, a <hi rend="italic">foolish Gentleman.</hi></l>
                 <l n="7">A Countrey-man.</l>
                 <l n="8">Close, <hi rend="italic">Servant</hi> to Hartwell.</l>
-                <l n="9">Four Servants, <hi rend="italic">three disguised sometimes as Lords, one of them
-                        twice disguised as a Pursevant.</hi></l>
-                <l n="10">A Constable.</l>
-                <l n="11">Three Watchmen.</l>
-                <l n="12">Masquers.</l>
-                <l n="13">Officers.</l>
-                <l n="14">Other Servants and Attendants.</l>
-                <l n="15">Bellamy, <hi rend="italic">a Widdow.</hi></l>
-                <l n="16">Frances, <hi rend="italic">her Daughter.</hi></l>
-                <l n="17">Nurse, <hi rend="italic">their Servant.</hi></l>
-                <l n="18">Neece <hi rend="italic">to</hi> Hornet.</l>
+                <l n="9">Four Servants, <hi rend="italic">three disguised sometimes as Lords, one of</hi></l> 
+		<l n="10"><hi rend="italic">them twice disguised as a Pursevant.</hi></l>
+                <l n="11">A Constable.</l>
+                <l n="12">Three Watchmen.</l>
+                <l n="13">Masquers.</l>
+                <l n="14">Officers.</l>
+                <l n="15">Other Servants and Attendants.</l>
+                <l n="16">Bellamy, <hi rend="italic">a Widdow.</hi></l>
+                <l n="17">Frances, <hi rend="italic">her Daughter.</hi></l>
+                <l n="18">Nurse, <hi rend="italic">their Servant.</hi></l>
+                <l n="19">Neece <hi rend="italic">to</hi> Hornet.</l>
 
-                <fw place="top-center" type="head"><hi rend="italic">The Scene,</hi> London.</fw>
+                <fw place="top-center" type="footer"><hi rend="italic">The Scene,</hi> London.</fw>
                
             </div>
 
             <div type="act" n="1">
                 <div type="scene" n="1">
                 <pb n="1" xml:id="TCMp4.jpg" facs="data/images/single/TCMp4.jpg"/>
+		  <fw place="top-center" type="head">THE CONSTANT MAID.</fw>
                     <fw place="top-center" type="head"> ACT I. SCENE I.</fw>
                             
                         <stage type="location" place="center">The Street before Hartwell’s House.</stage>
@@ -91,10 +92,10 @@
                                         sleeves, worn by men from the 14th to the 18th centuries. (Rarely
                                         applied to a similar garment worn by women.) <name rend="italic">Obsolete exc. Historical.</name> (OED n. 1a).</p></note>
                                 </l>
-                                <l n="6">And cod-peeces<note type="etymological">
+                                <l n="6">And cod-peeces:<note type="etymological">
                                     <term>cod-peeces</term> A (padded) pouch attached to the front of a
                                     man's close-fitting hose or breeches to cover the genitals, commonly
-                                    worn in the 15th and 16th cent. (OED “codpiece”, n. 1a).</note>: but I
+                                    worn in the 15th and 16th cent. (OED “codpiece”, n. 1a).</note> but I
                                     that have worne out</l>
                                 <l n="7">So many liveries under the worshipfull</l>
                                 <l n="8">Old Gentleman your father.</l>
@@ -114,18 +115,18 @@
                     <fw place="top-center" type="head"> ACT I. SCENE I.</fw>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="16">I do not</l>
                     <l n="17">Stand upon wages, Sir, I will not leave you.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="18">How woot thou live?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="19">As other mortals do; yet I'll not play</l>
                     <l n="20">The thiefe, that is a course by which a man</l>
                     <l n="21">May soone ascend the ladder of preferment:</l>
@@ -143,29 +144,29 @@
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
-                    <l n="33">But I am a Bachelour<note type="textual">In the 17th and 18th
+                    <speaker>Hartwell</speaker>
+                    <l n="33">But I am a Bachelour.<note type="textual">In the 17th and 18th
                             centuries, it was common in English-language texts to capitalise the
                             first letter of common “important” nouns, probably as a result of the
                             influence of continental, particularly German, books. However, this was
                             not done systematically; one reason may be that each printer had their
-                            own personal preferences. </note>.</l>
+                            own personal preferences. </note></l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="34">I pray let me be one of your buttons still then,</l>
                     <l n="35">I am not halfe worne out; you know what mould</l>
                     <l n="36">I'm made off, I did ever honest service;</l>
                     <l n="37">And though my fellow Vermin can forsake</l>
                     <l n="38">Your falling house, I doe not feare the rafters;</l>
                     <l n="39">By this hand, Sir, I'll wait upon you, though</l>
-                    <l n="40">Like great mens servants, I do live on nothing</l>
+                    <l n="40">Like great men's servants, I do live on nothing</l>
                     <l n="41">But looks, and the aire of commendations.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="42">Well, since you are so resolute, attend me,</l>
                     <l n="43">The rest I here discharge, there's somewhat more,</l>
                     <l n="44">Not worth the name of bountie, I wish all</l>
@@ -174,20 +175,20 @@
                 </sp>
 
                 <sp>
-                    <speaker>Servant 2.</speaker>
+                    <speaker>Servant 2</speaker>
                     <l n="46">And there be</l>
                     <l n="47">No remedy, heaven blesse you, Sir.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="48">Pray give me leave to wet my lips with these</l>
                     <l n="49">My fellowes, sorrow has made but a dry proverb,</l>
                     <l n="50">I must toth' Taverne, and condole a quart.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Hartwell.</speaker>
+                    <speaker>Hartwell</speaker>
                     <l n="51">Meet me at Mistresse <name rend="italic">Bellamy</name>’s then.</l>
                 </sp>
 
@@ -197,7 +198,7 @@
                 <fw place="top-center" type="head">ACT I. SCENE I.</fw>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="52">I shall, Sir.</l>
                 </sp>
 
@@ -208,12 +209,12 @@
                 
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="53">How now Masters.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="54">You speake not</l>
                     <l n="55">To me, Sir, I am a servant still indeed;</l>
                     <l n="56">With them the case is alter'd, they are masters,</l>
@@ -221,63 +222,63 @@
                 </sp>
 
                 <sp>
-                    <speaker>Servant 1.</speaker>
+                    <speaker>Servant 1</speaker>
                     <l n="58">Oh, Master <name rend="italic">Playfaire</name>.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Servant 2.</speaker>
-                    <l n="59">It is not now as when <name rend="italic">Andrea</name> liv'd<note
+                    <speaker>Servant 2</speaker>
+                    <l n="59">It is not now as when <name rend="italic">Andrea</name> liv'd,<note
                             type="intertextual">As the 1833 editor points out, some of the lines
                             said by the servants in this passage are taken from Hieronimo’s
                             monologue in scene V of <name rend="italic">The Spanish Tragedy,</name>
                             a very popular and influential play in the English Renaissance theatre
-                            written by Thomas Kyd between 1582 and 1592. </note>,</l>
+                            written by Thomas Kyd between 1582 and 1592. </note></l>
                 </sp>
 
                 <sp>
-                    <speaker>Servant 3.</speaker>
+                    <speaker>Servant 3</speaker>
                     <l n="60">This place was made for pleasure, not for death.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Servant 1.</speaker>
+                    <speaker>Servant 1</speaker>
                     <l n="61">There was a time when mortals whetted knives.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Servant 2.</speaker>
+                    <speaker>Servant 2</speaker>
                     <l n="62">In time of yore, when men kill'd brutish beasts.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Servant 3.</speaker>
+                    <speaker>Servant 3</speaker>
                     <l n="63">Oh cruell Butcher, whosoe're thou wert.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="64">Do not you know what all this signifies?</l>
                 </sp>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="65">Not I.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="66">My master has given over house-keeping.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Servant 1.</speaker>
+                    <speaker>Servant 1</speaker>
                     <l n="67">He has committed Burglarie, broke up the cellar,</l>
                     <l n="68">And throwne the kitchin out at the hall window.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="69">His house, Sir, has a superscription,</l>
                     <l n="70">And is directed to his loving friend</l>
                     <l n="71">Will pay the rent, you'l hardly know me now,</l>
@@ -285,17 +286,17 @@
                 </sp>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="73">You are verie merrie, Sir.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Servant 2.</speaker>
+                    <speaker>Servant 2</speaker>
                     <l n="74">He has some cause, we are discharg'd.</l>
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="75">For certaine, my master only</l>
                     <l n="76">Belongs to me, if you would speake with him,</l>
                     <l n="77">He's gone to Mistresse <name rend="italic">Bellamy</name>’s, Sir;</l>
@@ -306,7 +307,7 @@
                 </sp>
 
                 <sp>
-                    <speaker>Playfaire.</speaker>
+                    <speaker>Playfaire</speaker>
                     <l n="82">Lads, I have knowne you long:</l>
                     <l n="83">Although you be at losse, in confidence</l>
                     <l n="84">Of all your future honesties, I'll employ yee</l>
@@ -315,7 +316,7 @@
                 </sp>
 
                 <sp>
-                    <speaker>Close.</speaker>
+                    <speaker>Close</speaker>
                     <l n="87">All?</l>
                 </sp>
             </div>
@@ -369,13 +370,13 @@
                         <l n="102">The bed-roll<note type="etymological"><term>†bed-roll.</term> A list
                             of persons to be specially prayed for. <name rend="italic">Obsolete or
                                 archaic.</name>(OED “bead-roll”, n. 1).</note> of your
-                            commendation<note type="etymological"><term>commendation.</term>An
+                            commendation,<note type="etymological"><term>commendation.</term>An
                                 office originally ending with the prayer <name rend="italic">Tibi,
                                     Domine, commendamus,</name> in which the souls of the dead were
                                 commended to God; said both before their burial, and in anniversary or
                                 commemorative services. <name rend="italic">Liturgical</name> (gen. In
                                 plural; also <name rend="italic">Commendation of Souls</name>). (OED n.
-                                II. 6a). Commendatory prayer (OED n. II. 6b).</note>,</l>
+                                II. 6a). Commendatory prayer (OED n. II. 6b).</note></l>
                         <l n="103">And pitie a verie serviceable fellow,</l>
                         <l n="104">That would faine wait on him, but wants a cloake:</l>
                         <l n="105">Go, prosper with your project.</l>
@@ -546,7 +547,7 @@
                             <l n="59">Hang breeding, 'tis unlucky,</l>
                             <l n="60">They never keep their state that have too much on't,</l>
                             <l n="61">Counsell your daughter, Mistresse <name rend="italic">Bellamy</name>,</l>
-                            <l n="62">To throw him off betime<note type="etymological"><term>†betime.</term>In good time, early, seasonably. <name rend="italic">Obsolete.</name> (OED adv. 1).</note>.</l>
+                            <l n="62">To throw him off betime.<note type="etymological"><term>†betime.</term>In good time, early, seasonably. <name rend="italic">Obsolete.</name> (OED adv. 1).</note></l>
                         </sp>
                         <sp>
                             <speaker>Bellamy</speaker>
@@ -642,14 +643,14 @@
                             <l n="106">If they be given, y'are the more excus'd</l>
                             <l n="107">To let 'em shew; but have a care you let not</l>
                             <l n="108">Appeare, either in Arras, or in picture,</l>
-                            <l n="109">The storie of the Prodigall<note type="intertextual">Hornet advises
+                            <l n="109">The storie of the Prodigall,<note type="intertextual">Hornet advises
                                 Bellamy not to display art depicting the Parable of the Prodigal Son,
                                 one of the parables of Jesus Christ in the Bible, appearing in Luke
                                 15:11-32. The parable is framed as a response to a criticism of Jesus by
                                 the Pharisees and scribes for receiving sinners and eating with them,
                                 and emphasises God’s mercy towards the repentant. Hornet seems to warn
                                 that, if Bellamy shows this parable to her young male guests, they may
-                                restrict how much they spend on their dowries.</note>, 'twill fright</l>
+                                restrict how much they spend on their dowries.</note> 'twill fright</l>
                             <l n="110">Young Gentlemen that come to visit you</l>
                             <l n="111">From spending o'their portions, whose riot</l>
                             <l n="112">May enrich you with their forfeited estates;</l>
@@ -759,7 +760,7 @@
                         <sp>
                             <speaker>Bellamy</speaker>
                             <l n="151">Do you love </l>
-                            <l n="152">That <name rend="italic">Master Hartwell?</name> do not blush, but
+                            <l n="152">That Master <name rend="italic">Hartwell?</name> do not blush, but
                                 answer.</l>
                         </sp>
                         <sp>
@@ -822,7 +823,7 @@
                             <l n="183">Able to guild deformitie, and make</l>
                             <l n="184">Even want of wit a vertue, when your life</l>
                             <l n="185">Renders it selfe more sweet by your command;</l>
-                            <l n="186">His name is Master Startup, whom I expect</l>
+				<l n="186">His name is Master <name rend="italic">Startup</name>, whom I expect</l>
                             <l n="187">Our guest to morrow, that's his letter, read it.</l>
                             
                             <stage type="delivery">Gives her a letter.</stage>
@@ -864,7 +865,7 @@
                             <l n="211">Another answer; i'th' meane time dispose</l>
                             <l n="212">Your countenance to entertaine this new</l>
                             <l n="213">And able Lover: leave the satisfaction</l>
-                            <l n="214">Of Hartwell to my care:</l>
+			       <l n="214">Of <name rend="italic">Hartwell</name> to my care:</l>
                             <l n="215">He's here, to your chamber.</l>
                        </sp>
                         
@@ -882,7 +883,7 @@
                             <speaker>Hartwell</speaker>
                             <l n="218">I wish it well; but do you work your selfe</l>
                             <l n="219">Into the opinion of her Nurse, she is</l>
-                            <l n="220"><name rend="italic">The Major Domo,</name> and has all the intelligence.</l>
+                            <l n="220">The <name rend="italic">Major Domo</name>, and has all the intelligence.</l>
                         </sp>
                         <sp>
                             <speaker>Close</speaker>
@@ -1002,7 +1003,7 @@
                         </sp>
                         <sp>
                             <speaker>Bellamy</speaker>
-                            <l n="269">Yes, so deerly, Hartwell, I</l>
+				<l n="269">Yes, so deerly, <name rend="italics">Hartwell</name>, I</l>
                             <l n="270">Present my selfe to thy affection.</l>
                         </sp>
                         <sp>
@@ -1058,14 +1059,14 @@
             <div type="act" n="2">
                 <div type="scene" n="1">
 		    <pb n="13" xml:id="TCMp16.jpg" facs="data/images/single/TCMp16.jpg"/>
-            <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+            <fw place="top-center" type="head">ACT II. SCENE I.</fw>
             <stage type="location" place="center">A Room in Mistresse Bellamy's House.</stage>
                 <stage type="entrance" place="center">Enter Close and Nurse.</stage>
 
                 <sp>
                     <speaker>Close</speaker>
                     <l n="1">A word of thy mouth does it, I am wearie</l>
-                    <l n="2">Of these indentures<note type="etymological"><term>indentures</term>A deed between two or more parties with mutual covenants, executed in two or more copies, all having their tops or edges correspondingly indentured or serrated for identification and security. Hence, A deed or sealed agreement or contract between two or more parties, without special reference to its form (OED n. "indenture" 2a).</note>, like a foole, I was</l>
+                    <l n="2">Of these indentures,<note type="etymological"><term>indentures</term>A deed between two or more parties with mutual covenants, executed in two or more copies, all having their tops or edges correspondingly indentured or serrated for identification and security. Hence, A deed or sealed agreement or contract between two or more parties, without special reference to its form (OED n. "indenture" 2a).</note> like a foole, I was</l>
                     <l n="3">In hope he should have married Mistresse <name rend="italic">Frances</name>.</l>
                 </sp>
                 <sp>
@@ -1114,16 +1115,16 @@
               
                 <sp>
                     <speaker>Close</speaker>
-                    <l n="24">My most exquisite <name rend="italic">Varges</name><note
+                    <l n="24">My most exquisite <name rend="italic">Varges</name>,<note
                             type="intertextual">As the editor of the 1833 edition states, Close is
                             probably alluding to Verges, a character in Shakespeare’s comedy <name
                             rend="italic">Much Ado About Nothing.</name> Verges is old and
                             practical, a sidekick character who always appears alongside Dogberry.
                             Together they function as a comic duo, much like Close and the Nurse in
-                            this play.</note>,</l>
+                            this play.</note></l>
                     <l n="25">How I doe love thy documents; but he's here,</l>
                     <l n="26">I'll not be seene with thee, farewell, we'll talk</l>
-                    <l n="27">The rest at night over a Sack-posset<note type="etymological"><term>†sack</term>A general name for a class of white wines formerly imported from Spain and the Canaries (OED n. 3a).<term>posset</term>A drink made from hot milk curdled with ale, wine, or other liquor, flavoured with sugar, herbs, spices, etc., and often drunk for medicinal purposes (now historical); a kind of syllabub made from similar ingredients (OED n. 1).</note>.</l>
+                    <l n="27">The rest at night over a Sack-posset.<note type="etymological"><term>†sack</term>A general name for a class of white wines formerly imported from Spain and the Canaries (OED n. 3a).<term>posset</term>A drink made from hot milk curdled with ale, wine, or other liquor, flavoured with sugar, herbs, spices, etc., and often drunk for medicinal purposes (now historical); a kind of syllabub made from similar ingredients (OED n. 1).</note></l>
                 </sp>
                
                 <stage type="exit" place="right">Exit.</stage>
@@ -1134,7 +1135,7 @@
                 </sp>
                 
                 <stage type="exit" place="right">Retires.</stage>
-		    <pb n="14" xml:id="TCMp17.jpg" facs="data/images/single/TCMp17.jpg"/>
+	<pb n="14" xml:id="TCMp17.jpg" facs="data/images/single/TCMp17.jpg"/>
              <fw place="top-center" type="head">ACT II. SCENE I.</fw>
                 <sp>
                     <speaker>Playfaire</speaker>
@@ -1160,7 +1161,7 @@
                 </sp>
                 <sp>
                     <speaker>Playfaire</speaker>
-                    <l n="39">Thou wilt not be so much an Infidell<note type="etymological"><term>†Infidell</term>One who does not believe in (what the speaker holds to be) the true religion; an ‘unbeliever’.<name rend="italics"> Obsolete. </name>(OED n. “infidel” A1). In general sense: One who does not believe in something specified; an unbeliever (OED n. “Infidel”  A4).</note>,</l>
+                    <l n="39">Thou wilt not be so much an Infidell,<note type="etymological"><term>†Infidell</term>One who does not believe in (what the speaker holds to be) the true religion; an ‘unbeliever’.<name rend="italics"> Obsolete. </name>(OED n. “infidel” A1). In general sense: One who does not believe in something specified; an unbeliever (OED n. “Infidel”  A4).</note></l>
                     <l n="40">To think I meane thou shouldst forsake the wench;</l>
                     <l n="41">Tell me the mother a fine tale of love,</l>
                     <l n="42">Print kisses on her paper-lip, and hug</l>
@@ -1187,7 +1188,7 @@
                     <l n="57">Shou'd you hold off, and play the modest creature;</l>
                     <l n="58">Nay, but deny as Maids do when they love it,</l>
                     <l n="59">And bending of your hams, cry, No forsooth;</l>
-                    <l n="60">Professe with Coxcomb<note type="etymological"><term>†Coxcomb</term>A stupid person, a fool.<name rend="italics"> Obsolete. </name>(OED n. 4a). A vain, conceited, or pretentious man (OED n. 4b)</note>-like civilitie,</l>
+                    <l n="60">Professe with Coxcomb-like<note type="etymological"><term>†Coxcomb</term>A stupid person, a fool.<name rend="italics"> Obsolete. </name>(OED n. 4a). A vain, conceited, or pretentious man (OED n. 4b)</note> civilitie,</l>
                     <l n="61">You are not worthy of her carnall favors:</l>
                     <l n="62">She may beleeve it, and in verie spight</l>
                     <l n="63">Marrie her daughter to a Citizen:</l>
@@ -1201,7 +1202,7 @@
                         1a).</note></l>
                     <l n="67">Hath scarrified your heart, you may go hang your selfe:</l>
                     <l n="68">Go to the Barber’s, let him firk your haire up,</l>
-                    <l n="69">Or get a perriwig<note type="etymological"><term>perriwig</term>Any highly stylized wig of a kind formerly worn by men and women, and (esp. in Britain and parts of the British Commonwealth) retained by judges and barristers as part of their professional dress. More generally: a wig of any kind (OED n. “periwig” 1a). <name rend="italics"> archaic</name></note>; wash your sullen face,</l>
+                    <l n="69">Or get a perriwig;<note type="etymological"><term>perriwig</term>Any highly stylized wig of a kind formerly worn by men and women, and (esp. in Britain and parts of the British Commonwealth) retained by judges and barristers as part of their professional dress. More generally: a wig of any kind (OED n. “periwig” 1a). <name rend="italics"> archaic</name></note> wash your sullen face,</l>
                     <l n="70">And starch<note type="etymological"><term>starch</term>To stiffen (cloth, clothes, etc.) with starch (OED v. 1a)</note> your infant upper lip, to look</l>
                     <l n="71">Like one that would run desperate on a widdow.</l>
                 </sp>
@@ -1230,12 +1231,12 @@
                     <speaker>Nurse</speaker>
                     <l n="81">I'll conjure up a crosse plot, and that quickly,</l>
                     <l n="82">Shall mar your mirth, and pay your fine dissembling</l>
-                    <l n="83">As it deserves, my confident Love-gamester<note type="intertextual">
+                    <l n="83">As it deserves, my confident Love-gamester.<note type="intertextual">
                             <name rend="italic">The Gamester</name> is the title of one of James
                             Shirley’s plays, a comedy of manners premiered in 1633 and published in
                             1637.</note><note type="textual"> After hearing Playfair and Hartwell’s
                             plot, the Nurse refers to the latter as a gamester (gambler), someone
-                            who plays love games.</note>.</l>
+                            who plays love games.</note></l>
                 </sp>
                 
                 <stage type="exit" place="right">Exit.</stage>
@@ -1243,7 +1244,7 @@
                 <sp>
                     <speaker>Playfaire</speaker>
                     <l n="84">I'll take my leave then, y'have no other service</l>
-                    <l n="85">To use my stay? I have a project,<name rend="italic">Hartwell</name>,</l>
+                    <l n="85">To use my stay? I have a project, <name rend="italic">Hartwell</name>,</l>
                     <l n="86">That must not be neglected.</l>
                 </sp>
                 <sp>
@@ -1266,7 +1267,7 @@
                     <l n="93">I'll rivall him; he smothers a poore Gentlewoman</l>
                     <l n="94">At home with sea-cole, and allowes her no</l>
                     <l n="95">More light than serves to read in painted cloth</l>
-                    <l n="96">The exposition of the harlot’s storie<note type="intertextual"> This
+                    <l n="96">The exposition of the harlot’s storie:<note type="intertextual"> This
                             could be an allusion to a biblical story, since in Act I, Scene II,
                             Hornet advises Bellamy to hang a picture depicting another biblical
                             story, that of the Prodigal Son. Although there are many
@@ -1283,7 +1284,7 @@
                             usually portrayed as the one responsible for the Trojan War by
                             abandoning Menelaus for Paris. This interpretation would also make
                             sense, since in the masque in Act IV, Scene III, Playfaire will play
-                            Paris and the Neece will play Helen.</note>:</l>
+                            Paris and the Neece will play Helen.</note></l>
                     <l n="97"><name rend="italic">Hartwell</name>, I love her, and before her father</l>
                     <l n="98">Died we enterchang'd our hearts; 'tis here,</l>
                     <l n="99">To free her from that slaverie she lives in</l>
@@ -1297,10 +1298,10 @@
                     <l n="104">Hereafter; to the Widdow, <name rend="italic">Hartwell</name>, I am</l>
                     <l n="105">For state affaires, be faithfull and pray for me;</l>
                     <l n="106">We must be bold, farewell, if something hit</l>
-                    <l n="107">Wee'll laugh in spight of <name rend="italic">Dives</name><name rend="italic">Dives</name><note type="etymological"><term>Dives</term>The Latin word for ‘rich (man)’, occurring in the Vulgate, Luke xvi; whence commonly taken as the proper name of the rich man in that parable; and used generically for ‘rich man’ (OED n. 1).</note> and the Devill.</l>
+                    <l n="107">Wee'll laugh in spight of <name rend="italic">Dives</name><note type="etymological"><term>Dives</term>The Latin word for ‘rich (man)’, occurring in the Vulgate, Luke xvi; whence commonly taken as the proper name of the rich man in that parable; and used generically for ‘rich man’ (OED n. 1).</note> and the Devill.</l>
                 </sp>
                 
-                <stage type="exit" place="right">Exit</stage>
+                <stage type="exit" place="right">Exit.</stage>
                
                 <stage type="entrance" place="center">Enter Startup, Mistresse Bellamy, Mistresse
                     Frances, Close, Nurse.</stage>
@@ -1365,12 +1366,12 @@
                 </sp>
                 <sp>
                     <speaker>Close</speaker>
-                    <l n="139">A verie precious Widgin<note type="etymological"><term>Widgin</term>Wild duck species (OED n. “wigeon” 1b).</note>: Gramercie<note type="etymological"><term>†Gramercie</term>Thanks; thank you (OED int. 1a). Used as an exclamation of surprise or sudden feeling; = ‘mercy on us!’<name rend="italics"> Obsolete.</name> (OED int. “gramercy” 2).</note>  Sack.</l>
+                    <l n="139">A verie precious Widgin:<note type="etymological"><term>Widgin</term>Wild duck species (OED n. “wigeon” 1b).</note> Gramercie<note type="etymological"><term>†Gramercie</term>Thanks; thank you (OED int. 1a). Used as an exclamation of surprise or sudden feeling; = ‘mercy on us!’<name rend="italics"> Obsolete.</name> (OED int. “gramercy” 2).</note>  Sack.</l>
                 </sp>
                 <sp>
-                    <speaker>Startup</speaker>
-                    <stage type="delivery">Dances.</stage>
+			<speaker>Startup</speaker>
                     <l n="140"><hi rend="italic">Ta la la la lero,</hi> &amp;c.</l>
+			<stage type="delivery">Dances.</stage>
                 </sp>
                 <sp>
                     <speaker>Frances</speaker>
@@ -1597,7 +1598,7 @@
                     <l n="6">For that you were commended, Sir, to me:</l>
                     <l n="7">You have a conscience, and wo'not take</l>
                     <l n="8">Fees for a complement, nor make poore your friends,</l>
-                    <l n="9">To enrich Apothecaries <note type="etymological"><term>Apothecaries</term>One who kept a store or shop of non-perishable commodities, spices, drugs, comfits, preserves, etc. (OED n. “apothecary” 1). In the context of The Constant Maid,  it could mean to better one’s self financially or otherwise.</note>.</l>
+                    <l n="9">To enrich Apothecaries. <note type="etymological"><term>Apothecaries</term>One who kept a store or shop of non-perishable commodities, spices, drugs, comfits, preserves, etc. (OED n. “apothecary” 1). In the context of The Constant Maid,  it could mean to better one’s self financially or otherwise.</note></l>
                 </sp>
                 <sp>
                     <speaker>Doctor</speaker>
@@ -1665,8 +1666,8 @@
                     <l n="43">Unckle, if you'l procure a dispensation</l>
                     <l n="44">To marrie me your selfe, deduct the charge</l>
                     <l n="45">Out of my portion, I could love an old man</l>
-                    <l n="46">Rarely, <hi rend="italic"> An old man with a bed full of bones &amp;
-                            c.</hi><note type="itertextual">The Neece could be singing “The Old Man
+                    <l n="46">Rarely, <hi rend="italic"> An old man with a bed full of bones &amp;c.
+                            </hi><note type="itertextual">The Neece could be singing “The Old Man
                             with a Bed Full of Bones”, an English Country Dance first recorded in
                             the <name rend="italic">Lovelace Manuscript,</name> a document that
                             contains poems, songs and dances written between 1621 and 1649.
@@ -1696,7 +1697,7 @@
                     <l n="59">Faith how many Churches doe you meane to build</l>
                     <l n="60">Before you die? six bels in everie steeple,</l>
                     <l n="61">And let'em all goe to the Citie tune,</l>
-                    <l n="62"><hi rend="Italic">Turne agen Whittington;</hi><note
+                    <l n="62"><hi rend="italics">Turne agen Whittington;</hi><note
                             type="intertextual">The Neece refers to a ballad about Richard
                             Whittington (c. 1354–1423), a wealthy merchant and later Lord Mayor of
                             London. The legend says he made a fortune through the sale of his cat to
@@ -1741,7 +1742,7 @@
                     <l n="79">That's given already; it were sin and pitie</l>
                     <l n="80">To abuse the dead: but 'tis no matter, Unckle,</l>
                     <l n="81">You'll be as famous for pulling downe the parish,</l>
-                    <l n="82">The Church will fall of it selfe, ><hi rend="italic">With ding dong
+                    <l n="82">The Church will fall of it selfe, <hi rend="italic">With ding dong
                             bell.</hi><note type="intertextual">Ding Dong Bell is a nursery rhyme, a
                             traditional song for children, first recorded in 1580 by John Lant, the
                             organist of Winchester Cathedral. The phrase “Ding Dong Bell” appears in
@@ -1759,7 +1760,7 @@
                     <l n="85">Why the Corne-cutter:</l>
                     <l n="86">Poore Gentleman, he meant no hurt to the Citie,</l>
                     <l n="87">His feet were verie wearie, and that made him</l>
-                    <l n="88">In everie street cry out; ><hi rend="italic">Ha yee any
+                    <l n="88">In everie street cry out; <hi rend="italic">Ha yee any
                             cornes</hi><note type="intertextual">Given the context of the scene and
                             the previous references, "Ha yee any cornes in your head or toes" is
                             probably an allusion to another old English song. However, the title is
@@ -1793,7 +1794,7 @@
                     <l n="96">As a Hawke; what do you dreame on?</l>
                     <l n="97">What Ladies timpany is your next cure?</l>
                     <l n="98">Or whose stale body must be rectified</l>
-                    <l n="99">Next with a glister<note type="etymological"><term> glister</term>A glistering; a bright light, brilliance, lustre (OED, n. 1). In the 1833 edition “glister” is replaced by “clyster”. The Neece says “Next with a clyster?” Clyster refers to a medicine injected into the rectum, to empty or cleanse the bowels, to afford nutrition, etc.; an injection, enema; sometimes, a suppository (OED n, 1a). The reason for this change is unclear.</note>?</l>
+                    <l n="99">Next with a glister?<note type="etymological"><term> glister</term>A glistering; a bright light, brilliance, lustre (OED, n. 1). In the 1833 edition “glister” is replaced by “clyster”. The Neece says “Next with a clyster?” Clyster refers to a medicine injected into the rectum, to empty or cleanse the bowels, to afford nutrition, etc.; an injection, enema; sometimes, a suppository (OED n, 1a). The reason for this change is unclear.</note></l>
                 </sp>
                 <sp>
                     <speaker>Pursevant</speaker>
@@ -1822,12 +1823,12 @@
                     <l n="113">Delight to couzen him of his subsidies;</l>
                     <l n="114">I alwayes live obscurely, to avoyd</l>
                     <l n="115">Taxations, I never pay the Church</l>
-                    <l n="116">Her superstitious tithes<note type="etymological"><term>tithes.</term> A tenth of annual produce or earnings, taken
+                    <l n="116">Her superstitious tithes,<note type="etymological"><term>tithes.</term> A tenth of annual produce or earnings, taken
                             as a tax (originally in kind) for the support of the church and clergy;
                             this system of taxation; now chiefly <name rend="italic"
                                 >historical.</name> Later also, in certain religious denominations:
                             one tenth of an individual's income, pledged to the church (OED n.2.
-                            1a).</note>, nor come to trouble</l>
+                            1a).</note> nor come to trouble</l>
                     <l n="117">Sermons, for feare of homilies before,</l>
                     <l n="118">That beg for burning.</l>
                 </sp>
@@ -1842,10 +1843,10 @@
                     <l n="122"> As I was borne; I see my chattell ceas'd,</l>
                     <l n="123">This chest is ransackt, and that bag deflour'd,</l>
                     <l n="124">My doore seal'd up, and with this hungrie Messenger,</l>
-                    <l n="125">I am already marching to the Fleet<note type="contextual">Most
+                    <l n="125">I am already marching to the Fleet.<note type="contextual">Most
                             certainly a reference to Fleet Prison, a prison by the side of the River
                             Fleet in London. It was mainly used for debtors and
-                        bankrupts.</note>.</l>
+                        bankrupts.</note></l>
                 </sp>
                 <sp>
                     <speaker>Neece</speaker>
@@ -2202,7 +2203,7 @@
                     <l n="131">When as before 'twas not impossible,</l>
 
 	<pb n="27" xml:id="TCMp30.jpg" facs="data/images/single/TCMp30.jpg"/>
-             <fw place="top-center" type="head">ACT II. SCENE III.</fw>
+             <fw place="top-center" type="head">ACT III. SCENE I.</fw>
                     <l n="132">In time I might be brought to pity thee;</l>
                     <l n="133">Henceforth I'll look upon thee as my sins,</l>
                     <l n="134">And beg as much forgivenesse that I knew thee.</l>
@@ -2317,7 +2318,7 @@
                    </sp>
                    
                    <sp><speaker>Close</speaker>
-                      <l n="33">Your worship may trust me a bed with— I</l>
+                      <l n="33">Your worship may trust me a bed with—I</l>
                       <l n="34">Have had a itch this great while, sir, a kinde</l>
                       <l n="35">Of longing to be one of your appurtenances:</l>
                       <l n="36">I have some faults, and I'll confesse 'em; I have</l>
@@ -2618,7 +2619,7 @@
                   <sp>
                      <speaker>Playfaire</speaker>
                      <l n="43">'Tis a meere conceit,</l>
-                     <l n="44">They were an honest mans, upon my knowledge,</l>
+                     <l n="44">They were an honest man's, upon my knowledge,</l>
                      <l n="45">A Captaine of the traine Band in the Countrey,</l>
                      <l n="46">They were brought against the generall Master last;</l>
                      <l n="47">He wore 'em that day, and to Church the Sunday</l>
@@ -3602,7 +3603,7 @@
                         <l n="103">Well, I must hope the best; What shall I do</l>
                         <l n="104">With my hen-hearted lover, that would give</l>
                         <l n="105">Halfe his estate his colde fit were well over:</l>
-                        <l n="106">I shall make worke for the Physicians :</l>
+                        <l n="106">I shall make worke for the Physicians:</l>
                         <l n="107">Candles and Cullices will never restore him;</l>
                         <l n="108">If he but scape with life, I am not sorry,</l>
                         <l n="109">He may be a souldier, and indure the trenches;</l>
@@ -5513,7 +5514,7 @@
                         <speaker>Hartwell</speaker>
                         <l n="57">Tell me, most unkinde, if thou didst love</l>
                         <l n="58">At all? How couldst thou thinke I should be such</l>
-                        <l n="59">A desperate Atheist, that thou so soone,</l>
+			    <l n="59">A desperate <name rend="italics">Atheist</name>, that thou so soone,</l>
                         <l n="60">And with a strange Apostacy<note type="etymological">
                                 <term>apostacy.</term>Abandonment or renunciation of one's religious
                                 faith or moral allegiance. (OED n. 1a)</note> should'st revenge
@@ -5676,7 +5677,7 @@
 
                     <sp>
                         <speaker>Startup</speaker>
-                        <l n="131">Shall we be hang'd, <name rend="italics">Close,</name> we are
+                        <l n="131">Shall we be hang'd, <name rend="italics">Close</name>, we are
                             condemn'd already.</l>
                     </sp>
 
@@ -5700,7 +5701,7 @@
 
                     <sp>
                         <speaker>Close</speaker>
-                        <l n="138">Well said<name rend="italic">Jeronimo</name>.</l>
+                        <l n="138">Well said <name rend="italic">Jeronimo</name>.</l>
                     </sp>
 
                     <sp>
@@ -5997,9 +5998,9 @@
 
                     <sp>
                         <speaker>Cousen</speaker>
-                        <l n="222">I saw the Priest conjoyne'em<note type="etymological">
+                        <l n="222">I saw the Priest conjoyne'em:<note type="etymological">
                                 <term> †conjoyn. </term> Unite in marriage. <name rend="italics"
-                                    >Obsolete.</name> (OED. v. 1c) </note>:</l>
+                                    >Obsolete.</name> (OED. v. 1c) </note></l>
                         <l n="223">He will deserve your love.</l>
                     </sp>
 
@@ -6135,6 +6136,7 @@
                             <p>T.B.</p>
                         </note></stage>
                         <fw place="top-center" type="head"><hi rend="italic">The Scene,</hi> London.</fw>
+			<fw place="bottom-center" type="footer">FINIS.</fw>
                 </div>
             </div>
                 <pb n="Back" xml:id="TCMbackcover.jpg" facs="data/images/single/TCMbackcover.jpg"/>
