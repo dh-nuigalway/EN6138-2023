@@ -321,7 +321,7 @@
             </div>
             <div type="scene" n="2">
                 <pb n="4" xml:id="TCMp7.jpg" facs="data/images/single/TCMp7.jpg"/>
-                    <fw place="top-center" type="head">ACT I. SCENE II.</fw>
+                <fw place="top-center" type="head">ACT I. SCENE II.</fw>
                     
                     <sp>
                         <speaker>Playfaire</speaker>
@@ -388,7 +388,7 @@
                     
                 </div>
                     <div type="scene" n="2">
-                        <head>SCENE II.</head>
+                        <head place="center">SCENE II.</head>
                         <stage type="location" place="center">A Room in Mistresse Bellamy’s House.</stage>
                         <stage type="entrance" place="center">Enter Hornet, Mistresse Bellamy.</stage>
                         
@@ -1539,7 +1539,7 @@
                     <l n="205">invite him?</l>
                 </sp>
 	<pb n="19" xml:id="TCMp22.jpg" facs="data/images/single/TCMp22.jpg"/>
-             <fw place="top-center" type="head">ACT II. SCENE II.</fw>
+            <fw place="top-center" type="head">ACT II. SCENE II.</fw>
                 <sp>
                     <speaker>Startup</speaker>
                     <l n="206">Sweet Sir, I invite no body, if you love any body here?</l>
@@ -1624,7 +1624,7 @@
 		</div>
                 <div type="scene" n="2">
 	<pb n="20" xml:id="TCMp23.jpg" facs="data/images/single/TCMp23.jpg"/>
-             <fw place="top-center" type="head">ACT II. SCENE II.</fw>
+            <fw place="top-center" type="head">ACT II. SCENE II.</fw>
                 <sp>
                     <speaker>Hornet</speaker>
                     <l n="23">I complain'd before</l>
@@ -1851,7 +1851,7 @@
                     <speaker>Neece</speaker>
                     <l n="126">Nay, and you be at that ward, I must leave you,</l>
 	 <pb n="23" xml:id="TCMp26.jpg" facs="data/images/single/TCMp26.jpg"/>
-              <fw place="top-center" type="head">ACT II. SCENE III.</fw>
+            <fw place="top-center" type="head">ACT II. SCENE III.</fw>
                     <l n="127">Fare well, pray do not lift my Uncle too hard;</l>
                     <l n="128">And so I leave you both to the mercy of the Bear-garden.</l>
                 </sp>
@@ -2340,7 +2340,7 @@
                       <l n="53">Among the Prentices, without fear or wit.</l>
                    </sp>
             <pb n="29" xml:id="TCMp32.jpg" facs="data/images/single/TCMp32.jpg"/>
-                      <fw place="top-center" type="head">ACT III. SCENE I.</fw>
+                    <fw place="top-center" type="head">ACT III. SCENE I.</fw>
                 
                 <sp><speaker>Startup</speaker>
                     <l n="54">I like this humour.</l></sp>
@@ -2402,7 +2402,7 @@
                     <l n="89">Be tricks, and he may be surprized in the Chamber,</l></sp>
                 
             <pb n="30" xml:id="TCMp33.jpg" facs="data/images/single/TCMp33.jpg"/>
-                   <fw place="top-center" type="head">ACT III. SCENE II.</fw>
+                <fw place="top-center" type="head">ACT III. SCENE II.</fw>
                    
                  <sp>
                    <l n="90">And she may be compell'd to marry him in</l>
@@ -3025,7 +3025,7 @@
                      <l n="176">An active State-man.</l>
                   </sp>
         <pb n="36" xml:id="TCMp39.jpg" facs="data/images/single/TCMp39.jpg"/>
-                  <fw place="top-center" type="head">ACT III. SCENE III.</fw>
+            <fw place="top-center" type="head">ACT III. SCENE III.</fw>
                   
                   <sp>
                      <speaker>Hornet</speaker>
