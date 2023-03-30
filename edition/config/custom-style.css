@@ -59,7 +59,7 @@ span.stage[data-type="exit"]{
 
 }
 span.head[data-type="head"]{
-	text-align : center;
+	text-align:center;
 }
 
 span.fw{
