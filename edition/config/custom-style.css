@@ -56,5 +56,15 @@ span.stage{
 }
 span.stage[data-type="exit"]{
 	text-align : right;
-	
+
 }
+span.head[data-type="center"]{
+	text-align : center;
+}
+
+span.fw{
+	margin-top: 1em;
+	margin-bottom : 1em;
+}
+
+
