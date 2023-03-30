@@ -40,7 +40,7 @@
           
             <pb n="III" xml:id="TCMp3.jpg" facs="data/images/single/TCMp3.jpg"/>
              <div type="characterlist">
-                <head place="center">The names of the Persons.</head>
+                <head place="center" type="head">The names of the Persons.</head>
       
                 <l n="1">Hornet, <hi rend="italic">a rich Usurer.</hi></l>
                 <l n="2">Hartwell, <hi rend="italic">a young Gentleman, Lover of Mistresse</hi>
@@ -388,7 +388,7 @@
                     
                 </div>
                     <div type="scene" n="2">
-                        <head place="center">SCENE II.</head>
+                        <head place="center" type="head">SCENE II.</head>
                         <stage type="location" place="center">A Room in Mistresse Bellamy’s House.</stage>
                         <stage type="entrance" place="center">Enter Hornet, Mistresse Bellamy.</stage>
                         
@@ -1577,7 +1577,7 @@
                 
             </div>
             <div type="scene" n="2">
-                <head place="center">SCENE II.</head>
+                <head place="center" type="head">SCENE II.</head>
                 <stage type="location" place="center">A Room in Hornet’s House.</stage>
                 <stage type="entrance" place="center">Enter Hornet, Playfaire’s Cousen disguised as a Doctor.</stage>
                 
@@ -1894,7 +1894,7 @@
           
             </div>
             <div type="scene" n="3">
-                <head place="center">SCENE III.</head>
+                <head place="center" type="head">SCENE III.</head>
                 <stage type="location" place="center">A Room in Mistresse Bellamy's House.</stage>
                 <stage type="entrance" place="center">Enter Nurse and Startup.</stage>
           
@@ -2238,7 +2238,7 @@
             
                 <stage type="exit" place="right">Exeunt.</stage>
                    <div type="act" n="3">
-               <head place="center">ACT III. SCENE I.</head>
+               <head place="center" type="head">ACT III. SCENE I.</head>
                 <div type="scene" n="1">
                    <stage type="location" place="center">Another Room In Mistresse Bellamy's House.</stage>
                    <stage type="entrance" place="center">Enter Nurse and Startup.</stage>
@@ -2477,7 +2477,7 @@
                 </div>
                
                <div type="scene" n="2">
-                  <head place="center">SCENE II.</head>
+                  <head place="center" type="head">SCENE II.</head>
                   
                   <stage type="location" place="center">A Room in Justice Clement's House. A banquet set out.</stage>
                   <stage type="entrance" place="center">Enter Playfaire and his Cousen.</stage>
@@ -3132,7 +3132,7 @@
                   
                </div>
                <div type="scene" n="3">
-                  <head place="center">SCENE III.</head>
+                  <head type="head" place="center">SCENE III.</head>
                   
                   <stage type="location" place="center">The Street near Mistresse Bellamy's House</stage>
                   
@@ -3178,7 +3178,7 @@
                    
                 </div>
                <div type="scene" n="4">
-                  <head place="center">SCENE IV.</head>
+                  <head place="center" type="head">SCENE IV.</head>
                   
                   <stage type="location" place="center">A Room in Mistresse Bellamy's House.</stage>
                   <stage type="entrance" place="center">Enter Nurse, and Mistresse Frances.</stage>
@@ -3347,7 +3347,7 @@
 		</div>
             </div>
             <div type="act" n="4">
-		    <head place="center">ACT IV. SCENE I.</head>
+		    <head place="center" type="head">ACT IV. SCENE I.</head>
                 <div type="scene" n="1">
 			<stage type="location" place="center">The Fields.</stage>
                     <stage type="entrance" place="center">Enter Startup, wrapped in a blanket, followed by Close.</stage>
@@ -3792,7 +3792,7 @@
                 </div>
 
                 <div type="scene" n="2">
-                    <head place="center">SCENE II.</head>
+                    <head place="center" type="head">SCENE II.</head>
 
                     <stage type="location" place="center">A Room in mistresse Bellamy's
                         Home.</stage>
@@ -4299,7 +4299,7 @@
                 </div>
 
                 <div type="scene" n="3">
-                    <head place="center">SCENE III.</head>
+                    <head place="center" type="head">SCENE III.</head>
 
                     <stage type="location" place="center">A Room in Justice Clement's House.</stage>
                     <stage type="entrance" place="center">Enter Playfaire and his Cousen.</stage>
@@ -5034,7 +5034,7 @@
                     <stage type="exit" place="right">Exeunt.</stage>
                 </div>
                 <div type="scene" n="2">
-                    <head place="center">SCENE II.</head>
+                    <head place="center" type="head">SCENE II.</head>
 
                     <stage type="location" place="center">A Room in Hornet’s House.</stage>
                     <stage type="entrance" place="center">Enter Hornet.</stage>
