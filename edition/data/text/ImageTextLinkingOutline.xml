@@ -3218,7 +3218,7 @@
                      <l n="21">Severely put to't.</l>
                   </sp>
                   
-                  <stage type="entrance" place="center">Nurse brings in Hartwell in Startups clothes.</stage>
+                  <stage type="entrance" place="center">Nurse brings in Hartwell in Startup's clothes.</stage>
                   
                    <sp><speaker>Nurse</speaker>
                      <l n="22">On like a bold Captaine,</l>
@@ -3296,7 +3296,7 @@
                       <l n="52">Planet-struck.</l>
                    </sp>
                    
-                   <stage type="entrance" place="center">Enter Nurse with a lantern.</stage>
+                   <stage type="entrance" place="center">Re-enter Nurse with a lantern.</stage>
                    
                    <sp><speaker>Nurse</speaker>
                       <l n="53">Away, your mother's up; I wo'd not for</l>
@@ -3307,7 +3307,7 @@
                       <l n="55">I have undone my selfe.</l>
                    </sp>
                    
-                   <stage type="exit" place="right">Exit Frances.</stage>
+                   <stage type="exit" place="right">Exit.</stage>
                    
                    <sp><speaker>Nurse</speaker>
                       <l n="56">Sweet Mr. <name rend="italic">Startup</name>, to your owne lodging,</l>
@@ -3401,7 +3401,7 @@
                         <speaker>Startup</speaker>
                         <l n="22">What shall I do?</l>
                     </sp>
-                <pb n="40" xml:id="TCMp43.jpg" facs="data/images/single/TCMp43.jpg"/>
+      <pb n="40" xml:id="TCMp43.jpg" facs="data/images/single/TCMp43.jpg"/>
                 <fw place="top-center" type="head">ACT IV. SCENE I.</fw>
 
                     <sp>
@@ -3411,6 +3411,7 @@
                         <l n="25">To my annuity: Now I feare no spirits;</l>
                         <l n="26">This riches makes us cowards; Hide your selfe,</l>
                         <l n="27">I will go neerer.</l>
+			    <stage type="exit" place="right">Exit.</stage>
                     </sp>
 
                     <sp>
@@ -3426,7 +3427,7 @@
                         <l n="35">They would make false Dyce, there's quicksilver in 'em,</l>
                         <l n="36">I know already by their dancing.</l>
                     </sp>
-
+			<stage type="entrance" place="right">Re-enter Close.</stage>
                     <sp>
                         <speaker>Close</speaker>
                         <l n="37">Sir, where are you?</l>
@@ -3719,6 +3720,8 @@
                     <sp>
                         <speaker>Startup</speaker>
                         <l n="143">Here in the ditch.</l>
+			    <stage type="delivery" place="center">Within.</stage>
+			    <stage type="exit" place="right">Exeunt Watchmen.</stage>
                     </sp>
 
                     <sp>
@@ -3794,8 +3797,7 @@
                 <div type="scene" n="2">
                     <head place="center" type="head">SCENE II.</head>
 
-                    <stage type="location" place="center">A Room in mistresse Bellamy's
-                        Home.</stage>
+                    <stage type="location" place="center">A Room in Mistresse Bellamy's Home.</stage>
                     <stage type="entrance" place="center">Enter Mistresse Bellamy and Nurse.</stage>
 
                     <sp>
@@ -3804,7 +3806,7 @@
                         <l n="2">See if the Gentleman be a bed; I'm troubled.</l>
                     </sp>
 
-                    <stage type="entrance" place="right">Nurse Exits and then re-enters.</stage>
+                    <stage type="entrance" place="right">Nurse exits and then re-enters with Hartwell's clothes.</stage>
 
                     <sp>
                         <speaker>Nurse</speaker>
@@ -3834,6 +3836,7 @@
                     <sp>
                         <speaker>Nurse</speaker>
                         <l n="8">I dare not tell her of his shift, they're gone,</l>
+			    <stage type="delivery" place="right">Aside.</stage>
                         <l n="9">The doores I found left open, and no signe</l>
                         <l n="10">Which way they are bestowed.</l>
                     </sp>
@@ -3856,6 +3859,7 @@
                         <l n="16">To leave my house so late, and Mr. <name rend="italic"
                                 >Hartwell</name></l>
                         <l n="17">Without his clothes? Some knock there:</l>
+			    <stage type="business" place="right">Nurse goes to the door and returns.</stage>
                         <l n="18">Beshrew me but I trembled.</l>
                     </sp>
 
@@ -3879,6 +3883,7 @@
                     <sp>
                         <speaker>Bellamy</speaker>
                         <l n="24">Has he no name? what should this meane?</l>
+			    <stage type="business" place="right">Nurse goes to the door again.</stage>
                     </sp>
 
                     <sp>
@@ -3996,7 +4001,7 @@
                         <l n="65">But love still apprehends too much, or nothing.</l>
                     </sp>
 
-                    <stage type="exit" place="right">Exit Countrey-man.</stage>
+                    <stage type="exit" place="right">Exeunt Countrey-man and Nurse.</stage>
 
                     <sp>
                         <speaker>Bellamy</speaker>
@@ -4481,6 +4486,7 @@
                         <l n="70">Sir <name rend="italic">Clement</name>, these three houres, and I
                             do wonder</l>
                         <l n="71">His Grace forgets himselfe so much.</l>
+			    <stage type="novelistic" place="right">Flourish.</stage>
                     </sp>
                     <stage type="delivery">Flourish</stage>
 
@@ -4545,7 +4551,7 @@
                         <l n="96">You'll follow.</l>
                     </sp>
 
-                    <stage type="Exit" place="right">Exeunt everyone but Hornet.</stage>
+                    <stage type="Exit" place="right">Exeunt all but Hornet.</stage>
 
                     <sp>
                         <speaker>Hornet</speaker>
@@ -4602,6 +4608,7 @@
                         <l n="127">I doe dreame certainly, there's no sense nor reason</l>
                         <stage type="delivery"> Aside.</stage>
                         <l n="128">In any thing they say.</l>
+			    <stage type="delivery" place="right">Aside.</stage>
                     </sp>
 
                     <sp>
@@ -4618,7 +4625,7 @@
                         <l n="137">Back, they are rude already.</l>
                     </sp>
 
-                    <stage type="Exit" place="right">Sir. Clement Exits — Knocking from within. </stage>
+                    <stage type="Exit" place="right">Exit — Knocking from within. </stage>
 
                     <sp>
                         <speaker>Hornet</speaker>
@@ -4641,6 +4648,7 @@
                         <l n="145">Here, and she be with child already?</l>
                         <l n="146">'Tell thee none such shall be admitted, while</l>
                         <l n="147">I am in place: More rapping? Keep the doores,</l>
+			    <stage type="business" place="right">Knocking from within.</stage>
                         <l n="148">If I do fall a swearing once, look to't.</l>
                     </sp>
 
@@ -4675,6 +4683,7 @@
 
                        <sp><l n="160">To see the Gally foist, then be confined</l>
                         <l n="161">To their Chamber, and one Prentice—yet agen.</l>
+			       <stage type="business" place="right">Knocking from within.</stage>
                     </sp>
 
                     <sp>
@@ -4689,7 +4698,7 @@
                     </sp>
 
                     <sp>
-                        <speaker>Scrivenor</speaker>
+                        <speaker>Within</speaker>
                         <l n="164">I am your Scrivenor.</l>
                     </sp>
 
@@ -4703,7 +4712,7 @@
                     </sp>
 
                     <sp>
-                        <speaker>Scrivenor</speaker>
+                        <speaker>Within</speaker>
                         <l n="170">Sir <name rend="italic">Giles</name>, here's your <name
                                 rend="italic">Neece</name>.</l>
                     </sp>
@@ -4763,6 +4772,7 @@
                         <l n="183">The knaves laugh at me, but let 'em, I</l>
                         <l n="184">Shall be as merry with this tale to morrow:</l>
                         <l n="185">What fancies men have in their sleep sometimes?</l>
+			    <stage type="novelistic" place="right">Flourish.</stage>
                         <l n="186">His Highnesse.</l>
 
                         <stage type="entrance" place="center">Re-enter Sir. Clement, Cousen and
@@ -4789,19 +4799,19 @@
                     <sp>
                         <speaker>Lord 1</speaker>
                         <l n="191">Wilt please your Grace?</l>
-                        <stage type="delviery">Gives papers to the King (Cousen) and Hornet.</stage>
-
-                        <l n="192">And you Sir <name rend="italic">Giles</name>, the subject of the
-                            Masque.</l>
+			    
+                        <l n="192">And you Sir <name rend="italic">Giles</name>, the subject of the Masque.</l>
+			    <stage type="delviery">Gives papers to the King (Cousen) and Hornet.</stage>
                     </sp>
 
                     <sp>
                         <speaker>Hornet</speaker>
                         <l n="193">What's here, the three Goddesses</l>
+			    <stage type="delivery" place="right">Reads.</stage>
 			    <l n="194">Contention for the golden ball?</l></sp>
 
 		<pb n="55" xml:id="TCMp58.jpg" facs="data/images/single/TCMp58.jpg"/>
-			                        <fw place="top=center" type="head">ACT IV. SCENE III.</fw>
+		<fw place="top=center" type="head">ACT IV. SCENE III.</fw>
 
                         <stage type="entrance" place="center">Enter Playfaire as Paris, dancing,
                             with a Golden Ball in his hand.</stage>
@@ -4816,7 +4826,7 @@
                     </sp>
 
                     <stage type="business" place="center">The Goddesses dance, and court Paris for
-                        his Ball: Juno enters one like a King; Takes his Crowne and Scepter, offers
+                        his Ball. To Juno enters one like a King. Takes his Crowne and Scepter, offers
                         it to Paris, he refuses.</stage>
 
                     <sp>
@@ -4898,8 +4908,7 @@
                         <l n="216">Ha, ha, I do dreame still.</l>
                     </sp>
 
-                    <stage type="business" place="center">Cupid joins their hands and sings, exits
-                        with Playfaire and Neece.</stage>
+                    <stage type="business" place="center">Cupid joins their hands and sings, which done, exeunt Masquers.</stage>
 
                     <sp>
                         <speaker>Cousen</speaker>
@@ -5639,8 +5648,7 @@
 
                     <stage type="exit" place="right">Exit Servant.</stage>
 
-                    <stage type="entrance" place="center">Enter Constable, Startup, Close and
-                        Officers.</stage>
+                    <stage type="entrance" place="center">Enter Constable, Startup, Close, Watchmen.</stage>
 
                     <sp>
                         <speaker>Constable</speaker>
