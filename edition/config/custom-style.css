@@ -58,7 +58,7 @@ span.stage[data-type="exit"]{
 	text-align : right;
 
 }
-span.head[data-place="center"]{
+span.head[data-type="head"]{
 	text-align : center;
 }
 
