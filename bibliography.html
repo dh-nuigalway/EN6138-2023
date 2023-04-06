@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" data-bs-theme="dark">
+<html lang="en" data-bs-theme="light">
 
 <head>
   <meta charset="utf-8">
@@ -19,15 +19,18 @@
 </head>
 
 <body>
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="bootstrap/js/bootstrap.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.min.js" integrity="sha384-heAjqF+bCxXpCWLa6Zhcp4fu20XoNIA98ecBC1YkdXhszjoejr5y9Q77hIrv8R9i" crossorigin="anonymous"></script>
+
   <nav class="navbar bg-body-tertiary">
     <div class="container-fluid">
       <a class="navbar-brand" href="index.html">
-        <img src="UGLogo1.png" alt="Logo" width="50" height="50" class="d-inline-block align-text-centre">
-        The Constant Maid by James Shirley
+        <img src="UGLogo2.png" alt="Logo" width="60" height="75" class="d-inline-block align-text-centre">
+        <em>The Constant Maid</em> by James Shirley
       </a>
-      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <nav class="navbar navbar-expand-lg bg-body-tertiary p-2">
         <div class="container-fluid">
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -49,57 +52,65 @@
             </ul>
             <form class="d-flex" role="search">
               <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-outline-success" type="submit">Search</button>
+              <button class="btn btn-outline-danger" type="submit">Search</button>
             </form>
           </div>
         </div>
       </nav>
+    </div>
+  </nav>
       <div class="row">
         <div class="col-2">
-          <nav id="navbar-example3" class="h-100 flex-column align-items-stretch pe-4 border-end">
-            <nav class="nav nav-pills flex-column">
-              <a class="nav-link" href="#item-1">Bibliography</a>
-              <a class="nav-link" href="#item-2">Bibliography 1</a>
-              <a class="nav-link" href="#item-3">Bibliography 2</a>
-            </nav>
-          </nav>
-        </div>
-        <div class="col-lg-8 mx-auto p-3 py-md-5">
-          <header class="d-flex align-items-center pb-3 mb-5 border-bottom">
-            <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
-            </a>
-          </header>
-          <main>
-            <h1>Bibliography</h1>
-            <h2>Digital Scholarly Edition</h2>
-            <h3>Produced by students of EN6138: Digital Scholarly Editing at University of Galway, 2023</h3>
-            <p class="fs-5 col-md-8">Quickly and easily get started with Bootstrap's compiled, production-ready files
-              with this barebones example featuring some basic HTML and helpful links. Download all our examples to get
-              started.</p>
-
-
-            <hr class="col-3 col-md-2 mb-5">
-
-            <div class="row g-5">
-              <div class="col-md-6">
-                <h2>Project Navigation</h2>
-                <p>Links to some sample pages, and a copy of EVT for this project</p>
-                <ul class="icon-list">
-                  <li><a href="about.html">About the Project</a></li>
-                  <li><a href="edition/">EVT Edition</a></li>
-                </ul>
-              </div>
-
-              <div class="col-md-6">
-                <h2>Guides</h2>
-                <p>Read more detailed instructions and documentation on using or contributing to Bootstrap.</p>
-                <ul class="icon-list">
-                  <li><a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap quick start
-                      guide</a></li>
-                </ul>
-
-              </div>
+          <div class="accordion accordion-flush" id="accordionFlushExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                  <a href="bibliography.html" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Bibliography</a>
+                </button>
+              </h2>
             </div>
+          </div>
+        </div>
+
+  <div class="col-lg-8 mx-auto p-3 py-md-5">
+    <h1>Bibliography</h1>
+    <br>
+            <p>Britannica, The Editors of Encyclopaedia. "Blank Verse". Encyclopedia Britannica, 18 Oct. 2019, <a href="https://www.britannica.com/art/blank-verse" target="_blank">https://www.britannica.com/art/blank-verse</a>. Accessed 15 March 2023.</p>
+            <p>Britannica, The Editors of Encyclopaedia. "James Shirley". Encyclopedia Britannica, 28 Aug. 2022, <a href="https://www.britannica.com/biography/James-Shirley" target="_blank">https://www.britannica.com/biography/James-Shirley</a>. Accessed 15 March 2023.</p>
+            <p>Clavin, Terry. “Shirley, James.” <em>Shirley, James | Dictionary of Irish Biography</em>, <a href="https://www.dib.ie/biography/shirley-james-a8062" target="_blank">https://www.dib.ie/biography/shirley-james-a8062.</a></p>
+            <p>Clark, Ira. “Shirley, James (Bap. 1596, d. 1666), Playwright and Poet.” <em>Oxford Dictionary of National Biography</em>, 28 May 2015. Oxford University Press.</p>
+            <p>Cousins, Kathryn McCambridge. <em>The Role of the Narrative in James Shirley's Tragicomedies</em>. 1969. Fordham University, PhD dissertation. ProQuest.</p>
+            <p>Gossett, Suzanne. “Recent Studies in the English Masque.” <em>English Literary Renaissance</em>, vol. 26, no. 3, 1996, pp. 586–627. JSTOR.</p>
+            <p>“James Shirley ‘Death the Leveller’ - ‘The Glories of our Blood and State’ Poem Animation.” Youtube, uploaded by Poetryreincarnation, 29 March 2011, <a href="https://www.youtube.com/watch?v=45dPT-wUoiA" target="_blank">https://www.youtube.com/watch?v=45dPT-wUoiA</a>. Accessed 1 March 2023.</p>
+            <p>Kalmar, Elaine Bush. <em>Misery of Birth and State Essays on the Tragedies of James Shirley</em>. 1971. University of New Mexico, PhD dissertation. <em>ProQuest Ebook Central</em>.</p>
+            <p>Kitishat, Amal Riyadh. “Colonialism and the Recreation of Identity: The Irish Theatre as Case Study.” <em>Journal of Language and Culture</em> 3, no. 5, 2012, pp. 83-86.</p>
+            <p>Lublin, Robert I. “Shirley’s Dublin Days: A nervous première of St. Patrick for Ireland.” <em>James Shirley and Early Modern Theatre: New Critical Perspectives</em>. Edited by Barbara Ravelhofer, Taylor & Francis Group, 2016, pp. 108-23. <em>ProQuest Ebook Central</em>.</p>
+            <p>McGrath, Juliet. “James Shirley’s Uses of Language.” <em>Studies in English Literature, 1500-1900</em>, vol. 6, no. 2, 1966, pp. 323–39. <em>JSTOR</em>.</p>
+            <p>Morash, Christopher. <em>A History of Irish Theatre:1601-2000</em>. Cambridge University Press, 2002.</p>
+            <p>Morton, Richard. “Deception and Social Dislocation: An Aspect of James Shirley’s Drama.” <em>Renaissance Drama</em>, vol. 9, 1966, pp. 227–45. <em>JSTOR</em>.</p>
+            <p>Noling, Kim H. “Recent Studies In James Shirley.” <em>English Literary Renaissance</em>, vol. 37, no. 3, 2007, pp. 450–65. <em>JSTOR</em>.</p>
+            <p><em>Oxford English Dictionary</em>. Oxford University Press.</p>
+            <p>Parlin, Hanson T. “A Study in Shirley’s Comedies of London Life.” <em>Studies in English</em>, no. 2, 1914, pp. i–68. <em>JSTOR</em>.</p>
+            <p>Plomer, Henry R. <em>A Dictionary of the Booksellers and Printers Who Were at Work in England, Scotland and Ireland from 1641 to 1667</em>. Blades, East & Blades, 1907.</p>
+            <p>Princic, Walter F. “The Tragedies Of James Shirley: A Study Of Themes And Images.” <em>University of Illinois at Urbana-Champaign</em>, 1974. <em>ProQuest Ebook Central</em>.</p>
+            <p>Ravelhofer, Barbara. <em>The Early Stuart Masque: Dance, Costume, and Music</em>. Oxford University Press, Incorporated, 2006. <em>ProQuest Ebook Central</em>.</p>
+            <p>Ravelhofer, Barbara, editor. <em>James Shirley and Early Modern Theatre: New Critical Perspectives</em>, Taylor & Francis Group, 2016. <em>ProQuest Ebook Central</em>.</p>
+            <p>Riemer, A. P. “Shirley’s Revisions and the Date of <em>The Constant Maid</em>.” <em>The Review of English Studies</em>, vol. 17, no. 66, 1966, pp. 141–48. <em>JSTOR</em>.</p>
+            <p>Sanders, Julie. <em>Caroline Drama: The Plays of Massinger, Ford, Shirley and Brome</em>. Liverpool University Press, 1999. <em>JSTOR</em>.</p>
+            <p>Shirley, James. <em>The Dramatic Works and Poems of James Shirley</em>. John Murray, 1833.</p>
+            <p>Stevens, David. “The Stagecraft of James Shirley.” <em>Educational Theatre Journal</em>, vol. 29, no. 4, 1977, pp. 493–516. <em>JSTOR</em>.</p>
+            <p>Stevenson, Allan H. “James Shirley and the Actors at the First Irish Theater.” <em>Modern Philology</em>, vol. 40, no. 2, 1942, pp. 147–60. <em>JSTOR</em>.</p>
+            <p>Stevenson, Allan H. “Shirley’s Years in Ireland.” <em>The Review of English Studies</em>, vol. 20, no. 77, 1944, pp. 19–28. <em>JSTOR</em>.</p>
+            <p>Tarlinskaja, Marina. “Versification from Shakespeare to Shirley: Implications for performance.” <em>James Shirley and Early Modern Theatre: New Critical Perspectives</em>. Edited by Barbara Ravelhofer, Taylor & Francis Group, 2016, pp. 193-210. <em>ProQuest Ebook Central</em>.</p>
+            <p>Tilley, Morris Palmer. <em>A Dictionary of the Proverbs in England in the Sixteenth and Seventeenth Centuries: A Collection of the Proverbs Found in English Literature and the Dictionaries of the Period</em>. University of Michigan Press, 1950.</p>
+            <p>University of Nebraska–Lincoln. “What is TEI?”. <em>Center for Digital Research in the Humanities</em>, <a href="https://cdrh.unl.edu/articles/basicguide/TEI" target="_blank">https://cdrh.unl.edu/articles/basicguide/TEI</a>. Accessed 7 March 2023.</p>
+            <p>Williams, Justine Isabella. </em>The Irish Plays of James Shirley</em>, 1636-1640. 2010. The University of Warwick, PhD thesis.</p>
+            <p>“The Constant Maid (Love Will Find Out the Way). <em>A Digital Anthology of Early Modern English Drama</em>, <a href="https://emed.folger.edu/conmaid" target="_blank">https://emed.folger.edu/conmaid</a>. Accessed 29 March 2023.</p>
+
+
+
+              
+            
           </main>
           <footer class="pt-5 my-5 text-muted border-top">
             University of Galway, 2023
