@@ -24,6 +24,11 @@
     font-size: 5px!important;
 }
 
+span.note[data-type="etymological"] {
+background-color: orange ;
+
+}
+
 .evt_note .Etymological{
     background-color: orange;
     font-size: 5px!important;
