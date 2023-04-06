@@ -19,20 +19,20 @@
 /*                                                                   */
 
 /* ***************************************************************** */
-.evt_note.Contextual{
+.evt_note .Contextual{
     background-color: green;
     font-size: 5px!important;
 }
 
-.evt_note.Etymological{
+.evt_note .Etymological{
     background-color: orange;
     font-size: 5px!important;
     }
-.evt_note.intertextual{
+.evt_note .intertextual{
     background-color: grey;
     font-size: 5px!important;
     }
-.evt_note.Textual{
+.evt_note .Textual{
     background-color: yellow;
     font-size: 5px!important;
     }
