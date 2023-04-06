@@ -19,7 +19,7 @@
 /*                                                                   */
 
 /* ***************************************************************** */
-span.Contextual{
+.evt_note.Contextual{
     background-color: green;
     font-size: 5px!important;
 }
@@ -28,11 +28,11 @@ span.Contextual{
     background-color: orange;
     font-size: 5px!important;
     }
-span.Intertextual{
+.evt_note.intertextual{
     background-color: grey;
     font-size: 5px!important;
     }
-span.Textual{
+.evt_note.Textual{
     background-color: yellow;
     font-size: 5px!important;
     }
