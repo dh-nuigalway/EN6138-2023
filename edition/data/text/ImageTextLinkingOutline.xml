@@ -24,7 +24,9 @@
      <text n="The Constant Maid" xml:id="tcm">
         <body>
             <pb n="Cover" xml:id="TCMp1.0.jpg" facs="data/images/single/TCMp1.0.jpg"/>
+            <head place="center" type="head"> The Constant Maid </note> 
             <pb n="I" xml:id="TCMp1.1.jpg" facs="data/images/single/TCMp1.1.jpg"/>
+            <head place="center" type="head"> 644.c.59 </note>
             <pb n="II" xml:id="TCMp2.jpg" facs="data/images/single/TCMp2.jpg"/>
                 <l n="1">THE CONSTANT MAID</l>
 
