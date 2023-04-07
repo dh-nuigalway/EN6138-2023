@@ -19,23 +19,25 @@
 /*                                                                   */
 
 /* ***************************************************************** */
-note.Contextual{
-    background-color: green;
+evt_note.etymological{
+	span.contextual{
+    background-color: green; 
     font-size: 5px!important;
 }
 
-note.Etymological{
+span.Etymological{
     background-color: orange;
     font-size: 5px!important;
     }
-note.intertextual{
+span.intertextual{
     background-color: grey;
     font-size: 5px!important;
     }
-note.Textual{
+span.Textual{
     background-color: yellow;
     font-size: 5px!important;
     }
+}
 .term {
 	background-color: coral;
 	font-weight:900;
