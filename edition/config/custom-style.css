@@ -19,11 +19,17 @@
 /*                                                                   */
 
 /* ***************************************************************** */
-evt_note.etymological{
-	span.contextual{
+
+	evt_note.contextual{
     background-color: green; 
     font-size: 5px!important;
 }
+
+evt_note.note[data-type="etymological]
+{
+    background-color: orange;
+    font-size: 5px!important;
+    }
 
 span.Etymological{
     background-color: orange;
@@ -37,7 +43,7 @@ span.Textual{
     background-color: yellow;
     font-size: 5px!important;
     }
-}
+
 .term {
 	background-color: coral;
 	font-weight:900;
