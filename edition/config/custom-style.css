@@ -20,25 +20,20 @@
 
 /* ***************************************************************** */
 
-	evt_note.contextual{
+evt_note.contextual{
     background-color: green; 
     font-size: 5px!important;
 }
 
-evt_note.note[data-type="etymological]{
+evt_note.Etymological{
     background-color: orange;
     font-size: 5px!important;
     }
-
-span.Etymological{
-    background-color: orange;
-    font-size: 5px!important;
-    }
-span.intertextual{
+evt_note.intertextual{
     background-color: grey;
     font-size: 5px!important;
     }
-span.Textual{
+evt_note.Textual{
     background-color: yellow;
     font-size: 5px!important;
     }
