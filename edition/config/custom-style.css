@@ -20,20 +20,20 @@
 
 /* ***************************************************************** */
 
-evt_note.contextual{
+span.contextual{
     background-color: green; 
     font-size: 5px!important;
 }
 
-evt_note.Etymological{
+span.etymological{
     background-color: orange;
     font-size: 5px!important;
     }
-evt_note.intertextual{
+span.intertextual{
     background-color: grey;
     font-size: 5px!important;
     }
-evt_note.Textual{
+span.textual{
     background-color: yellow;
     font-size: 5px!important;
     }
