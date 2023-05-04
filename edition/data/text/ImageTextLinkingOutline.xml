@@ -43,7 +43,16 @@ Digital Store.</note></head>
 
 
                 <l n="4">LONDON, Printed by <name rend="italic">I. Raworth</name>, for <name
-                        rend="italic">R. Whitaker.</name> 1640.</l>
+                        rend="italic">R. Whitaker.</name><note type="contextual">John Raworth was a
+                        printer in London between 1638 and 1645. He printed this play for Thomas
+                        Whitaker, a bookseller in London who, in partnership with Richard Whitaker,
+                        “had an extensive business, and published much of the best literature of the
+                        period,” according to <name rend="italic">A Dictionary of the Booksellers
+                            and Printers who Were at Work in England, Scotland and Ireland from 1641
+                            to 1667.</name> They also printed another of the plays produced by James
+                        Shirley during his time in Dublin: <name rend="italic">St. Patrick of
+                            Ireland.</name>
+                    </note> 1640.</l>
           
             <pb n="III" xml:id="TCMp3.jpg" facs="data/images/single/TCMp3.jpg"/>
              <div type="characterlist">
@@ -65,10 +74,17 @@ Digital Store.</note></head>
                 <l n="13">Masquers.</l>
                 <l n="14">Officers.</l>
                 <l n="15">Other Servants and Attendants.</l>
-                <l n="16">Bellamy, <hi rend="italic">a Widdow.</hi></l>
+                <l n="16">Bellamy, <hi rend="italic">a Widdow<note type="contextual">Although
+                            Bellamy and Frances are two main characters in this play, they appear at
+                            the end of the list because it was common at the time to give the male
+                            roles first, followed by the female ones.</note>.</hi></l>
                 <l n="17">Frances, <hi rend="italic">her Daughter.</hi></l>
                 <l n="18">Nurse, <hi rend="italic">their Servant.</hi></l>
-                <l n="19">Neece <hi rend="italic">to</hi> Hornet.</l>
+                <l n="19">Neece <hi rend="italic">to</hi> Hornet<note type="textual">She is also one
+                        of the characters that in Act IV, Scene III performs a masque. The other
+                        characters in the masque are Paris, represented by Playfaire; and Juno,
+                        Pallas, Venus, Cupid, King and Soldier, who we do not know by whom they are
+                        played.</note>.</l>
 
                 <fw place="top-center" type="footer"><hi rend="italic">The Scene,</hi> London.</fw>
                
@@ -86,7 +102,7 @@ Digital Store.</note></head>
             
                             <sp>
                                 <speaker>Hartwell</speaker>
-				    <l n="1">Nay let’s not part so<note type="textual">BOOOOO</note> heavily.</l>
+				    <l n="1">Nay let’s not part so heavily.</l>
                             </sp>
                             
                             <sp>
