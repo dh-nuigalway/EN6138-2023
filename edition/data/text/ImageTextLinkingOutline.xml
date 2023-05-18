@@ -1177,7 +1177,7 @@ Digital Store.</note></head>
                     <l n="34">Turn'd Cold againe? This love will kill us all:</l>
                     <l n="35">And can she make no choyce, but where her daughter</l>
                     <l n="36">Has the same longing? not her dancing dayes</l>
-                    <l n="37">Done yet?<note type="etymological"><term>not her dancing dayes done.</term>Morris Palmer Tilly records the proverb “My dancing days are done” in <name rend="italic">A dictionary of the proverbs in England in the sixteenth and seventeenth centuries<name/>. This expression was used by playwrights of this period to refer to youth. Capulet says a similar expression in Shakespeare’s <name rend="italic">Romeo and Juliet</name>: “for you and I are past our dancing days”. </note> why there's no remedy, you must love her.</l>
+                    <l n="37">Done yet?<note type="etymological"><term>not her dancing dayes done.</term>Morris Palmer Tilly records the proverb “My dancing days are done” in <name rend="italic">A dictionary of the proverbs in England in the sixteenth and seventeenth centuries</name>. This expression was used by playwrights of this period to refer to youth. Capulet says a similar expression in Shakespeare’s <name rend="italic">Romeo and Juliet</name>: “for you and I are past our dancing days”. </note> why there's no remedy, you must love her.</l>
                 </sp>
                 <sp>
                     <speaker>Hartwell</speaker>
@@ -1317,7 +1317,7 @@ Digital Store.</note></head>
 	<pb n="16" xml:id="TCMp19.jpg" facs="data/images/single/TCMp19.jpg"/>
              <fw place="top-center" type="head">ACT II. SCENE I.</fw>
                     <l n="101">I shall repent my aime, he broods upon<note type="etymological"><term>†broods upon.</term>To produce by brooding upon; to
-               breed. (Cf. Gen. i. 2.) <name rend="italic">Obsolete<name/>. (OED “brood”, v. 1b).</note></l>
+               breed. (Cf. Gen. i. 2.) <name rend="italic">Obsolete</name>. (OED “brood”, v. 1b).</note></l>
                     <l n="102">Her portion still; but I have a trick may spoile</l>
                     <l n="103">His hatching of young bags, thou shalt know all</l>
                     <l n="104">Hereafter; to the Widdow, <name rend="italic">Hartwell</name>, I am</l>
@@ -2319,7 +2319,7 @@ Digital Store.</note></head>
                       <l n="18">Why no worse than her sins, heaven forgive her,</l>
                    </sp>
 		</div>
-            </div>
+            <div>
             <pb n="28" xml:id="TCMp31.jpg" facs="data/images/single/TCMp31.jpg"/>
                  <fw place="top-center" type="head">ACT III. SCENE I.</fw>
                     <sp>
@@ -2797,7 +2797,7 @@ Digital Store.</note></head>
                   </sp>
                   
                   
-                  <stage type="entrance" place="center">Enter Servant 4 disguised as Pursevantnote
+                  <stage type="entrance" place="center">Enter Servant 4 disguised as Pursevant <note
                         type="etymological"><term>pursevant</term>Originally: a junior heraldic
                         officer attendant on a herald or nobleman. In later use: an officer of the
                         English, Scottish, or (formerly) Irish heraldic authority, ranking below a
@@ -4796,7 +4796,7 @@ Digital Store.</note></head>
 		<pb n="54" xml:id="TCMp57.jpg" facs="data/images/single/TCMp57.jpg"/>
 			        <fw place="top-center" type="head">ACT IV. SCENE III.</fw>
 
-                       <sp><l n="160">To see the Gally foist<note>According to the OED, a "galley-foist” is “a state barge, esp. that of the Lord Mayor of London” (OED n. 1). Hornet is probably alluding to the Lord Mayor’s Show, in which the lord mayor leads a procession to Westminster, originally on a barge. The vast majority of the quotations in the OED date from the 17th century, which signals that this celebration was very popular in this time period.<note/>, then be confined</l>
+                       <sp><l n="160">To see the Gally foist<note>According to the OED, a "galley-foist” is “a state barge, esp. that of the Lord Mayor of London” (OED n. 1). Hornet is probably alluding to the Lord Mayor’s Show, in which the lord mayor leads a procession to Westminster, originally on a barge. The vast majority of the quotations in the OED date from the 17th century, which signals that this celebration was very popular in this time period.</note>, then be confined</l>
                         <l n="161">To their Chamber, and one Prentice—yet agen.</l>
 			       <stage type="business" place="right">Knocking from within.</stage>
                     </sp>
@@ -6283,7 +6283,7 @@ Digital Store.</note></head>
                         <fw place="top-center" type="head"><hi rend="italic">The Scene,</hi> London.</fw>
 			<fw place="bottom-center" type="footer">FINIS.</fw>
                 </div>
-            </div>
+            </div></div></div>
                 <pb n="Back" xml:id="TCMbackcover.jpg" facs="data/images/single/TCMbackcover.jpg"/>
         </body>
     </text>
